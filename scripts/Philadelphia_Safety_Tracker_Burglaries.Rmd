@@ -1,7 +1,7 @@
 ---
-title: "ABC13 Houston Neighborhood Safety Tracker"
+title: "6ABC Action News Philadelphia Neighborhood Safety Tracker"
 # author: "John Kelly"
-# date: "Updated `r format(Sys.time(), '%B %d, %Y')` by the ABC13 Data Team"
+# date: Sys.time()
 output: html_document
 ---
 
@@ -19,7 +19,7 @@ library(sf)
 ```
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the ABC13 Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_houston/raw/main/docs/header.png)
+![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the ABC13 Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_philadelphia/raw/main/docs/header.png)
 ```{css, echo=FALSE}
 
 h1.title {
@@ -341,7 +341,7 @@ houston_burglary_map <- leaflet(burglaries_beat, options = leafletOptions(zoomCo
   htmlwidgets::onRender("function(el, x) {
 L.control.zoom({ position: 'topright' }).addTo(this)
 }") %>%
-  setView(-95.45, 29.75, zoom = 10.5) %>% 
+  setView(-75.165, 39.9526, zoom = 10.5) %>% 
   addProviderTiles(provider = "CartoDB.Positron") %>%
   addPolygons(color = "white", 
               popup = burglarylabel,
