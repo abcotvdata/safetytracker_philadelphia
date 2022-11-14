@@ -2,46 +2,30 @@ library(tidyverse)
 library(sf)
 library(readxl)
 library(zoo)
+library(lubridate)
 
-philly_crime22 <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272022-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27") 
+# Just for redundant purposes
+# download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27",
+#              "phillycrime.csv")
 
-philly_crime21 <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272021-01-01%27%20AND%20dispatch_date_time%20%3C%20%272022-01-01%27")
+philly_crime <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27") %>%
+  janitor::clean_names() %>%
+  select(5:14,17,18)
 
-philly_crime20 <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272020-01-01%27%20AND%20dispatch_date_time%20%3C%20%272021-01-01%27")
+philly_crime <- philly_crime %>% unique
 
-philly_crime19 <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272020-01-01%27")
+# Create cleaned date, month, hour columns for tracker charts
+philly_crime$hour <- lubridate::hour(philly_crime$dispatch_date_time)
+philly_crime$year <- lubridate::year(philly_crime$dispatch_date_time)
+philly_crime$month <- lubridate::floor_date(as.Date(philly_crime$dispatch_date),"month")
+philly_crime$dispatch_date <- NULL
+philly_crime$dispatch_date_time <- NULL
+philly_crime$dispatch_time <- NULL
 
-#dckey is incident unique so we need to eliminate duplicates of that
-# DC_Key	DC Number	The unique identifier of the crime that consists of Year + District + Unique ID.
+### OPEN WORK
+### do class code case when
+### change from beat to district - probably most similar to oakland file
 
-murder_check <- philly_crime21 %>% select(-1:4) %>% filter(ucr_general=="100") %>% group_by(dc_key,location_block) %>% summarise(count=n())
-
-
-murders <- read_excel("~/Desktop/cartodb-query.xlsx",
-                      col_types = c("text", "text", "text",
-                                    "text", "text", "text", "text", "text",
-                                    "text", "text", "text", "numeric",
-                                    "numeric", "text", "numeric", "text",
-                                    "numeric", "numeric", "numeric",
-                                    "numeric")) %>% janitor::clean_names()
-
-
-
-### COMBINE 2019, 2020, 2021 and 2022 TO DATE INTO SINGLE FILE
-houston_crime <- bind_rows(houston_annual,houston_monthly)
-
-# REDUCE THE RECENT 30-DAY FILE JUST TO THE DATES THAT NOT ALREADY IN HPD RELEASED 22 TO DATE FILE
-houston_recent_new <- houston_recent_new %>% filter(as.Date(date)>max(as.Date(houston_crime$date)))
-
-# COMBINE ANNUAL + MONTHLY WITH TODAY'S RECENT/30DAY FILE
-houston_crime <- bind_rows(houston_crime,houston_recent_new)
-
-# FORMATTING FULL DATA FILE FOR USE IN TRACKERS
-
-# Create a year column
-houston_crime$year <- substr(houston_crime$date,1,4)
-# adds a month reference point for grouping for monthly trend figures
-houston_crime$month <- lubridate::floor_date(as.Date(houston_crime$date),"month")
 
 # Read in class-code table to classify offense types and categories
 classcodes <- readRDS("scripts/rds/classcodes.rds")
