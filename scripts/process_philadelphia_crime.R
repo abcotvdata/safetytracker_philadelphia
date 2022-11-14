@@ -3,9 +3,29 @@ library(sf)
 library(readxl)
 library(zoo)
 
-houston_annual <- readRDS("scripts/rds/houston_annual.rds")
-houston_monthly <- readRDS("scripts/rds/houston_monthly.rds")
-houston_recent_new <- readRDS("scripts/rds/houston_recent_new.rds")
+philly_crime22 <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272022-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27") 
+
+philly_crime21 <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272021-01-01%27%20AND%20dispatch_date_time%20%3C%20%272022-01-01%27")
+
+philly_crime20 <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272020-01-01%27%20AND%20dispatch_date_time%20%3C%20%272021-01-01%27")
+
+philly_crime19 <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272020-01-01%27")
+
+#dckey is incident unique so we need to eliminate duplicates of that
+# DC_Key	DC Number	The unique identifier of the crime that consists of Year + District + Unique ID.
+
+murder_check <- philly_crime21 %>% select(-1:4) %>% filter(ucr_general=="100") %>% group_by(dc_key,location_block) %>% summarise(count=n())
+
+
+murders <- read_excel("~/Desktop/cartodb-query.xlsx",
+                      col_types = c("text", "text", "text",
+                                    "text", "text", "text", "text", "text",
+                                    "text", "text", "text", "numeric",
+                                    "numeric", "text", "numeric", "text",
+                                    "numeric", "numeric", "numeric",
+                                    "numeric")) %>% janitor::clean_names()
+
+
 
 ### COMBINE 2019, 2020, 2021 and 2022 TO DATE INTO SINGLE FILE
 houston_crime <- bind_rows(houston_annual,houston_monthly)

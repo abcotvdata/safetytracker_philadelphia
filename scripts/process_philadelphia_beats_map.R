@@ -13,7 +13,7 @@ download.file("https://opendata.arcgis.com/datasets/62ec63afb8824a15953399b1fa81
 
 # Read in geojson and then transform to sf format
 # we will use analysis neighborhoods if the crime data comes cleanly that way
-beats <- st_read("data/source/geo/philadelphia_police_districts.geojson") %>% st_transform(3857)
+districts <- st_read("data/source/geo/philadelphia_police_districts.geojson") %>% st_transform(3857)
 # beats <- st_read("data/source/sf/geo/sf_police_analysisneighborhoods.geojson") %>% st_transform(3857)
 
 
@@ -34,26 +34,32 @@ blocks <- get_decennial(geography = "block",
 
 # Calculate the estimated population of beat geographies/interpolate with tidycensus bgs
 # Reminder: ext=true SUMS the population during interpolation
-beats_withpop <- st_interpolate_aw(blocks, beats, ext = TRUE)
+districts_withpop <- st_interpolate_aw(blocks, districts, ext = TRUE)
 # Drops geometry so it's not duplicated in the merge
-beats_withpop <- st_drop_geometry(beats_withpop)
+districts_withpop <- st_drop_geometry(districts_withpop)
 # Binds that new population column to the table
-beats <- cbind(beats,beats_withpop)
+districts <- cbind(districts,districts_withpop)
 # Cleans up unneeded calculation file
-rm(beats_withpop, blocks)
+rm(districts_withpop, blocks)
 
 # Check total population assigned/estimated across all beats
 # sum(beats$population) 
 
 # Round the population figure; rounded to nearest thousand
-beats$population <- round(beats$population,-3)
+districts$population <- round(districts$population,-3)
 
-beats <- beats %>% st_transform(4326)
-beats <- st_make_valid(beats)
+districts <- districts %>% select(8,15,16)
+districts <- districts %>% rename("district"="DIST_NUMC")
+
+districts <- districts %>% st_transform(4326)
+districts <- st_make_valid(districts)
+
+
 
 # saving a clean geojson and separate RDS for use in tracker
-st_write(beats,"data/source/geo/beats.geojson")
-saveRDS(beats,"scripts/rds/beats.rds")
+file.remove("data/source/geo/philly_districts.geojson")
+st_write(districts,"data/source/geo/philly_districts.geojson")
+saveRDS(districts,"scripts/rds/philly_districts.rds")
 # add line  below when uploading data for pages
 # beats <- st_read("data/source/geo/beats.geojson")
 
@@ -62,14 +68,15 @@ saveRDS(beats,"scripts/rds/beats.rds")
 # BARE PRECINCT MAP JUST FOR TESTING PURPOSES
 # CAN COMMENT OUT ONCE FINALIZED
 # Set bins for beats pop map
-popbins <- c(0,1000, 10000,25000,50000,100000, Inf)
-poppal <- colorBin("YlOrRd", beats$population, bins = popbins)
-poplabel <- paste(sep = "<br>", beats$district,prettyNum(beats$population, big.mark = ","))
+popbins <- c(0,40000,60000,80000,100000,150000, Inf)
+poppal <- colorBin("YlOrRd", districts$population, bins = popbins)
+poplabel <- paste(sep = "<br>", districts$district,prettyNum(districts$population, big.mark = ","))
 
-philadelphia_beats_map <- leaflet(beats) %>%
+philadelphia_beats_map <- leaflet(districts) %>%
   setView(-75.165, 39.9526, zoom = 10.5) %>% 
   addProviderTiles(provider = "Esri.WorldImagery") %>%
-  addPolygons(color = "white", popup = poplabel, weight = 1, smoothFactor = 0.5,
+  addProviderTiles(provider = "Stamen.TonerLabels") %>%
+  addPolygons(color = "white", popup = poplabel, weight = 2, smoothFactor = 0.5,
               opacity = 0.5, fillOpacity = 0.3,
               fillColor = ~poppal(`population`))
 philadelphia_beats_map
