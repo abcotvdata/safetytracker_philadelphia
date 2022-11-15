@@ -185,7 +185,7 @@ th {
 ```
 
 <br>
-<h2>ABC13 is tracking crime and safety across Philadelphia and in your neighborhood. 
+<h2>Action News is tracking crime and safety across Philadelphia and in your neighborhood. 
 
 You can choose which crime to explore: <select onchange="window.location=this.value">
 <option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker.html">Homicides</option>
