@@ -15,11 +15,10 @@ library(htmlwidgets)
 library(htmltools)
 library(sf)
 
-# rmarkdown::render('Houston_Safety_Tracker_2.Rmd', output_file = 'docs/Houston_Safety_Tracker_2.html')
 ```
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the ABC13 Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_philadelphia/raw/main/docs/header.png)
+![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the 6ABC Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_philadelphia/raw/main/docs/banner_placeholder.png)
 ```{css, echo=FALSE}
 
 h1.title {
@@ -184,25 +183,14 @@ th {
    }
 ```
 
-```{r beats, include=FALSE}
-# set value of houston_population
-houston_population <- 2304580
-```
-
-
-```{r crimedata, include=FALSE}
-# Source data pre-processed separately at process_houston_crime_combined.R
-```
-
-<h2>ABC13's data team is tracking crime and safety across Houston and in your neighborhood.<br>You can choose which crime to examine: <select onchange="window.location=this.value">
-<option value="https://abcotvdata.github.io/safetytracker_houston/Houston_Safety_Tracker_AutoThefts.html">Auto Thefts</option>
-<option value="https://abcotvdata.github.io/safetytracker_houston/Houston_Safety_Tracker_Assaults.html">Assaults</option>
-<option value="https://abcotvdata.github.io/safetytracker_houston/Houston_Safety_Tracker_Burglaries.html">Burglaries</option>
-<option value="https://abcotvdata.github.io/safetytracker_houston/Houston_Safety_Tracker_DrugCrimes.html">Drug Crimes</option>
-<option value="https://abcotvdata.github.io/safetytracker_houston/Houston_Safety_Tracker.html">Homicides</option>
-<option value="https://abcotvdata.github.io/safetytracker_houston/Houston_Safety_Tracker_Robberies.html">Robberies</option>
-<option value="https://abcotvdata.github.io/safetytracker_houston/Houston_Safety_Tracker_SexualAssaults.html">Sexual Assaults</option>
-<option value="https://abcotvdata.github.io/safetytracker_houston/Houston_Safety_Tracker_Thefts.html">Thefts</option>
+<h2>ABC13's data team is tracking crime and safety across Philadelphia and in your neighborhood.<br>You can choose which crime to examine: <select onchange="window.location=this.value">
+<option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker_AutoThefts.html">Vehicle Thefts</option>
+<option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker_Assaults.html">Assaults</option>
+<option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker_Burglaries.html">Burglaries</option>
+<option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker.html">Homicides</option>
+<option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker_Robberies.html">Robberies</option>
+<option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker_SexualAssaults.html">Sexual Assaults</option>
+<option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker_Thefts.html">Thefts</option>
 </select></h2>
 
 <div class="cardContainer">
@@ -232,9 +220,9 @@ Auto thefts over the last 12 months are <h8>`r ifelse(autothefts_city$inc_prior3
 
 The city averaged <h8>`r round(autothefts_city$last12mos/52,0)`</h8> stolen vehicles a week over the last 12 months. In 2019, that number was <h8>`r round(autothefts_city$total19/52,0)`</h8> a week.
 
-<subhead>A closer look at Houston auto thefts by neighborhood</subhead>
+<subhead>A closer look at Philadelphia auto thefts by neighborhood</subhead>
 
-The risk is not the same neighborhood to neighborhood. ABC13's data team looked at the Houston Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
+The risk is not the same neighborhood to neighborhood. ABC13's data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
 
 The map color-codes each neighborhood by the auto theft rate over the last 12 months. The three darker blues represent neighborhoods with auto theft rates that are higher than the citywide rate. You can also click the box in the bottom right corner to see neighborhoods by the number of vehicles stolen.
 
@@ -260,23 +248,25 @@ autotheftpal1 <- colorBin(c("#99a0a5",
                              "#2787d6",
                              "#0058f6",
                              "#003ca6",
-                             "#00215c"), autothefts_beat$rate_last12, bins = autotheftbins1,na.color = "#51585f")
+                             "#00215c"), autothefts_district$rate_last12, bins = autotheftbins1,na.color = "#51585f")
 
 autotheftpal2 <- colorBin(c("#99a0a5",
                              "#2787d6",
                              "#0058f6",
                              "#003ca6",
-                             "#00215c"), autothefts_beat$last12mos, bins = autotheftbins2,na.color = "#51585f")
+                             "#00215c"), autothefts_district$last12mos, bins = autotheftbins2,na.color = "#51585f")
 
 # Create quick labels for autothefts map
 autotheftlabel <- paste(sep="",
                      "<popuptitle>",
-                     autothefts_beat$last12mos,
-                     " auto thefts </popuptitle><br>",
-                     " in the last 12 months in the area including <b>",
-                     autothefts_beat$placename,
-                     "</b>, home to an estimated ",
-                     prettyNum(autothefts_beat$population, big.mark=","),
+                     autothefts_district$last12mos,
+                     " vehicle thefts </popuptitle><br>",
+                     " in the last 12 months in Police District <b>",
+                     autothefts_district$district,
+                     "</b>, which includes the <b>",
+                     autothefts_district$placename,
+                     "</b>areas, home to an estimated ",
+                     prettyNum(autothefts_district$population, big.mark=","),
                      " people.
 <br>
 <table>      
@@ -288,52 +278,52 @@ autotheftlabel <- paste(sep="",
 			<tr>
 				<td>2019</td>
 				<td>",
-autothefts_beat$total19,
+autothefts_district$total19,
 "</td>
 				<td>",
-prettyNum(round(autothefts_beat$rate19,0),big.mark =","),
+prettyNum(round(autothefts_district$rate19,0),big.mark =","),
 "</td>
 			</tr>
 			<tr>
 				<td>2020</td>
 				<td>",
-autothefts_beat$total20,
+autothefts_district$total20,
 "</td>
 				<td>",
-prettyNum(round(autothefts_beat$rate20,0),big.mark =","),
+prettyNum(round(autothefts_district$rate20,0),big.mark =","),
 "</td>
 			</tr>
 						<tr>
 				<td>2021</td>
 				<td>",
-autothefts_beat$total21,
+autothefts_district$total21,
 "</td>
 				<td>",
-prettyNum(round(autothefts_beat$rate21,0),big.mark =","),
+prettyNum(round(autothefts_district$rate21,0),big.mark =","),
 "</td>
 			</tr>
 						<tr>
 				<td>Last 12 months</td>
 				<td>",
-autothefts_beat$last12mos,
+autothefts_district$last12mos,
 "</td>
 				<td>",
-prettyNum(round(autothefts_beat$rate_last12,0),big.mark =","),
+prettyNum(round(autothefts_district$rate_last12,0),big.mark =","),
 "</td>
 			</tr>
 						<tr>
 				<td>3-year Average</td>
 				<td>",
-round(autothefts_beat$avg_prior3years,0),
+round(autothefts_district$avg_prior3years,0),
 "</td>
 				<td>",
-prettyNum(round(autothefts_beat$rate_prior3years,0),big.mark =","),
+prettyNum(round(autothefts_district$rate_prior3years,0),big.mark =","),
 "</td>
 			</tr>
 </table>")
 
-# Creating police beats map for types of crimes
-houston_autotheft_map <- leaflet(autothefts_beat, options = leafletOptions(zoomControl = FALSE, zoomSnap = 0.5, zoomDelta=0.5)) %>%
+# Creating police districts map for types of crimes
+philadelphia_autotheft_map <- leaflet(autothefts_district, options = leafletOptions(zoomControl = FALSE, zoomSnap = 0.5, zoomDelta=0.5)) %>%
   htmlwidgets::onRender("function(el, x) {
 L.control.zoom({ position: 'topright' }).addTo(this)
 }") %>%
@@ -364,14 +354,14 @@ L.control.zoom({ position: 'topright' }).addTo(this)
         $('input.search-input')[0].placeholder = 'Search street, place or zip code'
         }") %>%
   addLegend(opacity = 0.6,
-            values = autothefts_beat$rate_last12, 
+            values = autothefts_district$rate_last12, 
             pal = autotheftpal1,
             position = "bottomleft", 
             title = paste(sep="","<popuptitle>Auto Theft Rate<br><popupchatter>Auto Thefts/100K people<br>Citywide: ",prettyNum(round(autothefts_city$rate_last12,0), big.mark=",")),
             group = "Rate",
             className = "info legend Rate") %>%
   addLegend(opacity = 0.6,
-            values = autothefts_beat$last12mos, 
+            values = autothefts_district$last12mos, 
             pal = autotheftpal2,
             position = "bottomleft", 
             title = paste(sep="","<popuptitle>Auto Thefts<br><popupchatter>Total auto thefts<br>Citywide: ",prettyNum(round(autothefts_city$last12mos,0), big.mark=",")),
@@ -395,20 +385,15 @@ L.control.zoom({ position: 'topright' }).addTo(this)
          this.on('baselayerchange', el => updateLegend());
       }"
    )
-houston_autotheft_map
+philadelphia_autotheft_map
 ```
 <br>
 <br>
-<!-- <subhead>Auto thefts month by month, 2019 through last month</subhead> -->
-
-<iframe title="Auto thefts month by month, 2019 through last month" aria-label="Column Chart" id="datawrapper-chart-ARgCh" src="https://datawrapper.dwcdn.net/ARgCh/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-  <br>
-<br>
-<!-- <subhead>Risk of being autothefted in Houston vs. other causes of death in Texas</subhead> -->
-
-<iframe title="Risk of property crimes across Houston" aria-label="Dot Plot" id="datawrapper-chart-HVqY5" src="https://datawrapper.dwcdn.net/HVqY5/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="178" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+<!-- <subhead>Auto thefts year by year, 2019 through last month</subhead> -->
+<iframe title="Vehicle thefts year by year in Oakland" aria-label="Column Chart" id="datawrapper-chart-s6QNG" src="https://datawrapper.dwcdn.net/s6QNG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 <br>
 <br>
-<!-- Will be adding additional contextual charting around this crime category -->
+<!-- <subhead>Risk of property crime in major cities</subhead> -->
+<iframe title="2021 property crime rate comparison in select major cities" aria-label="Bar Chart" id="datawrapper-chart-Xfwng" src="https://datawrapper.dwcdn.net/Xfwng/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<br>
+<br>
