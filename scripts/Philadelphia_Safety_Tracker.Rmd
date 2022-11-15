@@ -253,16 +253,16 @@ You can click any neighborhood to see detailed numbers or the buttons at the bot
 
 # Set bins for numbers of crimes for murders map
 murderbins1 <- c(0,
-                10,
                 20,
-                30,
-                40,
+                35,
+                50,
+                75,
                 100)
 murderbins2 <- c(0,
-                1,
-                3,
-                5,
                 10,
+                25,
+                50,
+                75,
                 100)
 murderpal1 <- colorBin(c("#99a0a5",
                              "#2787d6",
