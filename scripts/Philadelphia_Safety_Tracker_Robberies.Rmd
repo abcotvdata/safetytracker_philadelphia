@@ -223,7 +223,7 @@ The city averaged <h8>`r round(robberies_city$last12mos/52,0)`</h8> robberies a 
 
 <subhead>A closer look at Philadelphia robberies neighborhood by neighborhood</subhead>
 
-The risk is not the same neighborhood to neighborhood. ABC13's data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
+The risk is not the same neighborhood to neighborhood. Action News' data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
 
 The map color-codes each neighborhood by the robbery rate over the last 12 months. The three darker blues represent neighborhoods with robbery rates that are higher than the citywide rate. You can also click the box in the bottom right corner to see neighborhoods by the number of robberies.
 
@@ -392,8 +392,8 @@ philadelphia_robbery_map
 ```
 <br>
 <br>
-<!-- <subhead>Robberies year by year, 2019 through last month</subhead> -->
-<iframe title="Robberies year by year in Oakland" aria-label="Column Chart" id="datawrapper-chart-NNor8" src="https://datawrapper.dwcdn.net/NNor8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Philadelphia robberies month by month since 2019" aria-label="Column Chart" id="datawrapper-chart-vPmUl" src="https://datawrapper.dwcdn.net/vPmUl/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 <br>
 <br>
 <!-- <subhead>Violent crime rate comparisons </subhead> -->

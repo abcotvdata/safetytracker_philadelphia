@@ -233,13 +233,13 @@ During the pandemic, a person's chance of being murdered in Philadelphia rose ab
 <br>
 <!-- <subhead>Risk of being murdered in Philadelphia vs. other causes of death in Harris County</subhead> -->
 
-<iframe title="Risk of homicide in Philadelphia vs. other causes of death" aria-label="Dot Plot" id="datawrapper-chart-kjiot" src="https://datawrapper.dwcdn.net/kjiot/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Risk of homicide in Philadelphia vs. other causes of death" aria-label="Bar Chart" id="datawrapper-chart-r50Al" src="https://datawrapper.dwcdn.net/r50Al/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="402" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 
 The risk is not the same neighborhood to neighborhood.
 
-ABC13's data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
+Action News' data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
 
 <subhead>A closer look at Philadelphia homicides by neighborhood</subhead>
 
@@ -411,9 +411,8 @@ philadelphia_murder_map
 ```
 <br>
 <br>
-<!-- <subhead>Homicides yearly, 2018 through last 12 mos</subhead> -->
-
-<iframe title="Homicides year by year in Oakland" aria-label="Column Chart" id="datawrapper-chart-4xJii" src="https://datawrapper.dwcdn.net/4xJii/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Homicides in Philadelphia month by month since 2019" aria-label="Column Chart" id="datawrapper-chart-TDe61" src="https://datawrapper.dwcdn.net/TDe61/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 <br>
 <br>
 <!-- <subhead> comparison to other cities chart </subhead> -->

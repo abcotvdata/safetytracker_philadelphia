@@ -224,7 +224,7 @@ The city averaged <h8>`r prettyNum(round(thefts_city$last12mos/52,0), big.mark="
 
 <subhead>Philadelphia thefts neighborhood by neighborhood</subhead>
 
-The risk is not the same neighborhood to neighborhood. ABC13's data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
+The risk is not the same neighborhood to neighborhood. Action News' data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
 
 The map color-codes each neighborhood by the theft rate over the last 12 months. The three darker blues represent neighborhoods with theft rates that are higher than the citywide rate. You can also click the box in the bottom right corner to see neighborhoods by the number of thefts.
 
@@ -397,8 +397,8 @@ philadelphia_theft_map
 ```
 <br>
 <br>
-<!-- <subhead>Thefts month by month, 2019 to present</subhead> -->
-<iframe title="Larceny thefts year by year in Oakland" aria-label="Column Chart" id="datawrapper-chart-alK7U" src="https://datawrapper.dwcdn.net/alK7U/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Philadelphia thefts month by month since 2019" aria-label="Column Chart" id="datawrapper-chart-7UxVV" src="https://datawrapper.dwcdn.net/7UxVV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 <br>
 <br>
 <!-- <subhead>Risk of property crime in major cities</subhead> -->
