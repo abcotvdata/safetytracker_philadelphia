@@ -394,7 +394,8 @@ philadelphia_assault_map
 <br>
 <br>
 <!-- <subhead>Assaults month by month, 2019 through last month</subhead> -->
-<iframe title="Aggravated assaults year by year in Oakland" aria-label="Column Chart" id="datawrapper-chart-0CHmp" src="https://datawrapper.dwcdn.net/0CHmp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Aggravated assaults in Philadelphia by month since 2019" aria-label="Column Chart" id="datawrapper-chart-RvEDj" src="https://datawrapper.dwcdn.net/RvEDj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 <!-- <subhead>Risk of assault and other violent crimes in Oakland </subhead> -->
 <br>
 <br>

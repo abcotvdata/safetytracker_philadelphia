@@ -394,8 +394,8 @@ philadelphia_sexassault_map
 <br>
 <br>
 <!-- <subhead>Sexual assaults month by month, 2019 through last month</subhead> -->
-
-<iframe title="Sexual Assaults year by year in Oakland" aria-label="Column Chart" id="datawrapper-chart-vXjvY" src="https://datawrapper.dwcdn.net/vXjvY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Sexual assaults in Philadelphia by month since 2019" aria-label="Column Chart" id="datawrapper-chart-WuN3x" src="https://datawrapper.dwcdn.net/WuN3x/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 <br>
 <br>
 <!-- <subhead>Violent crime rate comparisons </subhead> -->
