@@ -107,6 +107,14 @@ citywide_detailed_monthly$rollavg_3month <- round(citywide_detailed_monthly$roll
 # write to save for charts for detailed monthly
 write_csv(citywide_detailed_monthly,"data/output/monthly/citywide_detailed_monthly.csv")
 
+# write to save for charts for special request BURGLARY detailed monthly
+burglary_detailed_monthly <- citywide_detailed_monthly %>% 
+  filter(category=="Burglary") %>% select(2:4)
+burglary_detailed_monthly <- burglary_detailed_monthly %>%
+  pivot_wider(names_from = description, values_from = count)
+# write to save for charts for special request BURGLARY detailed monthly
+write_csv(burglary_detailed_monthly,"data/output/monthly/burglary_detailed_monthly.csv")
+
 # Calculate of each category of offense CITYWIDE
 citywide_category <- philly_crime %>%
   group_by(category,year) %>%
