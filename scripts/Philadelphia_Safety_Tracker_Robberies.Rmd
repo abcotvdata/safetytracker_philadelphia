@@ -223,7 +223,7 @@ The city averaged <h8>`r round(robberies_city$last12mos/52,0)`</h8> robberies a 
 
 <subhead>A closer look at Philadelphia robberies neighborhood by neighborhood</subhead>
 
-The risk is not the same neighborhood to neighborhood. Action News' data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
+The risk is not the same neighborhood to neighborhood. Action News' data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d, %Y")`.
 
 The map color-codes each neighborhood by the robbery rate over the last 12 months. The three darker blues represent neighborhoods with robbery rates that are higher than the citywide rate. You can also click the box in the bottom right corner to see neighborhoods by the number of robberies.
 

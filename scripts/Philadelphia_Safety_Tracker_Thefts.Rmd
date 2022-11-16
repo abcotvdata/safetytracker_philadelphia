@@ -224,7 +224,7 @@ The city averaged <h8>`r prettyNum(round(thefts_city$last12mos/52,0), big.mark="
 
 <subhead>Philadelphia thefts neighborhood by neighborhood</subhead>
 
-The risk is not the same neighborhood to neighborhood. Action News' data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
+The risk is not the same neighborhood to neighborhood. Action News' data team looked at the Philadelphia Police Department's data by neighborhood from 2019 through `r format(asofdate, "%B %d, %Y")`.
 
 The map color-codes each neighborhood by the theft rate over the last 12 months. The three darker blues represent neighborhoods with theft rates that are higher than the citywide rate. You can also click the box in the bottom right corner to see neighborhoods by the number of thefts.
 
@@ -332,10 +332,6 @@ L.control.zoom({ position: 'topright' }).addTo(this)
 }") %>%
   setView(-75.165, 39.9526, zoom = 10.5) %>% 
   addProviderTiles(provider = "CartoDB.Positron") %>%
-  setMaxBounds( lng1 = -93
-                 , lat1 = 27
-                 , lng2 = -97
-                 , lat2 = 31) %>%
   addPolygons(color = "white", 
               popup = theftlabel,
               popupOptions = popupOptions(maxWidth ="200", 

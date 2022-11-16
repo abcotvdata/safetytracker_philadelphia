@@ -224,7 +224,7 @@ The city averaged <h8>`r round(sexassaults_city$last12mos/52,0)`</h8> sexual ass
 
 <subhead>A closer look at Philadelphia sexual assaults neighborhood by neighborhood</subhead>
 
-The danger is not the same neighborhood to neighborhood. Action News' data team looked at the Philadelphia Police Department's public data about sexual assault reports by neighborhood from 2019 through `r format(asofdate, "%B %d")`.
+The danger is not the same neighborhood to neighborhood. Action News' data team looked at the Philadelphia Police Department's public data about sexual assault reports by neighborhood from 2019 through `r format(asofdate, "%B %d, %Y")`.
 
 The map color-codes each neighborhood by the sexual assault rate over the last 12 months. The three darker blue areas are neighborhoods with sexual assault rates higher than the citywide rate. You can also choose to see neighborhoods by the number of reported sexual assaults.
 
