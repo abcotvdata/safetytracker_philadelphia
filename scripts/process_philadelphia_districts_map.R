@@ -54,16 +54,12 @@ districts <- districts %>% rename("district"="DIST_NUMC")
 districts <- districts %>% st_transform(4326)
 districts <- st_make_valid(districts)
 
-
-
 # saving a clean geojson and separate RDS for use in tracker
 file.remove("data/source/geo/philly_districts.geojson")
 st_write(districts,"data/source/geo/philly_districts.geojson")
 saveRDS(districts,"scripts/rds/philly_districts.rds")
 # add line  below when uploading data for pages
 # beats <- st_read("data/source/geo/beats.geojson")
-
-
 
 # BARE PRECINCT MAP JUST FOR TESTING PURPOSES
 # CAN COMMENT OUT ONCE FINALIZED
@@ -72,11 +68,11 @@ popbins <- c(0,40000,60000,80000,100000,150000, Inf)
 poppal <- colorBin("YlOrRd", districts$population, bins = popbins)
 poplabel <- paste(sep = "<br>", districts$district,prettyNum(districts$population, big.mark = ","))
 
-philadelphia_beats_map <- leaflet(districts) %>%
+philadelphia_districts_map <- leaflet(districts) %>%
   setView(-75.165, 39.9526, zoom = 10.5) %>% 
   addProviderTiles(provider = "Esri.WorldImagery") %>%
   addProviderTiles(provider = "Stamen.TonerLabels") %>%
   addPolygons(color = "white", popup = poplabel, weight = 2, smoothFactor = 0.5,
               opacity = 0.5, fillOpacity = 0.3,
               fillColor = ~poppal(`population`))
-philadelphia_beats_map
+philadelphia_districts_map

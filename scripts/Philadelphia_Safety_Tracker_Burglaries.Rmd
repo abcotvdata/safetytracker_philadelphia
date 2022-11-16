@@ -197,24 +197,24 @@ th {
 
 <div class="cardContainer">
 <div class="card" style="background-color:#99a0a5;">
-<p>Burglaries<br>
+<p>Burglaries<br>Last 12 months<br>
 <bignumber>`r prettyNum(burglaries_city$last12mos, big.mark=",")`<br></bignumber>
-<p>Last 12 months<br>Through  `r format(asofdate, "%B %d")`</p>
+<p>Through  `r format(asofdate, "%B %d")`</p>
 </div>
 <div class="card" style="background-color:#99a0a5;">
-<p>Average Burglaries<br>
+<p>Average Burglaries<br>2019 to 2021<br>
 <bignumber>`r prettyNum(round(burglaries_city$avg_prior3years,0), big.mark=",")`<br></bignumber><p>
-Yearly average<br>2019 to 2021</p>
+Yearly average</p>
 </div>
 <div class="card" style="background-color:#99a0a5;">
-<p>Burglary Rate<br>
+<p>Burglary Rate<br>Last 12 months<br>
 <bignumber>`r round(burglaries_city$rate_last12,0)`<br></bignumber><p>
-Per 100,000 people<br>Last 12 months</p>
+Per 100,000 people</p>
 </div>
 <div class="card" style="background-color:#99a0a5;">
-<p>Average Burglary Rate<br>
+<p>Average Burglary Rate<br>2019 to 2021<br>
 <bignumber>`r round(burglaries_city$rate_prior3years,0)`<br></bignumber><p>
-Per 100,000 people<br>2019 to 2021</p>
+Per 100,000 people</p>
 </div>
 </div>
 <br>
