@@ -242,18 +242,18 @@ theftbins1 <- c(0,
                 7500,
                 20000)
 theftbins2 <- c(0,
-                200,
                 500,
                 1000,
-                1500,
-                2500)
-theftpal1 <- colorBin(c("#99a0a5",
+                2000,
+                3000,
+                3600)
+theftpal1 <- colorBin(c("#aecfe6",
                              "#2787d6",
                              "#0058f6",
                              "#003ca6",
                              "#00215c"), thefts_district$rate_last12, bins = theftbins1,na.color = "#51585f")
 
-theftpal2 <- colorBin(c("#99a0a5",
+theftpal2 <- colorBin(c("#aecfe6",
                              "#2787d6",
                              "#0058f6",
                              "#003ca6",
