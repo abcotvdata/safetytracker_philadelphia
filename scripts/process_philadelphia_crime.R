@@ -109,9 +109,11 @@ write_csv(citywide_detailed_monthly,"data/output/monthly/citywide_detailed_month
 
 # write to save for charts for special request BURGLARY detailed monthly
 burglary_detailed_monthly <- citywide_detailed_monthly %>% 
+  ungroup %>%
   filter(category=="Burglary") %>% select(2:4)
 burglary_detailed_monthly <- burglary_detailed_monthly %>%
   pivot_wider(names_from = description, values_from = count)
+
 # write to save for charts for special request BURGLARY detailed monthly
 write_csv(burglary_detailed_monthly,"data/output/monthly/burglary_detailed_monthly.csv")
 
