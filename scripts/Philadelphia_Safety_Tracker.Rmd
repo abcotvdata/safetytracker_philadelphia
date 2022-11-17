@@ -184,10 +184,8 @@ th {
    }
 ```
 
-<br>
 <h2>Action News is tracking crime and safety across Philadelphia and in your neighborhood. 
-
-You can choose which crime to explore: <select onchange="window.location=this.value">
+<br>You can choose which crime to explore: <select onchange="window.location=this.value">
 <option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker.html">Homicides</option>
 <option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker_Assaults.html">Assaults</option>
 <option value="https://abcotvdata.github.io/safetytracker_philadelphia/Philadelphia_Safety_Tracker_AutoThefts.html">Vehicle Thefts</option>
