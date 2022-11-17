@@ -269,7 +269,7 @@ burglarylabel <- paste(sep="",
                      burglaries_district$district,
                      "</b>, which includes the <b>",
                      burglaries_district$placename,
-                     "</b>areas, home to an estimated ",
+                     "</b> areas, home to an estimated ",
                      prettyNum(burglaries_district$population, big.mark=","),
                      " people.
 <br>

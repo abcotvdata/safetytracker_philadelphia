@@ -286,7 +286,7 @@ murderlabel <- paste(sep="",
                      murders_district$district,
                      "</b>, which includes the <b>",
                      murders_district$placename,
-                     "</b>areas, home to an estimated ",
+                     "</b> areas, home to an estimated ",
                      prettyNum(murders_district$population, big.mark=","),
                      " people.
 <br>

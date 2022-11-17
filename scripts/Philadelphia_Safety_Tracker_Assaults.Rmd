@@ -269,7 +269,7 @@ assaultlabel <- paste(sep="",
                      assaults_district$district,
                      "</b>, which includes the <b>",
                      assaults_district$placename,
-                     "</b>areas, home to an estimated ",
+                     "</b> areas, home to an estimated ",
                      prettyNum(assaults_district$population, big.mark=","),
                      " people.
 <br>

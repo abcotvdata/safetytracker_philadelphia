@@ -5,10 +5,9 @@ library(zoo)
 library(lubridate)
 
 # Just for redundant purposes
-# download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27",
-#              "phillycrime.csv")
+# download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27","phillycrime.csv")
 
-philly_crime <- read_csv("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27") %>%
+philly_crime <- read_csv("data/source/phillycrime.csv") %>%
   janitor::clean_names() %>%
   select(5:14,17,18)
 
@@ -23,9 +22,6 @@ philly_crime$date <- philly_crime$dispatch_date
 philly_crime$dispatch_date <- NULL
 philly_crime$dispatch_date_time <- NULL
 philly_crime$dispatch_time <- NULL
-
-### OPEN WORK
-### do class code case when
 
 philly_crime$category <- case_when(philly_crime$ucr_general == "100" ~ "Murder",
                                    philly_crime$ucr_general == "200" ~ "Sexual Assault",
@@ -44,11 +40,9 @@ philly_crime$type <- case_when(philly_crime$ucr_general == "100" ~ "Violent",
                                    philly_crime$ucr_general == "700" ~ "Property",
                                    TRUE ~ "Other")
 
-
 # create separate table of crimes from the last full 12 months
 philly_crime_last12 <- philly_crime %>% filter(philly_crime$date > max(philly_crime$date)-365)
   
-
 ### CITYWIDE CRIME 
 ### TOTALS AND OUTPUT
 

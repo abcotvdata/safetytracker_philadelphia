@@ -266,7 +266,7 @@ autotheftlabel <- paste(sep="",
                      autothefts_district$district,
                      "</b>, which includes the <b>",
                      autothefts_district$placename,
-                     "</b>areas, home to an estimated ",
+                     "</b> areas, home to an estimated ",
                      prettyNum(autothefts_district$population, big.mark=","),
                      " people.
 <br>
