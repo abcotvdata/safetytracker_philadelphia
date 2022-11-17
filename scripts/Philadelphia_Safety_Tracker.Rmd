@@ -347,7 +347,7 @@ philadelphia_murder_map <- leaflet(murders_district, options = leafletOptions(zo
   htmlwidgets::onRender("function(el, x) {
 L.control.zoom({ position: 'topright' }).addTo(this)
 }") %>%
-  setView(-75.165, 39.9526, zoom = 12) %>% 
+  setView(-75.165, 39.9526, zoom = 11.5) %>% 
   addProviderTiles(provider = "CartoDB.Positron") %>%
   addPolygons(color = "white", 
               popup = murderlabel,
