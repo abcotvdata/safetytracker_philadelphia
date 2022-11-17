@@ -330,7 +330,7 @@ philadelphia_burglary_map <- leaflet(burglaries_district, options = leafletOptio
   htmlwidgets::onRender("function(el, x) {
 L.control.zoom({ position: 'topright' }).addTo(this)
 }") %>%
-  setView(-75.165, 39.9526, zoom = 10.5) %>% 
+  setView(-75.165, 39.9526, zoom = 12) %>% 
   addProviderTiles(provider = "CartoDB.Positron") %>%
   addPolygons(color = "white", 
               popup = burglarylabel,
