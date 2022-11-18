@@ -224,9 +224,12 @@ However, the murder rate over the last 12 months is<h8>`r ifelse(murders_city$in
 
 The city averaged <h8>`r round(murders_city$last12mos/52,0)`</h8> homicides a week over the last 12 months. In 2019, that number was <h8>`r round(murders_city$total19/52,0)`</h8> a week.
 
+Almost all of Philadelphia’s homicides are gun-related: Shootings made up 89% of Philly’s homicides last year and 91% of homicides so far this year. To learn more about who is most affected by gun violence in Philly, as well as solutions pioneered in your backyard, visit  [6abc.com/gunviolence](https://6abc.com/gunviolence/). There you’ll find in-depth analyses and interactive charts and maps displaying the latest trends, as well as stories from individuals affected by gun violence and comments from experts and public officials.
+
 One way to think about the danger: three years ago, the murder rate was <h8>`r murders_city$rate19`</h8> per 100,000 residents. That's more than twice the likelihood of dying in a vehicle crash in Pennsylvania.
 
 During the pandemic, a person's chance of being murdered in Philadelphia rose to more than three times the risk of a fatal traffic crash.
+
 <br>
 <br>
 <!-- <subhead>Risk of being murdered in Philadelphia vs. other causes of death in Harris County</subhead> -->

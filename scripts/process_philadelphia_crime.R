@@ -4,6 +4,10 @@ library(readxl)
 library(zoo)
 library(lubridate)
 
+# OPEN WORK IS FIGURING OUT HOW TO DIVIDE AND CONQUER THIS FILE DOWNLOAD
+# POSSIBLY BRINGING IN BY YEAR AND THEN BINDING TO BE SAFE
+# SO THAT EACH RELOAD IS JUST 2022 DATA
+
 # Just for redundant purposes
 # download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27","phillycrime.csv")
 
