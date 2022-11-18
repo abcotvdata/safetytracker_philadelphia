@@ -18,7 +18,7 @@ library(sf)
 ```
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the 6ABC Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_philadelphia/raw/main/docs/banner_6abc.jpg)
+![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the Action News Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_philadelphia/raw/main/docs/banner_6abc.jpg)
 ```{css, echo=FALSE}
 
 h1.title {
@@ -399,6 +399,10 @@ philadelphia_sexassault_map
 <br>
 <!-- <subhead>Violent crime rate comparisons </subhead> -->
 <iframe title="2021 violent crime rate comparison in select major cities (Copy)" aria-label="Bar Chart" id="datawrapper-chart-hehlw" src="https://datawrapper.dwcdn.net/hehlw/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="580" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+<br>
+<br>
+<iframe title="Philadelphia Arrest Rates" aria-label="Bullet Bars" id="datawrapper-chart-56uat" src="https://datawrapper.dwcdn.net/56uat/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="352" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
