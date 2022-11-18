@@ -229,11 +229,9 @@ Almost all of Philadelphia’s homicides are gun-related: Shootings made up 89% 
 One way to think about the danger: three years ago, the murder rate was <h8>`r murders_city$rate19`</h8> per 100,000 residents. That's more than twice the likelihood of dying in a vehicle crash in Pennsylvania.
 
 During the pandemic, a person's chance of being murdered in Philadelphia rose to more than three times the risk of a fatal traffic crash.
-
 <br>
 <br>
 <!-- <subhead>Risk of being murdered in Philadelphia vs. other causes of death in Harris County</subhead> -->
-
 <iframe title="Risk of homicide in Philadelphia vs. other causes of death" aria-label="Bar Chart" id="datawrapper-chart-r50Al" src="https://datawrapper.dwcdn.net/r50Al/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="402" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
