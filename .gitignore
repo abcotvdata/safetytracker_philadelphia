@@ -10,7 +10,7 @@
 *oldcode*
 *.DS_Store
 *.Rproj
-*phillycrime.csv*
+data/source/philly_crime.csv
 
 # Example code in package build process
 *-Ex.R
