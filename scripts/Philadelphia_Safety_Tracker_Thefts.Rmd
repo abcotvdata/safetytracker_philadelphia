@@ -401,7 +401,9 @@ philadelphia_theft_map
 <iframe title="2021 property crime rate comparison in select major cities" aria-label="Bar Chart" id="datawrapper-chart-hXLIV" src="https://datawrapper.dwcdn.net/hXLIV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="580" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
+<br>
 Many crimes do not end in an arrest: Philadelphia Police made arrests for just 19% of violent crimes and 7% of property crimes reported from 2019 through 2021.
+<br>
 <br>
 <iframe title="Philadelphia Arrest Rates" aria-label="Bullet Bars" id="datawrapper-chart-56uat" src="https://datawrapper.dwcdn.net/56uat/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="352" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
