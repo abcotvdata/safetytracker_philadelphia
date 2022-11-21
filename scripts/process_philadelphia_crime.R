@@ -4,17 +4,18 @@ library(readxl)
 library(zoo)
 library(lubridate)
 
-# OPEN WORK IS FIGURING OUT HOW TO DIVIDE AND CONQUER THIS FILE DOWNLOAD
-# POSSIBLY BRINGING IN BY YEAR AND THEN BINDING TO BE SAFE
-# SO THAT EACH RELOAD IS JUST 2022 DATA
+# load past full years' data file from our archive store
+past_philly_crime <- readRDS("data/source/annual/past_philly_crime.RDS")
+# download the latest data for the current year to date
+download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&skipfields=cartodb_id,the_geom,the_geom_webmercator&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272022-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27","data/source/recent/phillycrime22.csv")
+# read in the latest data for the current year to date
+philly_crime22 <- read_csv("data/source/recent/phillycrime22.csv") %>% janitor::clean_names()
 
-# Just for redundant purposes
-# download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272019-01-01%27%20AND%20dispatch_date_time%20%3C%20%272023-01-01%27","phillycrime.csv")
+# Combine past years + recent year file into single df
+philly_crime <- rbind(past_philly_crime,philly_crime22)
 
-philly_crime <- read_csv("data/source/philly_crime.csv") %>%
-  janitor::clean_names() %>%
-  select(5:14,17,18)
 
+# Remove duplicate entries and standardize key column names
 philly_crime <- philly_crime %>% unique
 philly_crime <- philly_crime %>% rename("district"="dc_dist","description"="text_general_code")
 

@@ -4,7 +4,7 @@ district,population,placename,category,description,total19,total20,total21,total
 16,41000,"Powelton, Mantua and Parkside",Burglary,Burglary Non-Residential,28,79,29,38,42,136,45.3,3.6,50,44.8,-7,68.3,192.7,70.7,102.4,110.5
 16,41000,"Powelton, Mantua and Parkside",Burglary,Burglary Residential,176,113,126,138,155,415,138.3,-28.4,-11.9,23,12,429.3,275.6,307.3,378,337.3
 16,41000,"Powelton, Mantua and Parkside",Motor Vehicle Theft,Motor Vehicle Theft,61,88,293,297,341,442,147.3,380.3,459,16.4,132,148.8,214.6,714.6,831.7,359.3
-16,41000,"Powelton, Mantua and Parkside",Murder,Homicide - Criminal,15,26,28,17,18,69,23,86.7,20,-35.7,-22,36.6,63.4,68.3,43.9,56.1
+16,41000,"Powelton, Mantua and Parkside",Murder,Homicide - Criminal,15,26,29,17,18,70,23.3,93.3,20,-37.9,-23,36.6,63.4,70.7,43.9,56.8
 16,41000,"Powelton, Mantua and Parkside",Other,All Other Offenses,2844,1446,706,933,1033,4996,1665.3,-75.2,-63.7,46.3,-38,6936.6,3526.8,1722,2519.5,4061.7
 16,41000,"Powelton, Mantua and Parkside",Other,Arson,20,26,24,17,17,70,23.3,20,-15,-29.2,-27,48.8,63.4,58.5,41.5,56.8
 16,41000,"Powelton, Mantua and Parkside",Other,Disorderly Conduct,14,23,35,44,49,72,24,150,250,40,104,34.1,56.1,85.4,119.5,58.5
@@ -34,7 +34,7 @@ district,population,placename,category,description,total19,total20,total21,total
 17,50000,South Philadelphia and Grays Ferry,Burglary,Burglary Non-Residential,27,38,21,28,32,86,28.7,-22.2,18.5,52.4,11,54,76,42,64,57.4
 17,50000,South Philadelphia and Grays Ferry,Burglary,Burglary Residential,227,135,139,97,111,501,167,-38.8,-51.1,-20.1,-34,454,270,278,222,334
 17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,Motor Vehicle Theft,49,57,178,172,195,284,94.7,263.3,298,9.6,106,98,114,356,390,189.4
-17,50000,South Philadelphia and Grays Ferry,Murder,Homicide - Criminal,5,17,10,4,5,32,10.7,100,0,-50,-53,10,34,20,10,21.4
+17,50000,South Philadelphia and Grays Ferry,Murder,Homicide - Criminal,5,17,10,5,6,32,10.7,100,20,-40,-44,10,34,20,12,21.4
 17,50000,South Philadelphia and Grays Ferry,Other,All Other Offenses,963,266,157,140,153,1386,462,-83.7,-84.1,-2.5,-67,1926,532,314,306,924
 17,50000,South Philadelphia and Grays Ferry,Other,Arson,7,15,8,7,9,30,10,14.3,28.6,12.5,-10,14,30,16,18,20
 17,50000,South Philadelphia and Grays Ferry,Other,Disorderly Conduct,12,10,6,3,3,28,9.3,-50,-75,-50,-68,24,20,12,6,18.6
@@ -61,7 +61,7 @@ district,population,placename,category,description,total19,total20,total21,total
 18,80000,University City and Cobbs Creek,Burglary,Burglary Non-Residential,40,159,58,85,95,257,85.7,45,137.5,63.8,11,50,198.8,72.5,118.8,107.1
 18,80000,University City and Cobbs Creek,Burglary,Burglary Residential,278,203,231,192,214,712,237.3,-16.9,-23,-7.4,-10,347.5,253.7,288.8,267.5,296.6
 18,80000,University City and Cobbs Creek,Motor Vehicle Theft,Motor Vehicle Theft,66,131,388,502,566,585,195,487.9,757.6,45.9,190,82.5,163.8,485,707.5,243.8
-18,80000,University City and Cobbs Creek,Murder,Homicide - Criminal,19,24,17,22,24,60,20,-10.5,26.3,41.2,20,23.8,30,21.2,30,25
+18,80000,University City and Cobbs Creek,Murder,Homicide - Criminal,19,24,18,23,25,61,20.3,-5.3,31.6,38.9,23,23.8,30,22.5,31.2,25.4
 18,80000,University City and Cobbs Creek,Other,All Other Offenses,2349,1171,775,739,793,4295,1431.7,-67,-66.2,2.3,-45,2936.2,1463.8,968.8,991.2,1789.6
 18,80000,University City and Cobbs Creek,Other,Arson,22,21,45,23,25,88,29.3,104.5,13.6,-44.4,-15,27.5,26.2,56.2,31.2,36.6
 18,80000,University City and Cobbs Creek,Other,Disorderly Conduct,82,65,26,12,12,173,57.7,-68.3,-85.4,-53.8,-79,102.5,81.2,32.5,15,72.1
@@ -90,7 +90,7 @@ district,population,placename,category,description,total19,total20,total21,total
 35,100000,Olney and Logan,Burglary,Burglary Non-Residential,50,146,49,59,64,245,81.7,-2,28,30.6,-22,50,146,49,64,81.7
 35,100000,Olney and Logan,Burglary,Burglary Residential,293,239,237,175,220,769,256.3,-19.1,-24.9,-7.2,-14,293,239,237,220,256.3
 35,100000,Olney and Logan,Motor Vehicle Theft,Motor Vehicle Theft,115,143,477,734,799,735,245,314.8,594.8,67.5,226,115,143,477,799,245
-35,100000,Olney and Logan,Murder,Homicide - Criminal,28,30,53,29,34,111,37,89.3,21.4,-35.8,-8,28,30,53,34,37
+35,100000,Olney and Logan,Murder,Homicide - Criminal,28,30,54,31,36,112,37.3,92.9,28.6,-33.3,-3,28,30,54,36,37.3
 35,100000,Olney and Logan,Other,All Other Offenses,2163,1200,802,725,803,4165,1388.3,-62.9,-62.9,0.1,-42,2163,1200,802,803,1388.3
 35,100000,Olney and Logan,Other,Arson,22,35,23,26,29,80,26.7,4.5,31.8,26.1,9,22,35,23,29,26.7
 35,100000,Olney and Logan,Other,Disorderly Conduct,26,17,20,17,20,63,21,-23.1,-23.1,0,-5,26,17,20,20,21
@@ -149,7 +149,7 @@ district,population,placename,category,description,total19,total20,total21,total
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Burglary,Burglary Non-Residential,16,33,53,73,85,102,34,231.2,431.2,60.4,150,43.2,89.2,143.2,229.7,91.9
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Burglary,Burglary Residential,61,39,83,60,74,183,61,36.1,21.3,-10.8,21,164.9,105.4,224.3,200,164.9
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Motor Vehicle Theft,Motor Vehicle Theft,34,27,109,170,182,170,56.7,220.6,435.3,67,221,91.9,73,294.6,491.9,153.2
-01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Murder,Homicide - Criminal,9,5,8,11,14,22,7.3,-11.1,55.6,75,92,24.3,13.5,21.6,37.8,19.7
+01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Murder,Homicide - Criminal,9,5,8,12,15,22,7.3,-11.1,66.7,87.5,105,24.3,13.5,21.6,40.5,19.7
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Other,All Other Offenses,484,152,157,128,144,793,264.3,-67.6,-70.2,-8.3,-46,1308.1,410.8,424.3,389.2,714.3
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Other,Arson,9,6,6,4,7,21,7,-33.3,-22.2,16.7,0,24.3,16.2,16.2,18.9,18.9
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Other,Disorderly Conduct,11,13,6,2,3,30,10,-45.5,-72.7,-50,-70,29.7,35.1,16.2,8.1,27
@@ -206,7 +206,7 @@ district,population,placename,category,description,total19,total20,total21,total
 03,93000,Whitman,Burglary,Burglary Non-Residential,115,119,106,127,145,340,113.3,-7.8,26.1,36.8,28,123.7,128,114,155.9,121.8
 03,93000,Whitman,Burglary,Burglary Residential,191,122,107,112,127,420,140,-44,-33.5,18.7,-9,205.4,131.2,115.1,136.6,150.5
 03,93000,Whitman,Motor Vehicle Theft,Motor Vehicle Theft,68,80,283,377,425,431,143.7,316.2,525,50.2,196,73.1,86,304.3,457,154.5
-03,93000,Whitman,Murder,Homicide - Criminal,4,5,14,12,13,23,7.7,250,225,-7.1,69,4.3,5.4,15.1,14,8.3
+03,93000,Whitman,Murder,Homicide - Criminal,4,5,14,13,14,23,7.7,250,250,0,82,4.3,5.4,15.1,15.1,8.3
 03,93000,Whitman,Other,All Other Offenses,1617,1170,588,361,395,3375,1125,-63.6,-75.6,-32.8,-65,1738.7,1258.1,632.3,424.7,1209.7
 03,93000,Whitman,Other,Arson,11,15,15,14,15,41,13.7,36.4,36.4,0,9,11.8,16.1,16.1,16.1,14.7
 03,93000,Whitman,Other,Disorderly Conduct,36,7,26,21,26,69,23,-27.8,-27.8,0,13,38.7,7.5,28,28,24.7
@@ -234,7 +234,7 @@ district,population,placename,category,description,total19,total20,total21,total
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Non-Residential,76,218,63,71,81,357,119,-17.1,6.6,28.6,-32,88.4,253.5,73.3,94.2,138.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Residential,299,233,247,206,232,779,259.7,-17.4,-22.4,-6.1,-11,347.7,270.9,287.2,269.8,302
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,Motor Vehicle Theft,120,138,429,564,648,687,229,257.5,440,51,183,139.5,160.5,498.8,753.5,266.3
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,Homicide - Criminal,26,34,33,27,30,93,31,26.9,15.4,-9.1,-3,30.2,39.5,38.4,34.9,36
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,Homicide - Criminal,26,34,35,28,31,95,31.7,34.6,19.2,-11.4,-2,30.2,39.5,40.7,36,36.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,All Other Offenses,2775,874,737,537,600,4386,1462,-73.4,-78.4,-18.6,-59,3226.7,1016.3,857,697.7,1700
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Arson,22,25,33,19,20,80,26.7,50,-9.1,-39.4,-25,25.6,29.1,38.4,23.3,31
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Disorderly Conduct,9,16,14,13,13,39,13,55.6,44.4,-7.1,0,10.5,18.6,16.3,15.1,15.1
@@ -263,7 +263,7 @@ district,population,placename,category,description,total19,total20,total21,total
 22,77000,Strawberry Mansion and Stanton,Burglary,Burglary Non-Residential,51,187,121,88,103,359,119.7,137.3,102,-14.9,-14,66.2,242.9,157.1,133.8,155.5
 22,77000,Strawberry Mansion and Stanton,Burglary,Burglary Residential,588,519,441,416,470,1548,516,-25,-20.1,6.6,-9,763.6,674,572.7,610.4,670.1
 22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,Motor Vehicle Theft,108,184,611,818,900,903,301,465.7,733.3,47.3,199,140.3,239,793.5,1168.8,390.9
-22,77000,Strawberry Mansion and Stanton,Murder,Homicide - Criminal,33,56,68,46,53,157,52.3,106.1,60.6,-22.1,1,42.9,72.7,88.3,68.8,67.9
+22,77000,Strawberry Mansion and Stanton,Murder,Homicide - Criminal,33,56,71,47,54,160,53.3,115.2,63.6,-23.9,1,42.9,72.7,92.2,70.1,69.2
 22,77000,Strawberry Mansion and Stanton,Other,All Other Offenses,1452,723,694,634,710,2869,956.3,-52.2,-51.1,2.3,-26,1885.7,939,901.3,922.1,1241.9
 22,77000,Strawberry Mansion and Stanton,Other,Arson,34,62,49,34,39,145,48.3,44.1,14.7,-20.4,-19,44.2,80.5,63.6,50.6,62.7
 22,77000,Strawberry Mansion and Stanton,Other,Disorderly Conduct,28,19,20,14,15,67,22.3,-28.6,-46.4,-25,-33,36.4,24.7,26,19.5,29
@@ -292,7 +292,7 @@ district,population,placename,category,description,total19,total20,total21,total
 24,67000,Richmond and Port Richmond,Burglary,Burglary Non-Residential,85,284,83,131,149,452,150.7,-2.4,75.3,79.5,-1,126.9,423.9,123.9,222.4,224.9
 24,67000,Richmond and Port Richmond,Burglary,Burglary Residential,192,166,150,151,165,508,169.3,-21.9,-14.1,10,-3,286.6,247.8,223.9,246.3,252.7
 24,67000,Richmond and Port Richmond,Motor Vehicle Theft,Motor Vehicle Theft,120,187,558,598,657,865,288.3,365,447.5,17.7,128,179.1,279.1,832.8,980.6,430.3
-24,67000,Richmond and Port Richmond,Murder,Homicide - Criminal,27,60,75,48,59,162,54,177.8,118.5,-21.3,9,40.3,89.6,111.9,88.1,80.6
+24,67000,Richmond and Port Richmond,Murder,Homicide - Criminal,27,60,75,51,62,162,54,177.8,129.6,-17.3,15,40.3,89.6,111.9,92.5,80.6
 24,67000,Richmond and Port Richmond,Murder,Homicide - Justifiable,0,0,1,0,0,1,0.3,NA,NA,-100,-100,0,0,1.5,0,0.4
 24,67000,Richmond and Port Richmond,Other,All Other Offenses,3596,1116,516,473,510,5228,1742.7,-85.7,-85.8,-1.2,-71,5367.2,1665.7,770.1,761.2,2601
 24,67000,Richmond and Port Richmond,Other,Arson,39,43,66,49,57,148,49.3,69.2,46.2,-13.6,16,58.2,64.2,98.5,85.1,73.6
@@ -323,7 +323,7 @@ district,population,placename,category,description,total19,total20,total21,total
 25,68000,Kensington and Harrowgate,Burglary,Burglary Non-Residential,63,220,59,97,101,342,114,-6.3,60.3,71.2,-11,92.6,323.5,86.8,148.5,167.6
 25,68000,Kensington and Harrowgate,Burglary,Burglary Residential,230,177,160,124,143,567,189,-30.4,-37.8,-10.6,-24,338.2,260.3,235.3,210.3,277.9
 25,68000,Kensington and Harrowgate,Motor Vehicle Theft,Motor Vehicle Theft,130,211,539,588,650,880,293.3,314.6,400,20.6,122,191.2,310.3,792.6,955.9,431.3
-25,68000,Kensington and Harrowgate,Murder,Homicide - Criminal,41,42,50,47,56,133,44.3,22,36.6,12,26,60.3,61.8,73.5,82.4,65.1
+25,68000,Kensington and Harrowgate,Murder,Homicide - Criminal,41,42,52,49,60,135,45,26.8,46.3,15.4,33,60.3,61.8,76.5,88.2,66.2
 25,68000,Kensington and Harrowgate,Other,All Other Offenses,1314,844,597,683,750,2755,918.3,-54.6,-42.9,25.6,-18,1932.4,1241.2,877.9,1102.9,1350.4
 25,68000,Kensington and Harrowgate,Other,Arson,41,51,65,53,57,157,52.3,58.5,39,-12.3,9,60.3,75,95.6,83.8,76.9
 25,68000,Kensington and Harrowgate,Other,Disorderly Conduct,29,16,28,10,10,73,24.3,-3.4,-65.5,-64.3,-59,42.6,23.5,41.2,14.7,35.7
@@ -382,7 +382,7 @@ district,population,placename,category,description,total19,total20,total21,total
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,Burglary Non-Residential,82,177,79,132,141,338,112.7,-3.7,72,78.5,25,59,127.3,56.8,101.4,81.1
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,Burglary Residential,309,193,237,229,255,739,246.3,-23.3,-17.5,7.6,4,222.3,138.8,170.5,183.5,177.2
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,Motor Vehicle Theft,146,292,778,1015,1136,1216,405.3,432.9,678.1,46,180,105,210.1,559.7,817.3,291.6
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,Homicide - Criminal,31,41,39,34,40,111,37,25.8,29,2.6,8,22.3,29.5,28.1,28.8,26.6
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,Homicide - Criminal,31,41,42,35,43,114,38,35.5,38.7,2.4,13,22.3,29.5,30.2,30.9,27.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,All Other Offenses,1395,1039,792,687,767,3226,1075.3,-43.2,-45,-3.2,-29,1003.6,747.5,569.8,551.8,773.6
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Arson,49,60,70,63,70,179,59.7,42.9,42.9,0,17,35.3,43.2,50.4,50.4,42.9
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Disorderly Conduct,29,22,18,8,9,69,23,-37.9,-69,-50,-61,20.9,15.8,12.9,6.5,16.5
@@ -545,7 +545,7 @@ district,population,placename,category,description,total19,total20,total21,total
 09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,Burglary Non-Residential,114,244,145,159,192,503,167.7,27.2,68.4,32.4,14,172.7,369.7,219.7,290.9,254.1
 09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,Burglary Residential,194,123,164,95,114,481,160.3,-15.5,-41.2,-30.5,-29,293.9,186.4,248.5,172.7,242.9
 09,66000,"Center City West, Logan Circle and North Philadelphia",Motor Vehicle Theft,Motor Vehicle Theft,35,36,202,236,272,273,91,477.1,677.1,34.7,199,53,54.5,306.1,412.1,137.9
-09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,Homicide - Criminal,3,4,5,5,5,12,4,66.7,66.7,0,25,4.5,6.1,7.6,7.6,6.1
+09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,Homicide - Criminal,3,4,6,5,5,13,4.3,100,66.7,-16.7,16,4.5,6.1,9.1,7.6,6.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,All Other Offenses,1028,787,838,653,703,2653,884.3,-18.5,-31.6,-16.1,-21,1557.6,1192.4,1269.7,1065.2,1339.8
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Arson,3,20,14,5,7,37,12.3,366.7,133.3,-50,-43,4.5,30.3,21.2,10.6,18.6
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Disorderly Conduct,57,63,22,31,34,142,47.3,-61.4,-40.4,54.5,-28,86.4,95.5,33.3,51.5,71.7
@@ -574,7 +574,7 @@ district,population,placename,category,description,total19,total20,total21,total
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,Burglary Non-Residential,76,186,53,63,72,315,105,-30.3,-5.3,35.8,-31,105.6,258.3,73.6,100,145.8
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,Burglary Residential,288,213,204,230,251,705,235,-29.2,-12.8,23,7,400,295.8,283.3,348.6,326.4
 12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,Motor Vehicle Theft,173,241,637,757,840,1051,350.3,268.2,385.5,31.9,140,240.3,334.7,884.7,1166.7,486.5
-12,72000,"Kingsessing, Eastwick and Elmwood",Murder,Homicide - Criminal,29,43,33,33,35,105,35,13.8,20.7,6.1,0,40.3,59.7,45.8,48.6,48.6
+12,72000,"Kingsessing, Eastwick and Elmwood",Murder,Homicide - Criminal,29,43,33,36,38,105,35,13.8,31,15.2,9,40.3,59.7,45.8,52.8,48.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,All Other Offenses,1905,933,694,1089,1133,3532,1177.3,-63.6,-40.5,63.3,-4,2645.8,1295.8,963.9,1573.6,1635.1
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Arson,35,36,39,34,35,110,36.7,11.4,0,-10.3,-5,48.6,50,54.2,48.6,51
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Disorderly Conduct,33,7,14,6,6,54,18,-57.6,-81.8,-57.1,-67,45.8,9.7,19.4,8.3,25
@@ -602,7 +602,7 @@ district,population,placename,category,description,total19,total20,total21,total
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,Burglary Non-Residential,37,168,60,64,74,265,88.3,62.2,100,23.3,-16,33,150,53.6,66.1,78.8
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,Burglary Residential,251,228,183,188,211,662,220.7,-27.1,-15.9,15.3,-4,224.1,203.6,163.4,188.4,197.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,Motor Vehicle Theft,114,141,335,543,596,590,196.7,193.9,422.8,77.9,203,101.8,125.9,299.1,532.1,175.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,Homicide - Criminal,26,35,22,30,33,83,27.7,-15.4,26.9,50,19,23.2,31.2,19.6,29.5,24.7
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,Homicide - Criminal,26,35,22,31,34,83,27.7,-15.4,30.8,54.5,23,23.2,31.2,19.6,30.4,24.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,All Other Offenses,1613,873,525,527,568,3011,1003.7,-67.5,-64.8,8.2,-43,1440.2,779.5,468.8,507.1,896.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Arson,30,30,25,12,15,85,28.3,-16.7,-50,-40,-47,26.8,26.8,22.3,13.4,25.3
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Disorderly Conduct,15,13,12,4,5,40,13.3,-20,-66.7,-58.3,-62,13.4,11.6,10.7,4.5,11.9

@@ -2,7 +2,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 16,41000,"Powelton, Mantua and Parkside",Aggravated Assault,302,345,358,288,321,1005,335,18.5,6.3,-10.3,-4,736.6,841.5,873.2,782.9,817.1
 16,41000,"Powelton, Mantua and Parkside",Burglary,204,192,155,176,197,551,183.7,-24,-3.4,27.1,7,497.6,468.3,378,480.5,448
 16,41000,"Powelton, Mantua and Parkside",Motor Vehicle Theft,61,88,293,297,341,442,147.3,380.3,459,16.4,132,148.8,214.6,714.6,831.7,359.3
-16,41000,"Powelton, Mantua and Parkside",Murder,15,26,28,17,18,69,23,86.7,20,-35.7,-22,36.6,63.4,68.3,43.9,56.1
+16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,17,18,70,23.3,93.3,20,-37.9,-23,36.6,63.4,70.7,43.9,56.8
 16,41000,"Powelton, Mantua and Parkside",Other,4952,3374,2683,2567,2830,11009,3669.7,-45.8,-42.9,5.5,-23,12078,8229.3,6543.9,6902.4,8950.5
 16,41000,"Powelton, Mantua and Parkside",Robbery,169,141,174,143,165,484,161.3,3,-2.4,-5.2,2,412.2,343.9,424.4,402.4,393.4
 16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,13,14,94,31.3,-35.7,-66.7,-48.1,-55,102.4,61,65.9,34.1,76.3
@@ -10,7 +10,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 17,50000,South Philadelphia and Grays Ferry,Aggravated Assault,188,179,153,152,164,520,173.3,-18.6,-12.8,7.2,-5,376,358,306,328,346.6
 17,50000,South Philadelphia and Grays Ferry,Burglary,254,173,160,125,143,587,195.7,-37,-43.7,-10.6,-27,508,346,320,286,391.4
 17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,172,195,284,94.7,263.3,298,9.6,106,98,114,356,390,189.4
-17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,4,5,32,10.7,100,0,-50,-53,10,34,20,10,21.4
+17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,5,6,32,10.7,100,20,-40,-44,10,34,20,12,21.4
 17,50000,South Philadelphia and Grays Ferry,Other,2662,1640,1577,1475,1646,5879,1959.7,-40.8,-38.2,4.4,-16,5324,3280,3154,3292,3919.4
 17,50000,South Philadelphia and Grays Ferry,Robbery,121,102,71,107,118,294,98,-41.3,-2.5,66.2,20,242,204,142,236,196
 17,50000,South Philadelphia and Grays Ferry,Sexual Assault,20,10,19,12,16,49,16.3,-5,-20,-15.8,-2,40,20,38,32,32.6
@@ -18,7 +18,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 18,80000,University City and Cobbs Creek,Aggravated Assault,464,522,443,402,439,1429,476.3,-4.5,-5.4,-0.9,-8,580,652.5,553.8,548.8,595.4
 18,80000,University City and Cobbs Creek,Burglary,318,362,289,277,309,969,323,-9.1,-2.8,6.9,-4,397.5,452.5,361.2,386.2,403.8
 18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,502,566,585,195,487.9,757.6,45.9,190,82.5,163.8,485,707.5,243.8
-18,80000,University City and Cobbs Creek,Murder,19,24,17,22,24,60,20,-10.5,26.3,41.2,20,23.8,30,21.2,30,25
+18,80000,University City and Cobbs Creek,Murder,19,24,18,23,25,61,20.3,-5.3,31.6,38.9,23,23.8,30,22.5,31.2,25.4
 18,80000,University City and Cobbs Creek,Other,5760,3988,3333,3231,3524,13081,4360.3,-42.1,-38.8,5.7,-19,7200,4985,4166.2,4405,5450.4
 18,80000,University City and Cobbs Creek,Robbery,277,288,257,226,268,822,274,-7.2,-3.2,4.3,-2,346.2,360,321.2,335,342.5
 18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,30,32,137,45.7,0,-30.4,-30.4,-30,57.5,56.2,57.5,40,57.1
@@ -26,7 +26,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 35,100000,Olney and Logan,Aggravated Assault,634,670,676,585,657,1980,660,6.6,3.6,-2.8,-0,634,670,676,657,660
 35,100000,Olney and Logan,Burglary,343,385,286,234,284,1014,338,-16.6,-17.2,-0.7,-16,343,385,286,284,338
 35,100000,Olney and Logan,Motor Vehicle Theft,115,143,477,734,799,735,245,314.8,594.8,67.5,226,115,143,477,799,245
-35,100000,Olney and Logan,Murder,28,30,53,29,34,111,37,89.3,21.4,-35.8,-8,28,30,53,34,37
+35,100000,Olney and Logan,Murder,28,30,54,31,36,112,37.3,92.9,28.6,-33.3,-3,28,30,54,36,37.3
 35,100000,Olney and Logan,Other,7315,5755,4770,3945,4399,17840,5946.7,-34.8,-39.9,-7.8,-26,7315,5755,4770,4399,5946.7
 35,100000,Olney and Logan,Robbery,433,358,352,323,371,1143,381,-18.7,-14.3,5.4,-3,433,358,352,371,381
 35,100000,Olney and Logan,Sexual Assault,75,63,49,40,43,187,62.3,-34.7,-42.7,-12.2,-31,75,63,49,43,62.3
@@ -42,7 +42,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Aggravated Assault,118,141,138,124,143,397,132.3,16.9,21.2,3.6,8,318.9,381.1,373,386.5,357.6
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Burglary,77,72,136,133,159,285,95,76.6,106.5,16.9,67,208.1,194.6,367.6,429.7,256.8
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Motor Vehicle Theft,34,27,109,170,182,170,56.7,220.6,435.3,67,221,91.9,73,294.6,491.9,153.2
-01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Murder,9,5,8,11,14,22,7.3,-11.1,55.6,75,92,24.3,13.5,21.6,37.8,19.7
+01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Murder,9,5,8,12,15,22,7.3,-11.1,66.7,87.5,105,24.3,13.5,21.6,40.5,19.7
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Other,1479,1029,1193,1130,1325,3701,1233.7,-19.3,-10.4,11.1,7,3997.3,2781.1,3224.3,3581.1,3334.3
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Robbery,98,85,79,133,149,262,87.3,-19.4,52,88.6,71,264.9,229.7,213.5,402.7,235.9
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Sexual Assault,18,9,4,7,7,31,10.3,-77.8,-61.1,75,-32,48.6,24.3,10.8,18.9,27.8
@@ -58,7 +58,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 03,93000,Whitman,Aggravated Assault,260,225,237,217,237,722,240.7,-8.8,-8.8,0,-2,279.6,241.9,254.8,254.8,258.8
 03,93000,Whitman,Burglary,306,241,213,239,272,760,253.3,-30.4,-11.1,27.7,7,329,259.1,229,292.5,272.4
 03,93000,Whitman,Motor Vehicle Theft,68,80,283,377,425,431,143.7,316.2,525,50.2,196,73.1,86,304.3,457,154.5
-03,93000,Whitman,Murder,4,5,14,12,13,23,7.7,250,225,-7.1,69,4.3,5.4,15.1,14,8.3
+03,93000,Whitman,Murder,4,5,14,13,14,23,7.7,250,250,0,82,4.3,5.4,15.1,15.1,8.3
 03,93000,Whitman,Other,4138,3234,2642,2370,2625,10014,3338,-36.2,-36.6,-0.6,-21,4449.5,3477.4,2840.9,2822.6,3589.2
 03,93000,Whitman,Robbery,260,170,196,210,239,626,208.7,-24.6,-8.1,21.9,15,279.6,182.8,210.8,257,224.4
 03,93000,Whitman,Sexual Assault,30,18,32,24,24,80,26.7,6.7,-20,-25,-10,32.3,19.4,34.4,25.8,28.7
@@ -66,7 +66,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,531,599,1959,653,12,2.6,-8.4,-8,679.1,838.4,760.5,696.5,759.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,277,313,1136,378.7,-17.3,-16.5,1,-17,436,524.4,360.5,364,440.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,564,648,687,229,257.5,440,51,183,139.5,160.5,498.8,753.5,266.3
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,33,27,30,93,31,26.9,15.4,-9.1,-3,30.2,39.5,38.4,34.9,36
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,28,31,95,31.7,34.6,19.2,-11.4,-2,30.2,39.5,40.7,36,36.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4235,4715,17878,5959.3,-32.7,-37.7,-7.3,-21,8795.3,6075.6,5917.4,5482.6,6929.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,225,265,786,262,-20.4,-12.8,9.5,1,353.5,279.1,281.4,308.1,304.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,33,36,161,53.7,-38,-49.3,-18.2,-33,82.6,53.5,51.2,41.9,62.4
@@ -74,7 +74,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,692,777,2369,789.7,17.1,9.1,-6.8,-2,924.7,1068.8,1083.1,1009.1,1025.6
 22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,504,573,1907,635.7,-12.1,-10.3,2,-10,829.9,916.9,729.9,744.2,825.6
 22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,818,900,903,301,465.7,733.3,47.3,199,140.3,239,793.5,1168.8,390.9
-22,77000,Strawberry Mansion and Stanton,Murder,33,56,68,46,53,157,52.3,106.1,60.6,-22.1,1,42.9,72.7,88.3,68.8,67.9
+22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,47,54,160,53.3,115.2,63.6,-23.9,1,42.9,72.7,92.2,70.1,69.2
 22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,4614,5164,16876,5625.3,-18.3,-20.7,-2.9,-8,8454.5,6553.2,6909.1,6706.5,7305.6
 22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,447,505,1199,399.7,-19.9,9.3,36.5,26,600,476.6,480.5,655.8,519.1
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,61,68,233,77.7,-8.2,-20,-12.8,-12,110.4,90.9,101.3,88.3,100.9
@@ -82,7 +82,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 24,67000,Richmond and Port Richmond,Aggravated Assault,682,837,732,617,681,2251,750.3,7.3,-0.1,-7,-9,1017.9,1249.3,1092.5,1016.4,1119.9
 24,67000,Richmond and Port Richmond,Burglary,277,450,233,282,314,960,320,-15.9,13.4,34.8,-2,413.4,671.6,347.8,468.7,477.6
 24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,598,657,865,288.3,365,447.5,17.7,128,179.1,279.1,832.8,980.6,430.3
-24,67000,Richmond and Port Richmond,Murder,27,60,76,48,59,163,54.3,181.5,118.5,-22.4,9,40.3,89.6,113.4,88.1,81
+24,67000,Richmond and Port Richmond,Murder,27,60,76,51,62,163,54.3,181.5,129.6,-18.4,14,40.3,89.6,113.4,92.5,81
 24,67000,Richmond and Port Richmond,Other,10213,6134,4823,3900,4255,21170,7056.7,-52.8,-58.3,-11.8,-40,15243.3,9155.2,7198.5,6350.7,10532.4
 24,67000,Richmond and Port Richmond,Robbery,447,467,444,484,552,1358,452.7,-0.7,23.5,24.3,22,667.2,697,662.7,823.9,675.7
 24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,40,44,168,56,-44.3,-37.1,12.8,-21,104.5,88.1,58.2,65.7,83.6
@@ -90,7 +90,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,744,813,2463,821,11.4,10.3,-1,-1,1083.8,1330.9,1207.4,1195.6,1207.4
 25,68000,Kensington and Harrowgate,Burglary,293,397,219,221,244,909,303,-25.3,-16.7,11.4,-19,430.9,583.8,322.1,358.8,445.6
 25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,588,650,880,293.3,314.6,400,20.6,122,191.2,310.3,792.6,955.9,431.3
-25,68000,Kensington and Harrowgate,Murder,41,42,50,47,56,133,44.3,22,36.6,12,26,60.3,61.8,73.5,82.4,65.1
+25,68000,Kensington and Harrowgate,Murder,41,42,52,49,60,135,45,26.8,46.3,15.4,33,60.3,61.8,76.5,88.2,66.2
 25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4278,4720,15558,5186,-29.1,-24,7.2,-9,9138.2,7264.7,6476.5,6941.2,7626.5
 25,68000,Kensington and Harrowgate,Robbery,559,420,468,457,547,1447,482.3,-16.3,-2.1,16.9,13,822.1,617.6,688.2,804.4,709.3
 25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,40,48,222,74,8.8,-29.4,-35.1,-35,100,117.6,108.8,70.6,108.8
@@ -106,7 +106,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,625,651,655,600,669,1931,643.7,4.8,7,2.1,4,449.6,468.3,471.2,481.3,463.1
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,361,396,1077,359,-19.2,1.3,25.3,10,281.3,266.2,227.3,284.9,258.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1015,1136,1216,405.3,432.9,678.1,46,180,105,210.1,559.7,817.3,291.6
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,39,34,40,111,37,25.8,29,2.6,8,22.3,29.5,28.1,28.8,26.6
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,35,43,114,38,35.5,38.7,2.4,13,22.3,29.5,30.2,30.9,27.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4438,4949,17171,5723.7,-20.8,-24.9,-5.2,-14,4742.4,3856.8,3754,3560.4,4117.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,417,482,1297,432.3,-29.9,-9.9,28.5,11,384.9,278.4,269.8,346.8,311
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,92,90,53,36,40,235,78.3,-42.4,-56.5,-24.5,-49,66.2,64.7,38.1,28.8,56.3
@@ -154,7 +154,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,179,199,540,180,8.7,8.2,-0.5,11,278.8,236.4,303,301.5,272.7
 09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,308,367,309,254,306,984,328,0.3,-0.6,-1,-7,466.7,556.1,468.2,463.6,497
 09,66000,"Center City West, Logan Circle and North Philadelphia",Motor Vehicle Theft,35,36,202,236,272,273,91,477.1,677.1,34.7,199,53,54.5,306.1,412.1,137.9
-09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,5,5,5,12,4,66.7,66.7,0,25,4.5,6.1,7.6,7.6,6.1
+09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,5,5,13,4.3,100,66.7,-16.7,16,4.5,6.1,9.1,7.6,6.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,3559,2604,2305,2286,2502,8468,2822.7,-35.2,-29.7,8.5,-11,5392.4,3945.5,3492.4,3790.9,4276.8
 09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,214,252,702,234,-28.8,-11.6,24.1,8,431.8,324.2,307.6,381.8,354.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,18,20,64,21.3,-8.7,-13,-4.8,-6,34.8,30.3,31.8,30.3,32.3
@@ -162,7 +162,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,446,508,1827,609,4.3,-5,-9,-17,743.1,1019.4,775,705.6,845.8
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,293,323,1020,340,-29.4,-11.3,25.7,-5,505.6,554.2,356.9,448.6,472.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,757,840,1051,350.3,268.2,385.5,31.9,140,240.3,334.7,884.7,1166.7,486.5
-12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,33,35,105,35,13.8,20.7,6.1,0,40.3,59.7,45.8,48.6,48.6
+12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,36,38,105,35,13.8,31,15.2,9,40.3,59.7,45.8,52.8,48.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4307,4737,15361,5120.3,-15,-14.2,0.9,-7,7670.8,7140.3,6523.6,6579.2,7111.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,264,319,777,259,-10.8,18.6,32.9,23,373.6,372.2,333.3,443.1,359.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,26,30,175,58.3,-3.4,-49.2,-47.4,-49,81.9,81.9,79.2,41.7,81
@@ -170,7 +170,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,411,457,1398,466,12.2,11.2,-0.9,-2,367,469.6,411.6,408,416.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,288,396,243,252,285,927,309,-15.6,-1,17.3,-8,257.1,353.6,217,254.5,275.9
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,543,596,590,196.7,193.9,422.8,77.9,203,101.8,125.9,299.1,532.1,175.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,30,33,83,27.7,-15.4,26.9,50,19,23.2,31.2,19.6,29.5,24.7
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,31,34,83,27.7,-15.4,30.8,54.5,23,23.2,31.2,19.6,30.4,24.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,5736,5081,4671,4230,4674,15488,5162.7,-18.6,-18.5,0.1,-9,5121.4,4536.6,4170.5,4173.2,4609.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,226,180,181,227,267,587,195.7,-19.9,18.1,47.5,36,201.8,160.7,161.6,238.4,174.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,23,24,142,47.3,-40.4,-53.8,-22.6,-49,46.4,52.7,27.7,21.4,42.2
