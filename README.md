@@ -1,2 +1,2 @@
 # safetytracker_philadelphia
-Add a sentence now
+Initial setup for Philly safety tracker pages and file structure; more coming soon.
