@@ -1,23 +1,23 @@
 district,population,placename,category,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-16,41000,"Powelton, Mantua and Parkside",Aggravated Assault,302,345,358,290,319,1005,335,18.5,5.6,-10.9,-5,736.6,841.5,873.2,778,817.1
-17,50000,South Philadelphia and Grays Ferry,Aggravated Assault,188,179,153,152,162,520,173.3,-18.6,-13.8,5.9,-7,376,358,306,324,346.6
+16,41000,"Powelton, Mantua and Parkside",Aggravated Assault,302,345,358,292,320,1005,335,18.5,6,-10.6,-4,736.6,841.5,873.2,780.5,817.1
+17,50000,South Philadelphia and Grays Ferry,Aggravated Assault,188,179,153,152,161,520,173.3,-18.6,-14.4,5.2,-7,376,358,306,322,346.6
 18,80000,University City and Cobbs Creek,Aggravated Assault,464,522,443,407,438,1429,476.3,-4.5,-5.6,-1.1,-8,580,652.5,553.8,547.5,595.4
-35,100000,Olney and Logan,Aggravated Assault,634,670,676,594,659,1980,660,6.6,3.9,-2.5,-0,634,670,676,659,660
-39,61000,"East Falls, Tioga and Nicetown",Aggravated Assault,671,618,640,559,619,1929,643,-4.6,-7.7,-3.3,-4,1100,1013.1,1049.2,1014.8,1054.1
+35,100000,Olney and Logan,Aggravated Assault,634,670,676,594,656,1980,660,6.6,3.5,-3,-1,634,670,676,656,660
+39,61000,"East Falls, Tioga and Nicetown",Aggravated Assault,671,618,640,561,621,1929,643,-4.6,-7.5,-3,-3,1100,1013.1,1049.2,1018,1054.1
 01,37000,"Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",Aggravated Assault,118,141,138,125,143,397,132.3,16.9,21.2,3.6,8,318.9,381.1,373,386.5,357.6
-02,115000,Bustleton,Aggravated Assault,292,352,341,277,307,985,328.3,16.8,5.1,-10,-6,253.9,306.1,296.5,267,285.5
+02,115000,Bustleton,Aggravated Assault,292,352,341,279,308,985,328.3,16.8,5.5,-9.7,-6,253.9,306.1,296.5,267.8,285.5
 03,93000,Whitman,Aggravated Assault,260,225,237,221,236,722,240.7,-8.8,-9.2,-0.4,-2,279.6,241.9,254.8,253.8,258.8
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,538,602,1959,653,12,3.1,-8,-8,679.1,838.4,760.5,700,759.3
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,541,604,1959,653,12,3.4,-7.6,-8,679.1,838.4,760.5,702.3,759.3
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,701,775,2369,789.7,17.1,8.8,-7.1,-2,924.7,1068.8,1083.1,1006.5,1025.6
-24,67000,Richmond and Port Richmond,Aggravated Assault,682,837,732,628,686,2251,750.3,7.3,0.6,-6.3,-9,1017.9,1249.3,1092.5,1023.9,1119.9
-25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,751,812,2463,821,11.4,10.2,-1.1,-1,1083.8,1330.9,1207.4,1194.1,1207.4
-26,57000,Fishtown,Aggravated Assault,268,307,323,280,306,898,299.3,20.5,14.2,-5.3,2,470.2,538.6,566.7,536.8,525.1
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,625,651,655,611,672,1931,643.7,4.8,7.5,2.6,4,449.6,468.3,471.2,483.5,463.1
+24,67000,Richmond and Port Richmond,Aggravated Assault,682,837,732,631,689,2251,750.3,7.3,1,-5.9,-8,1017.9,1249.3,1092.5,1028.4,1119.9
+25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,755,814,2463,821,11.4,10.4,-0.9,-1,1083.8,1330.9,1207.4,1197.1,1207.4
+26,57000,Fishtown,Aggravated Assault,268,307,323,282,308,898,299.3,20.5,14.9,-4.6,3,470.2,538.6,566.7,540.4,525.1
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,625,651,655,614,675,1931,643.7,4.8,8,3.1,5,449.6,468.3,471.2,485.6,463.1
 77,0,Philadelphia airport,Aggravated Assault,7,8,2,5,6,17,5.7,-71.4,-14.3,200,5,NA,NA,NA,NA,NA
-05,43000,"Andorra, Roxborough and Manayunk",Aggravated Assault,76,67,49,68,70,192,64,-35.5,-7.9,42.9,9,176.7,155.8,114,162.8,148.8
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Aggravated Assault,248,255,253,290,307,756,252,2,23.8,21.3,22,539.1,554.3,550,667.4,547.8
-07,95000,Somerton,Aggravated Assault,80,70,97,79,83,247,82.3,21.2,3.8,-14.4,1,84.2,73.7,102.1,87.4,86.6
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,155,212,233,217,237,600,200,50.3,52.9,1.7,18,159.8,218.6,240.2,244.3,206.2
-09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,181,199,540,180,8.7,8.2,-0.5,11,278.8,236.4,303,301.5,272.7
-12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,458,511,1827,609,4.3,-4.5,-8.4,-16,743.1,1019.4,775,709.7,845.8
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,415,456,1398,466,12.2,10.9,-1.1,-2,367,469.6,411.6,407.1,416.1
+05,43000,"Andorra, Roxborough and Manayunk",Aggravated Assault,76,67,49,68,69,192,64,-35.5,-9.2,40.8,8,176.7,155.8,114,160.5,148.8
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Aggravated Assault,248,255,253,291,308,756,252,2,24.2,21.7,22,539.1,554.3,550,669.6,547.8
+07,95000,Somerton,Aggravated Assault,80,70,97,80,84,247,82.3,21.2,5,-13.4,2,84.2,73.7,102.1,88.4,86.6
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,155,212,233,218,238,600,200,50.3,53.5,2.1,19,159.8,218.6,240.2,245.4,206.2
+09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,182,199,540,180,8.7,8.2,-0.5,11,278.8,236.4,303,301.5,272.7
+12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,461,511,1827,609,4.3,-4.5,-8.4,-16,743.1,1019.4,775,709.7,845.8
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,416,454,1398,466,12.2,10.5,-1.5,-3,367,469.6,411.6,405.4,416.1
