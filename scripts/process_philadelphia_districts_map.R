@@ -52,30 +52,30 @@ districts <- districts %>% select(8,15,16)
 districts <- districts %>% rename("district"="DIST_NUMC")
 
 # Quick define of the areas 
-districts$placename <- case_when(districts$district == "01"~ "Stadium District, Lower Moyamensing, Girard Estates and Navy Yard",
-                                     districts$district == "02"~ "Bustleton",
-                                     districts$district == "03"~ "Whitman",
+districts$placename <- case_when(districts$district == "01"~ "Girard Estates and Navy Yard",
+                                 districts$district == "02"~ "Oxford Circle and Lawncrest",
+                                 districts$district == "03"~ "Whitman, Stadium District and Lower Moyamensing",
                                      districts$district == "05"~ "Andorra, Roxborough and Manayunk",
                                      districts$district == "06"~ "Center City East, Chinatown, Poplar and Society Hill",
-                                     districts$district == "07"~ "Somerton",
-                                     districts$district == "08"~ "Parkwood Manor, Byberry, Morrell Park and Millbrook",
-                                     districts$district == "09"~ "Center City West, Logan Circle and North Philadelphia",
-                                     districts$district == "12"~ "Kingsessing, Eastwick and Elmwood",
-                                     districts$district == "14"~ "Germantown, Mt. Airy and Chestnut Hill",
-                                     districts$district == "15"~ "Bridesburg, Frankford, Northwood and Wissimoming",
-                                     districts$district == "16"~ "Powelton, Mantua and Parkside",
-                                     districts$district == "17"~ "South Philadelphia and Grays Ferry",
-                                     districts$district == "18"~ "University City and Cobbs Creek",
-                                     districts$district == "19"~ "Overbrook, Wynnefield and Overbrook Park",
-                                     districts$district == "22"~ "Strawberry Mansion and Stanton",
-                                     districts$district == "24"~ "Richmond and Port Richmond",
-                                     districts$district == "25"~ "Kensington and Harrowgate",
-                                     districts$district == "26"~ "Fishtown",
-                                     districts$district == "35"~ "Olney and Logan",
-                                     districts$district == "39"~ "East Falls, Tioga and Nicetown",
-                                     districts$district == "77"~ "Philadelphia airport",
+                                     districts$district == "07"~ "Somerton and Bustleton",
+                                 districts$district == "08"~ "Parkwood Manor, Byberry, Morrell Park and Millbrook",
+                                 districts$district == "09"~ "Center City West, Logan Circle and North Philadelphia",
+                                 districts$district == "12"~ "Kingsessing, Eastwick and Elmwood",
+                                 districts$district == "14"~ "Germantown, Mt. Airy and Chestnut Hill",
+                                 districts$district == "15"~ "Bridesburg, Frankford, Northwood and Wissimoming",
+                                 districts$district == "16"~ "Powelton, Mantua and Parkside",
+                                 districts$district == "17"~ "South Philadelphia and Grays Ferry",
+                                 districts$district == "18"~ "University City and Cobbs Creek",
+                                 districts$district == "19"~ "Overbrook, Wynnefield and Overbrook Park",
+                                 districts$district == "22"~ "Strawberry Mansion and Stanton",
+                                 districts$district == "24"~ "Richmond and Port Richmond",
+                                 districts$district == "25"~ "Kensington and Harrowgate",
+                                 districts$district == "26"~ "Fishtown, Olde Kensington, East Kensington and West Kensington",
+                                 districts$district == "35" ~ "Olney and Logan",
+                                 districts$district == "39" ~ "East Falls, Tioga and Nicetown",
+                                 districts$district == "77" ~ "Philadelphia airport",
                                      TRUE ~ "Other/Unknown")
-
+                                  
 districts <- districts %>% st_transform(4326)
 districts <- st_make_valid(districts)
 
