@@ -1,23 +1,23 @@
 district,population,placename,category,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-16,41000,"Powelton, Mantua and Parkside",Robbery,169,141,174,157,159,484,161.3,3,-5.9,-8.6,-1,412.2,343.9,424.4,387.8,393.4
-17,50000,South Philadelphia and Grays Ferry,Robbery,121,102,71,110,113,294,98,-41.3,-6.6,59.2,15,242,204,142,226,196
+16,41000,"Powelton, Mantua and Parkside",Robbery,169,141,174,158,159,484,161.3,3,-5.9,-8.6,-1,412.2,343.9,424.4,387.8,393.4
+17,50000,South Philadelphia and Grays Ferry,Robbery,121,102,71,112,115,294,98,-41.3,-5,62,17,242,204,142,230,196
 18,80000,University City and Cobbs Creek,Robbery,277,288,257,249,250,822,274,-7.2,-9.7,-2.7,-9,346.2,360,321.2,312.5,342.5
 35,100000,Olney and Logan,Robbery,433,358,352,350,352,1143,381,-18.7,-18.7,0,-8,433,358,352,352,381
-39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,310,312,827,275.7,-6.9,8,16,13,473.8,441,441,511.5,452
-01,37000,Girard Estates and Navy Yard,Robbery,98,85,79,145,148,262,87.3,-19.4,51,87.3,70,264.9,229.7,213.5,400,235.9
-02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,393,395,788,262.7,30.5,62.6,24.6,50,211.3,198.3,275.7,343.5,228.4
+39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,310,310,827,275.7,-6.9,7.3,15.2,12,473.8,441,441,508.2,452
+01,37000,Girard Estates and Navy Yard,Robbery,98,85,79,145,146,262,87.3,-19.4,49,84.8,67,264.9,229.7,213.5,394.6,235.9
+02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,394,394,788,262.7,30.5,62.1,24.3,50,211.3,198.3,275.7,342.6,228.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,260,170,196,232,235,626,208.7,-24.6,-9.6,19.9,13,279.6,182.8,210.8,252.7,224.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,244,252,786,262,-20.4,-17.1,4.1,-4,353.5,279.1,281.4,293,304.7
-22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,486,489,1199,399.7,-19.9,5.8,32.2,22,600,476.6,480.5,635.1,519.1
-24,67000,Richmond and Port Richmond,Robbery,447,467,444,541,543,1358,452.7,-0.7,21.5,22.3,20,667.2,697,662.7,810.4,675.7
-25,68000,Kensington and Harrowgate,Robbery,559,420,468,496,498,1447,482.3,-16.3,-10.9,6.4,3,822.1,617.6,688.2,732.4,709.3
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Robbery,247,177,244,318,321,668,222.7,-1.2,30,31.6,44,433.3,310.5,428.1,563.2,390.7
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,462,468,1297,432.3,-29.9,-12.5,24.8,8,384.9,278.4,269.8,336.7,311
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,246,253,786,262,-20.4,-16.8,4.5,-3,353.5,279.1,281.4,294.2,304.7
+22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,487,489,1199,399.7,-19.9,5.8,32.2,22,600,476.6,480.5,635.1,519.1
+24,67000,Richmond and Port Richmond,Robbery,447,467,444,542,543,1358,452.7,-0.7,21.5,22.3,20,667.2,697,662.7,810.4,675.7
+25,68000,Kensington and Harrowgate,Robbery,559,420,468,497,498,1447,482.3,-16.3,-10.9,6.4,3,822.1,617.6,688.2,732.4,709.3
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Robbery,247,177,244,317,319,668,222.7,-1.2,29.1,30.7,43,433.3,310.5,428.1,559.6,390.7
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,462,466,1297,432.3,-29.9,-12.9,24.3,8,384.9,278.4,269.8,335.3,311
 77,0,Philadelphia airport,Robbery,2,2,4,3,3,8,2.7,100,50,-25,11,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Robbery,26,25,33,44,44,84,28,26.9,69.2,33.3,57,60.5,58.1,76.7,102.3,65.1
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,294,295,767,255.7,-4.1,0,4.2,15,641.3,410.9,615.2,641.3,555.9
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,296,297,767,255.7,-4.1,0.7,4.9,16,641.3,410.9,615.2,645.7,555.9
 07,95000,Somerton and Bustleton,Robbery,48,35,53,57,57,136,45.3,10.4,18.8,7.5,26,50.5,36.8,55.8,60,47.7
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Robbery,94,70,87,121,121,251,83.7,-7.4,28.7,39.1,45,96.9,72.2,89.7,124.7,86.3
-09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,234,234,702,234,-28.8,-17.9,15.3,0,431.8,324.2,307.6,354.5,354.5
-12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,285,287,777,259,-10.8,6.7,19.6,11,373.6,372.2,333.3,398.6,359.7
+09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,235,235,702,234,-28.8,-17.5,15.8,0,431.8,324.2,307.6,356.1,354.5
+12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,286,287,777,259,-10.8,6.7,19.6,11,373.6,372.2,333.3,398.6,359.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,226,180,181,245,248,587,195.7,-19.9,9.7,37,27,201.8,160.7,161.6,221.4,174.7
