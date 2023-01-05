@@ -7,9 +7,9 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 01,37000,Girard Estates and Navy Yard,Motor Vehicle Theft,34,27,109,198,198,170,56.7,220.6,482.4,81.7,249,91.9,73,294.6,535.1,153.2
 02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,864,864,621,207,359.6,819.1,100,317,81.7,82.6,375.7,751.3,180
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,427,427,431,143.7,316.2,527.9,50.9,197,73.1,86,304.3,459.1,154.5
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,695,695,687,229,257.5,479.2,62,203,139.5,160.5,498.8,808.1,266.3
-22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,999,999,903,301,465.7,825,63.5,232,140.3,239,793.5,1297.4,390.9
-24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,688,688,865,288.3,365,473.3,23.3,139,179.1,279.1,832.8,1026.9,430.3
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,696,687,229,257.5,480,62.2,204,139.5,160.5,498.8,809.3,266.3
+22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,1000,1000,903,301,465.7,825.9,63.7,232,140.3,239,793.5,1298.7,390.9
+24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,689,689,865,288.3,365,474.2,23.5,139,179.1,279.1,832.8,1028.4,430.3
 25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,681,681,880,293.3,314.6,423.8,26.3,132,191.2,310.3,792.6,1001.5,431.3
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,105,164,424,719,719,693,231,303.8,584.8,69.6,211,184.2,287.7,743.9,1261.4,405.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1258,1258,1216,405.3,432.9,761.6,61.7,210,105,210.1,559.7,905,291.6

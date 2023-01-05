@@ -5,7 +5,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 35,100000,Olney and Logan,Robbery,433,358,352,355,355,1143,381,-18.7,-18,0.9,-7,433,358,352,355,381
 39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,311,311,827,275.7,-6.9,7.6,15.6,13,473.8,441,441,509.8,452
 01,37000,Girard Estates and Navy Yard,Robbery,98,85,79,146,146,262,87.3,-19.4,49,84.8,67,264.9,229.7,213.5,394.6,235.9
-02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,400,400,788,262.7,30.5,64.6,26.2,52,211.3,198.3,275.7,347.8,228.4
+02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,401,401,788,262.7,30.5,65,26.5,53,211.3,198.3,275.7,348.7,228.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,260,170,196,233,233,626,208.7,-24.6,-10.4,18.9,12,279.6,182.8,210.8,250.5,224.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,248,248,786,262,-20.4,-18.4,2.5,-5,353.5,279.1,281.4,288.4,304.7
 22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,490,490,1199,399.7,-19.9,6.1,32.4,23,600,476.6,480.5,636.4,519.1
@@ -18,6 +18,6 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,298,298,767,255.7,-4.1,1,5.3,17,641.3,410.9,615.2,647.8,555.9
 07,95000,Somerton and Bustleton,Robbery,48,35,53,58,58,136,45.3,10.4,20.8,9.4,28,50.5,36.8,55.8,61.1,47.7
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Robbery,94,70,87,122,122,251,83.7,-7.4,29.8,40.2,46,96.9,72.2,89.7,125.8,86.3
-09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,235,235,702,234,-28.8,-17.5,15.8,0,431.8,324.2,307.6,356.1,354.5
+09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,236,236,702,234,-28.8,-17.2,16.3,1,431.8,324.2,307.6,357.6,354.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,288,288,777,259,-10.8,7.1,20,11,373.6,372.2,333.3,400,359.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,226,180,181,247,247,587,195.7,-19.9,9.3,36.5,26,201.8,160.7,161.6,220.5,174.7

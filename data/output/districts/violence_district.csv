@@ -5,7 +5,7 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 35,100000,Olney and Logan,Violent,1170,1121,1131,1077,1077,3422,1140.7,-3.3,-7.9,-4.8,-6,1170,1121,1131,1077,1140.7
 39,61000,"East Falls, Tioga and Nicetown",Violent,1051,972,1013,1002,1002,3036,1012,-3.6,-4.7,-1.1,-1,1723,1593.4,1660.7,1642.6,1659
 01,37000,Girard Estates and Navy Yard,Violent,243,240,229,306,306,712,237.3,-5.8,25.9,33.6,29,656.8,648.6,618.9,827,641.4
-02,115000,Oxford Circle and Lawncrest,Violent,599,646,701,772,772,1946,648.7,17,28.9,10.1,19,520.9,561.7,609.6,671.3,564.1
+02,115000,Oxford Circle and Lawncrest,Violent,599,646,701,773,773,1946,648.7,17,29,10.3,19,520.9,561.7,609.6,672.2,564.1
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Violent,554,418,479,521,521,1451,483.7,-13.5,-6,8.8,8,595.7,449.5,515.1,560.2,520.1
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Violent,985,1041,975,909,909,3001,1000.3,-1,-7.7,-6.8,-9,1145.3,1210.5,1133.7,1057,1163.1
 22,77000,Strawberry Mansion and Stanton,Violent,1292,1316,1353,1379,1379,3961,1320.3,4.7,6.7,1.9,4,1677.9,1709.1,1757.1,1790.9,1714.7
@@ -18,6 +18,6 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Violent,580,465,570,645,645,1615,538.3,-1.7,11.2,13.2,20,1260.9,1010.9,1239.1,1402.2,1170.2
 07,95000,Somerton and Bustleton,Violent,148,130,164,155,155,442,147.3,10.8,4.7,-5.5,5,155.8,136.8,172.6,163.2,155.1
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Violent,295,313,353,388,388,961,320.3,19.7,31.5,9.9,21,304.1,322.7,363.9,400,330.2
-09,66000,"Center City West, Logan Circle and North Philadelphia",Violent,495,394,430,467,467,1319,439.7,-13.1,-5.7,8.6,6,750,597,651.5,707.6,666.2
+09,66000,"Center City West, Logan Circle and North Philadelphia",Violent,495,394,430,468,468,1319,439.7,-13.1,-5.5,8.8,6,750,597,651.5,709.1,666.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Violent,892,1104,888,861,861,2884,961.3,-0.4,-3.5,-3,-10,1238.9,1533.3,1233.3,1195.8,1335.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Violent,715,800,695,764,764,2210,736.7,-2.8,6.9,9.9,4,638.4,714.3,620.5,682.1,657.8
