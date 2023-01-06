@@ -1,15 +1,15 @@
 district,population,placename,category,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Motor Vehicle Theft,61,88,293,332,332,442,147.3,380.3,444.3,13.3,125,148.8,214.6,714.6,809.8,359.3
 17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,205,205,284,94.7,263.3,318.4,15.2,116,98,114,356,410,189.4
-18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,584,584,585,195,487.9,784.8,50.5,199,82.5,163.8,485,730,243.8
+18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,585,585,585,195,487.9,786.4,50.8,200,82.5,163.8,485,731.2,243.8
 35,100000,Olney and Logan,Motor Vehicle Theft,115,143,477,951,951,735,245,314.8,727,99.4,288,115,143,477,951,245
 39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,626,626,695,231.7,361.2,507.8,31.8,170,168.9,191.8,778.7,1026.2,379.8
 01,37000,Girard Estates and Navy Yard,Motor Vehicle Theft,34,27,109,198,198,170,56.7,220.6,482.4,81.7,249,91.9,73,294.6,535.1,153.2
-02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,864,864,621,207,359.6,819.1,100,317,81.7,82.6,375.7,751.3,180
+02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,863,863,621,207,359.6,818.1,99.8,317,81.7,82.6,375.7,750.4,180
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,427,427,431,143.7,316.2,527.9,50.9,197,73.1,86,304.3,459.1,154.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,696,687,229,257.5,480,62.2,204,139.5,160.5,498.8,809.3,266.3
 22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,1000,1000,903,301,465.7,825.9,63.7,232,140.3,239,793.5,1298.7,390.9
-24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,689,689,865,288.3,365,474.2,23.5,139,179.1,279.1,832.8,1028.4,430.3
+24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,688,688,865,288.3,365,473.3,23.3,139,179.1,279.1,832.8,1026.9,430.3
 25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,681,681,880,293.3,314.6,423.8,26.3,132,191.2,310.3,792.6,1001.5,431.3
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,105,164,424,719,719,693,231,303.8,584.8,69.6,211,184.2,287.7,743.9,1261.4,405.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1258,1258,1216,405.3,432.9,761.6,61.7,210,105,210.1,559.7,905,291.6
