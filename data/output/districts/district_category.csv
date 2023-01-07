@@ -19,7 +19,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 18,80000,University City and Cobbs Creek,Burglary,318,362,289,302,302,969,323,-9.1,-5,4.5,-7,397.5,452.5,361.2,377.5,403.8
 18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,585,585,585,195,487.9,786.4,50.8,200,82.5,163.8,485,731.2,243.8
 18,80000,University City and Cobbs Creek,Murder,19,24,18,24,24,61,20.3,-5.3,26.3,33.3,18,23.8,30,22.5,30,25.4
-18,80000,University City and Cobbs Creek,Other,5760,3988,3333,3613,3613,13081,4360.3,-42.1,-37.3,8.4,-17,7200,4985,4166.2,4516.2,5450.4
+18,80000,University City and Cobbs Creek,Other,5760,3988,3333,3616,3616,13081,4360.3,-42.1,-37.2,8.5,-17,7200,4985,4166.2,4520,5450.4
 18,80000,University City and Cobbs Creek,Robbery,277,288,257,250,250,822,274,-7.2,-9.7,-2.7,-9,346.2,360,321.2,312.5,342.5
 18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,32,32,137,45.7,0,-30.4,-30.4,-30,57.5,56.2,57.5,40,57.1
 18,80000,University City and Cobbs Creek,Theft,2177,1701,1645,2414,2414,5523,1841,-24.4,10.9,46.7,31,2721.2,2126.2,2056.2,3017.5,2301.2
@@ -35,10 +35,10 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,325,325,1260,420,-21.2,-23.5,-3,-23,696.7,819.7,549.2,532.8,688.5
 39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,626,626,695,231.7,361.2,507.8,31.8,170,168.9,191.8,778.7,1026.2,379.8
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,35,35,117,39,64.3,25,-23.9,-10,45.9,70.5,75.4,57.4,63.9
-39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4344,4344,14584,4861.3,-23.1,-24.7,-2.1,-11,9454.1,7183.6,7270.5,7121.3,7969.3
+39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4343,4343,14584,4861.3,-23.1,-24.7,-2.1,-11,9454.1,7183.6,7270.5,7119.7,7969.3
 39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,311,311,827,275.7,-6.9,7.6,15.6,13,473.8,441,441,509.8,452
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,39,39,163,54.3,-7.9,-38.1,-32.8,-28,103.3,68.9,95.1,63.9,89
-39,61000,"East Falls, Tioga and Nicetown",Theft,1677,1451,1577,1849,1849,4705,1568.3,-6,10.3,17.2,18,2749.2,2378.7,2585.2,3031.1,2571
+39,61000,"East Falls, Tioga and Nicetown",Theft,1677,1451,1577,1850,1850,4705,1568.3,-6,10.3,17.3,18,2749.2,2378.7,2585.2,3032.8,2571
 01,37000,Girard Estates and Navy Yard,Aggravated Assault,118,141,138,139,139,397,132.3,16.9,17.8,0.7,5,318.9,381.1,373,375.7,357.6
 01,37000,Girard Estates and Navy Yard,Burglary,77,72,136,157,157,285,95,76.6,103.9,15.4,65,208.1,194.6,367.6,424.3,256.8
 01,37000,Girard Estates and Navy Yard,Motor Vehicle Theft,34,27,109,198,198,170,56.7,220.6,482.4,81.7,249,91.9,73,294.6,535.1,153.2
@@ -47,19 +47,19 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 01,37000,Girard Estates and Navy Yard,Robbery,98,85,79,146,146,262,87.3,-19.4,49,84.8,67,264.9,229.7,213.5,394.6,235.9
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,8,8,31,10.3,-77.8,-55.6,100,-22,48.6,24.3,10.8,21.6,27.8
 01,37000,Girard Estates and Navy Yard,Theft,733,648,735,1316,1316,2116,705.3,0.3,79.5,79,87,1981.1,1751.4,1986.5,3556.8,1906.2
-02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,311,311,985,328.3,16.8,6.5,-8.8,-5,253.9,306.1,296.5,270.4,285.5
+02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,312,312,985,328.3,16.8,6.8,-8.5,-5,253.9,306.1,296.5,271.3,285.5
 02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,219,219,763,254.3,5,0,-4.8,-14,190.4,273,200,190.4,221.1
 02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,863,863,621,207,359.6,818.1,99.8,317,81.7,82.6,375.7,750.4,180
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,23,32,10.7,71.4,228.6,91.7,115,6.1,11.3,10.4,20,9.3
-02,115000,Oxford Circle and Lawncrest,Other,3589,3118,3278,3369,3369,9985,3328.3,-8.7,-6.1,2.8,1,3120.9,2711.3,2850.4,2929.6,2894.2
+02,115000,Oxford Circle and Lawncrest,Other,3589,3118,3278,3368,3368,9985,3328.3,-8.7,-6.2,2.7,1,3120.9,2711.3,2850.4,2928.7,2894.2
 02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,401,401,788,262.7,30.5,65,26.5,53,211.3,198.3,275.7,348.7,228.4
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,38,38,141,47,-45.6,-33.3,22.6,-19,49.6,46.1,27,33,40.9
 02,115000,Oxford Circle and Lawncrest,Theft,2128,1817,2104,2911,2911,6049,2016.3,-1.1,36.8,38.4,44,1850.4,1580,1829.6,2531.3,1753.3
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,246,246,722,240.7,-8.8,-5.4,3.8,2,279.6,241.9,254.8,264.5,258.8
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,247,247,722,240.7,-8.8,-5,4.2,3,279.6,241.9,254.8,265.6,258.8
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,258,258,760,253.3,-30.4,-15.7,21.1,2,329,259.1,229,277.4,272.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,427,427,431,143.7,316.2,527.9,50.9,197,73.1,86,304.3,459.1,154.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,15,15,23,7.7,250,275,7.1,95,4.3,5.4,15.1,16.1,8.3
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,4138,3234,2642,2616,2616,10014,3338,-36.2,-36.8,-1,-22,4449.5,3477.4,2840.9,2812.9,3589.2
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,4138,3234,2642,2615,2615,10014,3338,-36.2,-36.8,-1,-22,4449.5,3477.4,2840.9,2811.8,3589.2
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,260,170,196,233,233,626,208.7,-24.6,-10.4,18.9,12,279.6,182.8,210.8,250.5,224.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,27,27,80,26.7,6.7,-10,-15.6,1,32.3,19.4,34.4,29,28.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,2103,1997,2225,3335,3335,6325,2108.3,5.8,58.6,49.9,58,2261.3,2147.3,2392.5,3586,2267
@@ -67,7 +67,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,317,317,1136,378.7,-17.3,-15.5,2.3,-16,436,524.4,360.5,368.6,440.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,696,687,229,257.5,480,62.2,204,139.5,160.5,498.8,809.3,266.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,30,95,31.7,34.6,15.4,-14.3,-5,30.2,39.5,40.7,34.9,36.9
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4756,4756,17878,5959.3,-32.7,-37.1,-6.5,-20,8795.3,6075.6,5917.4,5530.2,6929.4
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4757,4757,17878,5959.3,-32.7,-37.1,-6.5,-20,8795.3,6075.6,5917.4,5531.4,6929.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,248,248,786,262,-20.4,-18.4,2.5,-5,353.5,279.1,281.4,288.4,304.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,36,161,53.7,-38,-49.3,-18.2,-33,82.6,53.5,51.2,41.9,62.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2087,2087,4878,1626,-6.3,20.4,28.4,28,2016.3,1766.3,1889.5,2426.7,1890.7
@@ -83,15 +83,15 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 24,67000,Richmond and Port Richmond,Burglary,277,450,233,316,316,960,320,-15.9,14.1,35.6,-1,413.4,671.6,347.8,471.6,477.6
 24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,688,688,865,288.3,365,473.3,23.3,139,179.1,279.1,832.8,1026.9,430.3
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,55,163,54.3,181.5,103.7,-27.6,1,40.3,89.6,113.4,82.1,81
-24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4534,4534,21170,7056.7,-52.8,-55.6,-6,-36,15243.3,9155.2,7198.5,6767.2,10532.4
+24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4535,4535,21170,7056.7,-52.8,-55.6,-6,-36,15243.3,9155.2,7198.5,6768.7,10532.4
 24,67000,Richmond and Port Richmond,Robbery,447,467,444,545,545,1358,452.7,-0.7,21.9,22.7,20,667.2,697,662.7,813.4,675.7
 24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,41,41,168,56,-44.3,-41.4,5.1,-27,104.5,88.1,58.2,61.2,83.6
 24,67000,Richmond and Port Richmond,Theft,1743,1768,2351,2430,2430,5862,1954,34.9,39.4,3.4,24,2601.5,2638.8,3509,3626.9,2916.4
-25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,837,837,2463,821,11.4,13.6,1.9,2,1083.8,1330.9,1207.4,1230.9,1207.4
+25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,838,838,2463,821,11.4,13.7,2.1,2,1083.8,1330.9,1207.4,1232.4,1207.4
 25,68000,Kensington and Harrowgate,Burglary,293,397,219,242,242,909,303,-25.3,-17.4,10.5,-20,430.9,583.8,322.1,355.9,445.6
 25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,681,681,880,293.3,314.6,423.8,26.3,132,191.2,310.3,792.6,1001.5,431.3
 25,68000,Kensington and Harrowgate,Murder,41,42,52,54,54,135,45,26.8,31.7,3.8,20,60.3,61.8,76.5,79.4,66.2
-25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4826,4826,15558,5186,-29.1,-22.3,9.6,-7,9138.2,7264.7,6476.5,7097.1,7626.5
+25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4825,4825,15558,5186,-29.1,-22.4,9.6,-7,9138.2,7264.7,6476.5,7095.6,7626.5
 25,68000,Kensington and Harrowgate,Robbery,559,420,468,504,504,1447,482.3,-16.3,-9.8,7.7,4,822.1,617.6,688.2,741.2,709.3
 25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,46,46,222,74,8.8,-32.4,-37.8,-38,100,117.6,108.8,67.6,108.8
 25,68000,Kensington and Harrowgate,Theft,1481,1505,1391,1609,1609,4377,1459,-6.1,8.6,15.7,10,2177.9,2213.2,2045.6,2366.2,2145.6
@@ -163,10 +163,10 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,335,335,1020,340,-29.4,-8,30.4,-1,505.6,554.2,356.9,465.3,472.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,868,1051,350.3,268.2,401.7,36.3,148,240.3,334.7,884.7,1205.6,486.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,39,105,35,13.8,34.5,18.2,11,40.3,59.7,45.8,54.2,48.6
-12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4748,4748,15361,5120.3,-15,-14,1.1,-7,7670.8,7140.3,6523.6,6594.4,7111.5
+12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4747,4747,15361,5120.3,-15,-14.1,1.1,-7,7670.8,7140.3,6523.6,6593.1,7111.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,288,288,777,259,-10.8,7.1,20,11,373.6,372.2,333.3,400,359.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,30,175,58.3,-3.4,-49.2,-47.4,-49,81.9,81.9,79.2,41.7,81
-12,72000,"Kingsessing, Eastwick and Elmwood",Theft,1432,1470,1668,1856,1856,4570,1523.3,16.5,29.6,11.3,22,1988.9,2041.7,2316.7,2577.8,2115.7
+12,72000,"Kingsessing, Eastwick and Elmwood",Theft,1432,1470,1668,1857,1857,4570,1523.3,16.5,29.7,11.3,22,1988.9,2041.7,2316.7,2579.2,2115.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,453,453,1398,466,12.2,10.2,-1.7,-3,367,469.6,411.6,404.5,416.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,288,396,243,272,272,927,309,-15.6,-5.6,11.9,-12,257.1,353.6,217,242.9,275.9
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,696,696,590,196.7,193.9,510.5,107.8,254,101.8,125.9,299.1,621.4,175.6
