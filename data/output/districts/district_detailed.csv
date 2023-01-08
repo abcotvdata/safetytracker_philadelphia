@@ -193,7 +193,7 @@ district,population,placename,category,description,total19,total20,total21,total
 02,115000,Oxford Circle and Lawncrest,Other,Other Sex Offenses (Not Commercialized),50,43,55,51,51,148,49.3,10,2,-7.3,3,43.5,37.4,47.8,44.3,42.9
 02,115000,Oxford Circle and Lawncrest,Other,Prostitution and Commercialized Vice,5,1,1,3,3,7,2.3,-80,-40,200,30,4.3,0.9,0.9,2.6,2
 02,115000,Oxford Circle and Lawncrest,Other,Public Drunkenness,1,0,0,0,0,1,0.3,-100,-100,NA,-100,0.9,0,0,0,0.3
-02,115000,Oxford Circle and Lawncrest,Other,Receiving Stolen Property,2,2,16,33,33,20,6.7,700,1550,106.2,393,1.7,1.7,13.9,28.7,5.8
+02,115000,Oxford Circle and Lawncrest,Other,Receiving Stolen Property,2,2,16,34,34,20,6.7,700,1600,112.5,407,1.7,1.7,13.9,29.6,5.8
 02,115000,Oxford Circle and Lawncrest,Other,Vandalism/Criminal Mischief,747,726,626,679,679,2099,699.7,-16.2,-9.1,8.5,-3,649.6,631.3,544.3,590.4,608.4
 02,115000,Oxford Circle and Lawncrest,Other,Weapon Violations,60,98,110,86,86,268,89.3,83.3,43.3,-21.8,-4,52.2,85.2,95.7,74.8,77.7
 02,115000,Oxford Circle and Lawncrest,Robbery,Robbery Firearm,105,117,189,233,233,411,137,80,121.9,23.3,70,91.3,101.7,164.3,202.6,119.1
@@ -242,7 +242,7 @@ district,population,placename,category,description,total19,total20,total21,total
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,DRIVING UNDER THE INFLUENCE,162,90,81,43,43,333,111,-50,-73.5,-46.9,-61,188.4,104.7,94.2,50,129.1
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Embezzlement,42,17,7,10,10,66,22,-83.3,-76.2,42.9,-55,48.8,19.8,8.1,11.6,25.6
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Forgery and Counterfeiting,13,4,9,7,7,26,8.7,-30.8,-46.2,-22.2,-20,15.1,4.7,10.5,8.1,10.1
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Fraud,657,683,685,458,458,2025,675,4.3,-30.3,-33.1,-32,764,794.2,796.5,532.6,784.9
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Fraud,657,683,685,459,459,2025,675,4.3,-30.1,-33,-32,764,794.2,796.5,533.7,784.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Liquor Law Violations,10,2,10,6,6,22,7.3,0,-40,-40,-18,11.6,2.3,11.6,7,8.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Narcotic / Drug Law Violations,625,273,110,144,144,1008,336,-82.4,-77,30.9,-57,726.7,317.4,127.9,167.4,390.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Offenses Against Family and Children,19,15,10,4,4,44,14.7,-47.4,-78.9,-60,-73,22.1,17.4,11.6,4.7,17.1
@@ -456,7 +456,7 @@ district,population,placename,category,description,total19,total20,total21,total
 05,43000,"Andorra, Roxborough and Manayunk",Robbery,Robbery Firearm,10,5,19,19,19,34,11.3,90,90,0,68,23.3,11.6,44.2,44.2,26.3
 05,43000,"Andorra, Roxborough and Manayunk",Robbery,Robbery No Firearm,16,20,14,25,25,50,16.7,-12.5,56.2,78.6,50,37.2,46.5,32.6,58.1,38.8
 05,43000,"Andorra, Roxborough and Manayunk",Sexual Assault,Rape,10,10,10,13,13,30,10,0,30,30,30,23.3,23.3,23.3,30.2,23.3
-05,43000,"Andorra, Roxborough and Manayunk",Theft,Theft from Vehicle,446,318,504,577,577,1268,422.7,13,29.4,14.5,37,1037.2,739.5,1172.1,1341.9,983
+05,43000,"Andorra, Roxborough and Manayunk",Theft,Theft from Vehicle,446,318,504,578,578,1268,422.7,13,29.6,14.7,37,1037.2,739.5,1172.1,1344.2,983
 05,43000,"Andorra, Roxborough and Manayunk",Theft,Thefts,324,325,369,481,481,1018,339.3,13.9,48.5,30.4,42,753.5,755.8,858.1,1118.6,789.1
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Aggravated Assault,Aggravated Assault Firearm,35,75,50,78,78,160,53.3,42.9,122.9,56,46,76.1,163,108.7,169.6,115.9
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Aggravated Assault,Aggravated Assault No Firearm,213,180,203,245,245,596,198.7,-4.7,15,20.7,23,463,391.3,441.3,532.6,432
@@ -531,7 +531,7 @@ district,population,placename,category,description,total19,total20,total21,total
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,Liquor Law Violations,3,20,0,0,0,23,7.7,-100,-100,NA,-100,3.1,20.6,0,0,7.9
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,Narcotic / Drug Law Violations,152,100,33,18,18,285,95,-78.3,-88.2,-45.5,-81,156.7,103.1,34,18.6,97.9
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,Offenses Against Family and Children,2,2,1,2,2,5,1.7,-50,0,100,18,2.1,2.1,1,2.1,1.8
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,Other Assaults,889,850,950,890,890,2689,896.3,6.9,0.1,-6.3,-1,916.5,876.3,979.4,917.5,924
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,Other Assaults,889,850,950,891,891,2689,896.3,6.9,0.2,-6.2,-1,916.5,876.3,979.4,918.6,924
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,Other Sex Offenses (Not Commercialized),47,31,24,36,36,102,34,-48.9,-23.4,50,6,48.5,32,24.7,37.1,35.1
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,Prostitution and Commercialized Vice,0,3,0,0,0,3,1,NA,NA,NA,-100,0,3.1,0,0,1
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,Receiving Stolen Property,1,1,15,22,22,17,5.7,1400,2100,46.7,286,1,1,15.5,22.7,5.9
@@ -552,7 +552,7 @@ district,population,placename,category,description,total19,total20,total21,total
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Arson,3,20,14,7,7,37,12.3,366.7,133.3,-50,-43,4.5,30.3,21.2,10.6,18.6
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Disorderly Conduct,57,63,22,33,33,142,47.3,-61.4,-42.1,50,-30,86.4,95.5,33.3,50,71.7
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,DRIVING UNDER THE INFLUENCE,42,23,38,20,20,103,34.3,-9.5,-52.4,-47.4,-42,63.6,34.8,57.6,30.3,52
-09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Embezzlement,28,6,6,19,19,40,13.3,-78.6,-32.1,216.7,43,42.4,9.1,9.1,28.8,20.2
+09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Embezzlement,28,6,6,20,20,40,13.3,-78.6,-28.6,233.3,50,42.4,9.1,9.1,30.3,20.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Forgery and Counterfeiting,29,19,15,26,26,63,21,-48.3,-10.3,73.3,24,43.9,28.8,22.7,39.4,31.8
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Fraud,519,320,219,211,211,1058,352.7,-57.8,-59.3,-3.7,-40,786.4,484.8,331.8,319.7,534.4
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Gambling Violations,1,0,0,0,0,1,0.3,-100,-100,NA,-100,1.5,0,0,0,0.5
@@ -612,7 +612,7 @@ district,population,placename,category,description,total19,total20,total21,total
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,DRIVING UNDER THE INFLUENCE,97,60,56,40,40,213,71,-42.3,-58.8,-28.6,-44,86.6,53.6,50,35.7,63.4
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Embezzlement,13,12,5,8,8,30,10,-61.5,-38.5,60,-20,11.6,10.7,4.5,7.1,8.9
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Forgery and Counterfeiting,17,11,30,175,175,58,19.3,76.5,929.4,483.3,807,15.2,9.8,26.8,156.2,17.2
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Fraud,679,802,910,641,641,2391,797,34,-5.6,-29.6,-20,606.2,716.1,812.5,572.3,711.6
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Fraud,679,802,910,642,642,2391,797,34,-5.4,-29.5,-19,606.2,716.1,812.5,573.2,711.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Gambling Violations,15,1,4,0,0,20,6.7,-73.3,-100,-100,-100,13.4,0.9,3.6,0,6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Liquor Law Violations,1,1,0,1,1,2,0.7,-100,0,NA,43,0.9,0.9,0,0.9,0.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Narcotic / Drug Law Violations,498,322,246,190,190,1066,355.3,-50.6,-61.8,-22.8,-47,444.6,287.5,219.6,169.6,317.2
