@@ -35,10 +35,10 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,325,325,1260,420,-21.2,-23.5,-3,-23,696.7,819.7,549.2,532.8,688.5
 39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,626,626,695,231.7,361.2,507.8,31.8,170,168.9,191.8,778.7,1026.2,379.8
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,35,35,117,39,64.3,25,-23.9,-10,45.9,70.5,75.4,57.4,63.9
-39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4343,4343,14584,4861.3,-23.1,-24.7,-2.1,-11,9454.1,7183.6,7270.5,7119.7,7969.3
+39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4344,4344,14584,4861.3,-23.1,-24.7,-2.1,-11,9454.1,7183.6,7270.5,7121.3,7969.3
 39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,311,311,827,275.7,-6.9,7.6,15.6,13,473.8,441,441,509.8,452
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,39,39,163,54.3,-7.9,-38.1,-32.8,-28,103.3,68.9,95.1,63.9,89
-39,61000,"East Falls, Tioga and Nicetown",Theft,1677,1451,1577,1850,1850,4705,1568.3,-6,10.3,17.3,18,2749.2,2378.7,2585.2,3032.8,2571
+39,61000,"East Falls, Tioga and Nicetown",Theft,1677,1451,1577,1851,1851,4705,1568.3,-6,10.4,17.4,18,2749.2,2378.7,2585.2,3034.4,2571
 01,37000,Girard Estates and Navy Yard,Aggravated Assault,118,141,138,139,139,397,132.3,16.9,17.8,0.7,5,318.9,381.1,373,375.7,357.6
 01,37000,Girard Estates and Navy Yard,Burglary,77,72,136,157,157,285,95,76.6,103.9,15.4,65,208.1,194.6,367.6,424.3,256.8
 01,37000,Girard Estates and Navy Yard,Motor Vehicle Theft,34,27,109,198,198,170,56.7,220.6,482.4,81.7,249,91.9,73,294.6,535.1,153.2
@@ -67,10 +67,10 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,317,317,1136,378.7,-17.3,-15.5,2.3,-16,436,524.4,360.5,368.6,440.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,696,687,229,257.5,480,62.2,204,139.5,160.5,498.8,809.3,266.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,30,95,31.7,34.6,15.4,-14.3,-5,30.2,39.5,40.7,34.9,36.9
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4758,4758,17878,5959.3,-32.7,-37.1,-6.5,-20,8795.3,6075.6,5917.4,5532.6,6929.4
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4757,4757,17878,5959.3,-32.7,-37.1,-6.5,-20,8795.3,6075.6,5917.4,5531.4,6929.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,248,248,786,262,-20.4,-18.4,2.5,-5,353.5,279.1,281.4,288.4,304.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,36,161,53.7,-38,-49.3,-18.2,-33,82.6,53.5,51.2,41.9,62.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2087,2087,4878,1626,-6.3,20.4,28.4,28,2016.3,1766.3,1889.5,2426.7,1890.7
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2088,2088,4878,1626,-6.3,20.4,28.5,28,2016.3,1766.3,1889.5,2427.9,1890.7
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,771,771,2369,789.7,17.1,8.3,-7.6,-2,924.7,1068.8,1083.1,1001.3,1025.6
 22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,570,570,1907,635.7,-12.1,-10.8,1.4,-10,829.9,916.9,729.9,740.3,825.6
 22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,1000,1000,903,301,465.7,825.9,63.7,232,140.3,239,793.5,1298.7,390.9
@@ -83,7 +83,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 24,67000,Richmond and Port Richmond,Burglary,277,450,233,316,316,960,320,-15.9,14.1,35.6,-1,413.4,671.6,347.8,471.6,477.6
 24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,688,688,865,288.3,365,473.3,23.3,139,179.1,279.1,832.8,1026.9,430.3
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,55,163,54.3,181.5,103.7,-27.6,1,40.3,89.6,113.4,82.1,81
-24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4535,4535,21170,7056.7,-52.8,-55.6,-6,-36,15243.3,9155.2,7198.5,6768.7,10532.4
+24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4536,4536,21170,7056.7,-52.8,-55.6,-6,-36,15243.3,9155.2,7198.5,6770.1,10532.4
 24,67000,Richmond and Port Richmond,Robbery,447,467,444,545,545,1358,452.7,-0.7,21.9,22.7,20,667.2,697,662.7,813.4,675.7
 24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,41,41,168,56,-44.3,-41.4,5.1,-27,104.5,88.1,58.2,61.2,83.6
 24,67000,Richmond and Port Richmond,Theft,1743,1768,2351,2430,2430,5862,1954,34.9,39.4,3.4,24,2601.5,2638.8,3509,3626.9,2916.4
@@ -131,7 +131,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,303,330,282,378,378,915,305,-6.9,24.8,34,24,658.7,717.4,613,821.7,663
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Motor Vehicle Theft,45,61,228,280,280,334,111.3,406.7,522.2,22.8,152,97.8,132.6,495.7,608.7,242
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,5,13,4.3,16.7,-16.7,-28.6,16,13,0,15.2,10.9,9.3
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2816,2816,8878,2959.3,-45.7,-32.3,24.8,-5,9039.1,5354.3,4906.5,6121.7,6433.3
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2817,2817,8878,2959.3,-45.7,-32.3,24.8,-5,9039.1,5354.3,4906.5,6123.9,6433.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,298,298,767,255.7,-4.1,1,5.3,17,641.3,410.9,615.2,647.8,555.9
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,31,21,27,19,19,79,26.3,-12.9,-38.7,-29.6,-28,67.4,45.7,58.7,41.3,57.2
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,3423,2615,2807,3616,3616,8845,2948.3,-18,5.6,28.8,23,7441.3,5684.8,6102.2,7860.9,6409.3

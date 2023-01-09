@@ -625,7 +625,7 @@ Other,Fraud,2022-08-01,741,675
 Other,Fraud,2022-09-01,748,718
 Other,Fraud,2022-10-01,594,694
 Other,Fraud,2022-11-01,534,625
-Other,Fraud,2022-12-01,622,583
+Other,Fraud,2022-12-01,621,583
 Other,Gambling Violations,2019-02-01,2,NA
 Other,Gambling Violations,2019-03-01,1,NA
 Other,Gambling Violations,2019-04-01,24,9
@@ -737,7 +737,7 @@ Other,Narcotic / Drug Law Violations,2022-07-01,228,237
 Other,Narcotic / Drug Law Violations,2022-08-01,248,237
 Other,Narcotic / Drug Law Violations,2022-09-01,221,232
 Other,Narcotic / Drug Law Violations,2022-10-01,251,240
-Other,Narcotic / Drug Law Violations,2022-11-01,276,249
+Other,Narcotic / Drug Law Violations,2022-11-01,277,250
 Other,Narcotic / Drug Law Violations,2022-12-01,225,251
 Other,Offenses Against Family and Children,2019-01-01,47,NA
 Other,Offenses Against Family and Children,2019-02-01,35,NA
@@ -1010,7 +1010,7 @@ Other,Receiving Stolen Property,2022-08-01,102,86
 Other,Receiving Stolen Property,2022-09-01,93,94
 Other,Receiving Stolen Property,2022-10-01,100,98
 Other,Receiving Stolen Property,2022-11-01,126,106
-Other,Receiving Stolen Property,2022-12-01,135,120
+Other,Receiving Stolen Property,2022-12-01,136,121
 Other,Vagrancy/Loitering,2019-01-01,2,NA
 Other,Vagrancy/Loitering,2019-03-01,1,NA
 Other,Vagrancy/Loitering,2019-04-01,4,2
@@ -1082,7 +1082,7 @@ Other,Vandalism/Criminal Mischief,2022-08-01,1331,1314
 Other,Vandalism/Criminal Mischief,2022-09-01,1177,1269
 Other,Vandalism/Criminal Mischief,2022-10-01,1257,1255
 Other,Vandalism/Criminal Mischief,2022-11-01,1166,1200
-Other,Vandalism/Criminal Mischief,2022-12-01,1175,1199
+Other,Vandalism/Criminal Mischief,2022-12-01,1176,1200
 Other,Weapon Violations,2019-01-01,214,NA
 Other,Weapon Violations,2019-02-01,196,NA
 Other,Weapon Violations,2019-03-01,172,194
@@ -1322,7 +1322,7 @@ Theft,Theft from Vehicle,2022-08-01,1617,1522
 Theft,Theft from Vehicle,2022-09-01,1446,1520
 Theft,Theft from Vehicle,2022-10-01,1584,1549
 Theft,Theft from Vehicle,2022-11-01,1283,1438
-Theft,Theft from Vehicle,2022-12-01,1150,1339
+Theft,Theft from Vehicle,2022-12-01,1151,1339
 Theft,Thefts,2019-01-01,1709,NA
 Theft,Thefts,2019-02-01,1669,NA
 Theft,Thefts,2019-03-01,1729,1702
@@ -1370,4 +1370,4 @@ Theft,Thefts,2022-08-01,3237,3123
 Theft,Thefts,2022-09-01,3119,3155
 Theft,Thefts,2022-10-01,3115,3157
 Theft,Thefts,2022-11-01,2882,3039
-Theft,Thefts,2022-12-01,2941,2979
+Theft,Thefts,2022-12-01,2942,2980
