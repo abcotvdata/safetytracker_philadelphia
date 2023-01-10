@@ -132,13 +132,13 @@ district,population,placename,category,description,total19,total20,total21,total
 39,61000,"East Falls, Tioga and Nicetown",Other,Liquor Law Violations,2,4,9,10,10,15,5,350,400,11.1,100,3.3,6.6,14.8,16.4,8.2
 39,61000,"East Falls, Tioga and Nicetown",Other,Narcotic / Drug Law Violations,564,308,236,151,151,1108,369.3,-58.2,-73.2,-36,-59,924.6,504.9,386.9,247.5,605.4
 39,61000,"East Falls, Tioga and Nicetown",Other,Offenses Against Family and Children,8,7,5,2,2,20,6.7,-37.5,-75,-60,-70,13.1,11.5,8.2,3.3,11
-39,61000,"East Falls, Tioga and Nicetown",Other,Other Assaults,1766,1420,1874,1812,1812,5060,1686.7,6.1,2.6,-3.3,7,2895.1,2327.9,3072.1,2970.5,2765.1
+39,61000,"East Falls, Tioga and Nicetown",Other,Other Assaults,1766,1420,1874,1813,1813,5060,1686.7,6.1,2.7,-3.3,7,2895.1,2327.9,3072.1,2972.1,2765.1
 39,61000,"East Falls, Tioga and Nicetown",Other,Other Sex Offenses (Not Commercialized),47,37,42,53,53,126,42,-10.6,12.8,26.2,26,77,60.7,68.9,86.9,68.9
 39,61000,"East Falls, Tioga and Nicetown",Other,Prostitution and Commercialized Vice,11,0,0,0,0,11,3.7,-100,-100,NA,-100,18,0,0,0,6.1
 39,61000,"East Falls, Tioga and Nicetown",Other,Public Drunkenness,2,1,10,1,1,13,4.3,400,-50,-90,-77,3.3,1.6,16.4,1.6,7
 39,61000,"East Falls, Tioga and Nicetown",Other,Receiving Stolen Property,5,2,33,57,57,40,13.3,560,1040,72.7,329,8.2,3.3,54.1,93.4,21.8
 39,61000,"East Falls, Tioga and Nicetown",Other,Vandalism/Criminal Mischief,838,826,804,823,823,2468,822.7,-4.1,-1.8,2.4,0,1373.8,1354.1,1318,1349.2,1348.7
-39,61000,"East Falls, Tioga and Nicetown",Other,Weapon Violations,193,293,299,179,179,785,261.7,54.9,-7.3,-40.1,-32,316.4,480.3,490.2,293.4,429
+39,61000,"East Falls, Tioga and Nicetown",Other,Weapon Violations,193,293,299,178,178,785,261.7,54.9,-7.8,-40.5,-32,316.4,480.3,490.2,291.8,429
 39,61000,"East Falls, Tioga and Nicetown",Robbery,Robbery Firearm,127,114,127,169,169,368,122.7,0,33.1,33.1,38,208.2,186.9,208.2,277,201.1
 39,61000,"East Falls, Tioga and Nicetown",Robbery,Robbery No Firearm,162,155,142,142,142,459,153,-12.3,-12.3,0,-7,265.6,254.1,232.8,232.8,250.8
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,Rape,63,42,58,39,39,163,54.3,-7.9,-38.1,-32.8,-28,103.3,68.9,95.1,63.9,89
@@ -231,7 +231,7 @@ district,population,placename,category,description,total19,total20,total21,total
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,Theft from Vehicle,750,752,789,1262,1262,2291,763.7,5.2,68.3,59.9,65,806.5,808.6,848.4,1357,821.2
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,Thefts,1353,1245,1436,2073,2073,4034,1344.7,6.1,53.2,44.4,54,1454.8,1338.7,1544.1,2229,1445.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault Firearm,221,315,296,278,278,832,277.3,33.9,25.8,-6.1,0,257,366.3,344.2,323.3,322.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault No Firearm,363,406,358,318,318,1127,375.7,-1.4,-12.4,-11.2,-15,422.1,472.1,416.3,369.8,436.9
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault No Firearm,363,406,358,319,319,1127,375.7,-1.4,-12.1,-10.9,-15,422.1,472.1,416.3,370.9,436.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Non-Residential,76,218,63,80,80,357,119,-17.1,5.3,27,-33,88.4,253.5,73.3,93,138.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Residential,299,233,247,237,237,779,259.7,-17.4,-20.7,-4,-9,347.7,270.9,287.2,275.6,302
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,Motor Vehicle Theft,120,138,429,696,696,687,229,257.5,480,62.2,204,139.5,160.5,498.8,809.3,266.3
@@ -255,13 +255,13 @@ district,population,placename,category,description,total19,total20,total21,total
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Vandalism/Criminal Mischief,944,963,993,970,970,2900,966.7,5.2,2.8,-2.3,0,1097.7,1119.8,1154.7,1127.9,1124.1
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Weapon Violations,192,286,290,224,224,768,256,51,16.7,-22.8,-12,223.3,332.6,337.2,260.5,297.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,Robbery Firearm,138,103,155,140,140,396,132,12.3,1.4,-9.7,6,160.5,119.8,180.2,162.8,153.5
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,Robbery No Firearm,166,137,87,108,108,390,130,-47.6,-34.9,24.1,-17,193,159.3,101.2,125.6,151.2
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,Robbery No Firearm,166,137,87,107,107,390,130,-47.6,-35.5,23,-18,193,159.3,101.2,124.4,151.2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,Rape,71,46,44,36,36,161,53.7,-38,-49.3,-18.2,-33,82.6,53.5,51.2,41.9,62.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,Theft from Vehicle,524,444,461,647,647,1429,476.3,-12,23.5,40.3,36,609.3,516.3,536,752.3,553.8
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,Thefts,1210,1075,1164,1441,1441,3449,1149.7,-3.8,19.1,23.8,25,1407,1250,1353.5,1675.6,1336.9
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,Aggravated Assault Firearm,237,346,405,365,365,988,329.3,70.9,54,-9.9,11,307.8,449.4,526,474,427.7
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,Aggravated Assault No Firearm,475,477,429,406,406,1381,460.3,-9.7,-14.5,-5.4,-12,616.9,619.5,557.1,527.3,597.8
-22,77000,Strawberry Mansion and Stanton,Burglary,Burglary Non-Residential,51,187,121,107,107,359,119.7,137.3,109.8,-11.6,-11,66.2,242.9,157.1,139,155.5
+22,77000,Strawberry Mansion and Stanton,Burglary,Burglary Non-Residential,51,187,121,108,108,359,119.7,137.3,111.8,-10.7,-10,66.2,242.9,157.1,140.3,155.5
 22,77000,Strawberry Mansion and Stanton,Burglary,Burglary Residential,588,519,441,463,463,1548,516,-25,-21.3,5,-10,763.6,674,572.7,601.3,670.1
 22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,Motor Vehicle Theft,108,184,611,1000,1000,903,301,465.7,825.9,63.7,232,140.3,239,793.5,1298.7,390.9
 22,77000,Strawberry Mansion and Stanton,Murder,Homicide - Criminal,33,56,71,55,55,160,53.3,115.2,66.7,-22.5,3,42.9,72.7,92.2,71.4,69.2
@@ -281,7 +281,7 @@ district,population,placename,category,description,total19,total20,total21,total
 22,77000,Strawberry Mansion and Stanton,Other,Prostitution and Commercialized Vice,3,1,1,1,1,5,1.7,-66.7,-66.7,0,-41,3.9,1.3,1.3,1.3,2.2
 22,77000,Strawberry Mansion and Stanton,Other,Public Drunkenness,23,1,0,4,4,24,8,-100,-82.6,NA,-50,29.9,1.3,0,5.2,10.4
 22,77000,Strawberry Mansion and Stanton,Other,Receiving Stolen Property,0,1,21,53,53,22,7.3,NA,NA,152.4,626,0,1.3,27.3,68.8,9.5
-22,77000,Strawberry Mansion and Stanton,Other,Vandalism/Criminal Mischief,1275,1184,1258,1321,1321,3717,1239,-1.3,3.6,5,7,1655.8,1537.7,1633.8,1715.6,1609.1
+22,77000,Strawberry Mansion and Stanton,Other,Vandalism/Criminal Mischief,1275,1184,1258,1320,1320,3717,1239,-1.3,3.5,4.9,7,1655.8,1537.7,1633.8,1714.3,1609.1
 22,77000,Strawberry Mansion and Stanton,Other,Weapon Violations,196,294,287,271,271,777,259,46.4,38.3,-5.6,5,254.5,381.8,372.7,351.9,336.4
 22,77000,Strawberry Mansion and Stanton,Robbery,Robbery Firearm,208,147,193,273,273,548,182.7,-7.2,31.2,41.5,49,270.1,190.9,250.6,354.5,237.3
 22,77000,Strawberry Mansion and Stanton,Robbery,Robbery No Firearm,254,220,177,217,217,651,217,-30.3,-14.6,22.6,0,329.9,285.7,229.9,281.8,281.8
@@ -319,8 +319,8 @@ district,population,placename,category,description,total19,total20,total21,total
 24,67000,Richmond and Port Richmond,Sexual Assault,Rape,70,59,39,41,41,168,56,-44.3,-41.4,5.1,-27,104.5,88.1,58.2,61.2,83.6
 24,67000,Richmond and Port Richmond,Theft,Theft from Vehicle,612,694,662,685,685,1968,656,8.2,11.9,3.5,4,913.4,1035.8,988.1,1022.4,979.1
 24,67000,Richmond and Port Richmond,Theft,Thefts,1131,1074,1689,1745,1745,3894,1298,49.3,54.3,3.3,34,1688.1,1603,2520.9,2604.5,1937.3
-25,68000,Kensington and Harrowgate,Aggravated Assault,Aggravated Assault Firearm,255,369,362,390,390,986,328.7,42,52.9,7.7,19,375,542.6,532.4,573.5,483.4
-25,68000,Kensington and Harrowgate,Aggravated Assault,Aggravated Assault No Firearm,482,536,459,448,448,1477,492.3,-4.8,-7.1,-2.4,-9,708.8,788.2,675,658.8,724
+25,68000,Kensington and Harrowgate,Aggravated Assault,Aggravated Assault Firearm,255,369,362,389,389,986,328.7,42,52.5,7.5,18,375,542.6,532.4,572.1,483.4
+25,68000,Kensington and Harrowgate,Aggravated Assault,Aggravated Assault No Firearm,482,536,459,449,449,1477,492.3,-4.8,-6.8,-2.2,-9,708.8,788.2,675,660.3,724
 25,68000,Kensington and Harrowgate,Burglary,Burglary Non-Residential,63,220,59,106,106,342,114,-6.3,68.3,79.7,-7,92.6,323.5,86.8,155.9,167.6
 25,68000,Kensington and Harrowgate,Burglary,Burglary Residential,230,177,160,136,136,567,189,-30.4,-40.9,-15,-28,338.2,260.3,235.3,200,277.9
 25,68000,Kensington and Harrowgate,Motor Vehicle Theft,Motor Vehicle Theft,130,211,539,681,681,880,293.3,314.6,423.8,26.3,132,191.2,310.3,792.6,1001.5,431.3
@@ -391,7 +391,7 @@ district,population,placename,category,description,total19,total20,total21,total
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,DRIVING UNDER THE INFLUENCE,161,102,90,55,55,353,117.7,-44.1,-65.8,-38.9,-53,115.8,73.4,64.7,39.6,84.7
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Embezzlement,27,11,9,8,8,47,15.7,-66.7,-70.4,-11.1,-49,19.4,7.9,6.5,5.8,11.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Forgery and Counterfeiting,21,12,18,25,25,51,17,-14.3,19,38.9,47,15.1,8.6,12.9,18,12.2
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Fraud,824,626,621,533,533,2071,690.3,-24.6,-35.3,-14.2,-23,592.8,450.4,446.8,383.5,496.6
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Fraud,824,626,621,532,532,2071,690.3,-24.6,-35.4,-14.3,-23,592.8,450.4,446.8,382.7,496.6
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Gambling Violations,2,0,1,0,0,3,1,-50,-100,-100,-100,1.4,0,0.7,0,0.7
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Liquor Law Violations,3,8,5,3,3,16,5.3,66.7,0,-40,-43,2.2,5.8,3.6,2.2,3.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Narcotic / Drug Law Violations,419,244,176,155,155,839,279.7,-58,-63,-11.9,-45,301.4,175.5,126.6,111.5,201.2
@@ -407,7 +407,7 @@ district,population,placename,category,description,total19,total20,total21,total
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,Robbery No Firearm,341,191,182,178,178,714,238,-46.6,-47.8,-2.2,-25,245.3,137.4,130.9,128.1,171.2
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,Rape,92,90,53,42,42,235,78.3,-42.4,-54.3,-20.8,-46,66.2,64.7,38.1,30.2,56.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Theft from Vehicle,1034,1000,992,990,990,3026,1008.7,-4.1,-4.3,-0.2,-2,743.9,719.4,713.7,712.2,725.7
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Thefts,1554,1256,1604,2670,2670,4414,1471.3,3.2,71.8,66.5,81,1118,903.6,1154,1920.9,1058.5
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Thefts,1554,1256,1604,2672,2672,4414,1471.3,3.2,71.9,66.6,82,1118,903.6,1154,1922.3,1058.5
 77,0,Philadelphia airport,Aggravated Assault,Aggravated Assault Firearm,0,1,0,0,0,1,0.3,NA,NA,NA,-100,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Aggravated Assault,Aggravated Assault No Firearm,7,7,2,5,5,16,5.3,-71.4,-28.6,150,-6,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Burglary,Burglary Non-Residential,0,6,3,0,0,9,3,NA,NA,-100,-100,NA,NA,NA,NA,NA
@@ -470,7 +470,7 @@ district,population,placename,category,description,total19,total20,total21,total
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,DRIVING UNDER THE INFLUENCE,62,38,33,30,30,133,44.3,-46.8,-51.6,-9.1,-32,134.8,82.6,71.7,65.2,96.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Embezzlement,34,11,8,21,21,53,17.7,-76.5,-38.2,162.5,19,73.9,23.9,17.4,45.7,38.5
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Forgery and Counterfeiting,20,9,6,22,22,35,11.7,-70,10,266.7,88,43.5,19.6,13,47.8,25.4
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Fraud,414,284,251,260,260,949,316.3,-39.4,-37.2,3.6,-18,900,617.4,545.7,565.2,687.6
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Fraud,414,284,251,259,259,949,316.3,-39.4,-37.4,3.2,-18,900,617.4,545.7,563,687.6
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Gambling Violations,1,0,0,1,1,1,0.3,-100,0,NA,233,2.2,0,0,2.2,0.7
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Liquor Law Violations,3,0,4,1,1,7,2.3,33.3,-66.7,-75,-57,6.5,0,8.7,2.2,5
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Narcotic / Drug Law Violations,487,134,40,31,31,661,220.3,-91.8,-93.6,-22.5,-86,1058.7,291.3,87,67.4,478.9
@@ -486,7 +486,7 @@ district,population,placename,category,description,total19,total20,total21,total
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,Robbery No Firearm,248,157,217,220,220,622,207.3,-12.5,-11.3,1.4,6,539.1,341.3,471.7,478.3,450.7
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,Rape,31,21,27,19,19,79,26.3,-12.9,-38.7,-29.6,-28,67.4,45.7,58.7,41.3,57.2
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,Theft from Vehicle,672,616,598,886,886,1886,628.7,-11,31.8,48.2,41,1460.9,1339.1,1300,1926.1,1366.7
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,Thefts,2751,1999,2209,2730,2730,6959,2319.7,-19.7,-0.8,23.6,18,5980.4,4345.7,4802.2,5934.8,5042.8
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,Thefts,2751,1999,2209,2731,2731,6959,2319.7,-19.7,-0.7,23.6,18,5980.4,4345.7,4802.2,5937,5042.8
 07,95000,Somerton and Bustleton,Aggravated Assault,Aggravated Assault Firearm,13,27,24,26,26,64,21.3,84.6,100,8.3,22,13.7,28.4,25.3,27.4,22.4
 07,95000,Somerton and Bustleton,Aggravated Assault,Aggravated Assault No Firearm,67,43,73,67,67,183,61,9,0,-8.2,10,70.5,45.3,76.8,70.5,64.2
 07,95000,Somerton and Bustleton,Burglary,Burglary Non-Residential,18,50,29,76,76,97,32.3,61.1,322.2,162.1,135,18.9,52.6,30.5,80,34
@@ -572,7 +572,7 @@ district,population,placename,category,description,total19,total20,total21,total
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,Rape,23,20,21,19,19,64,21.3,-8.7,-17.4,-9.5,-11,34.8,30.3,31.8,28.8,32.3
 09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,Theft from Vehicle,579,609,624,858,858,1812,604,7.8,48.2,37.5,42,877.3,922.7,945.5,1300,915.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,Thefts,2847,1974,2105,2445,2445,6926,2308.7,-26.1,-14.1,16.2,6,4313.6,2990.9,3189.4,3704.5,3498
-12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,Aggravated Assault Firearm,182,350,273,252,252,805,268.3,50,38.5,-7.7,-6,252.8,486.1,379.2,350,372.6
+12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,Aggravated Assault Firearm,182,350,273,251,251,805,268.3,50,37.9,-8.1,-6,252.8,486.1,379.2,348.6,372.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,Aggravated Assault No Firearm,353,384,285,253,253,1022,340.7,-19.3,-28.3,-11.2,-26,490.3,533.3,395.8,351.4,473.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,Burglary Non-Residential,76,186,53,72,72,315,105,-30.3,-5.3,35.8,-31,105.6,258.3,73.6,100,145.8
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,Burglary Residential,288,213,204,263,263,705,235,-29.2,-8.7,28.9,12,400,295.8,283.3,365.3,326.4
@@ -595,7 +595,7 @@ district,population,placename,category,description,total19,total20,total21,total
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Receiving Stolen Property,4,2,118,143,143,124,41.3,2850,3475,21.2,246,5.6,2.8,163.9,198.6,57.4
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Vandalism/Criminal Mischief,873,1015,956,818,818,2844,948,9.5,-6.3,-14.4,-14,1212.5,1409.7,1327.8,1136.1,1316.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Weapon Violations,199,338,340,284,284,877,292.3,70.9,42.7,-16.5,-3,276.4,469.4,472.2,394.4,406
-12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,Robbery Firearm,119,137,130,161,161,386,128.7,9.2,35.3,23.8,25,165.3,190.3,180.6,223.6,178.7
+12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,Robbery Firearm,119,137,130,162,162,386,128.7,9.2,36.1,24.6,26,165.3,190.3,180.6,225,178.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,Robbery No Firearm,150,131,110,127,127,391,130.3,-26.7,-15.3,15.5,-3,208.3,181.9,152.8,176.4,181
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,Rape,59,59,57,30,30,175,58.3,-3.4,-49.2,-47.4,-49,81.9,81.9,79.2,41.7,81
 12,72000,"Kingsessing, Eastwick and Elmwood",Theft,Theft from Vehicle,606,719,689,577,577,2014,671.3,13.7,-4.8,-16.3,-14,841.7,998.6,956.9,801.4,932.4
@@ -625,8 +625,8 @@ district,population,placename,category,description,total19,total20,total21,total
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Vagrancy/Loitering,1,0,1,0,0,2,0.7,0,-100,-100,-100,0.9,0,0.9,0,0.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Vandalism/Criminal Mischief,927,952,836,914,914,2715,905,-9.8,-1.4,9.3,1,827.7,850,746.4,816.1,808
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Weapon Violations,155,249,294,204,204,698,232.7,89.7,31.6,-30.6,-12,138.4,222.3,262.5,182.1,207.8
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,Robbery Firearm,119,84,105,145,145,308,102.7,-11.8,21.8,38.1,41,106.3,75,93.8,129.5,91.7
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,Robbery Firearm,119,84,105,144,144,308,102.7,-11.8,21,37.1,40,106.3,75,93.8,128.6,91.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,Robbery No Firearm,107,96,76,102,102,279,93,-29,-4.7,34.2,10,95.5,85.7,67.9,91.1,83
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,Rape,52,59,31,27,27,142,47.3,-40.4,-48.1,-12.9,-43,46.4,52.7,27.7,24.1,42.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,Theft from Vehicle,701,649,681,748,748,2031,677,-2.9,6.7,9.8,10,625.9,579.5,608,667.9,604.5
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,Thefts,1083,1105,1088,1351,1351,3276,1092,0.5,24.7,24.2,24,967,986.6,971.4,1206.2,975
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,Thefts,1083,1105,1088,1352,1352,3276,1092,0.5,24.8,24.3,24,967,986.6,971.4,1207.1,975

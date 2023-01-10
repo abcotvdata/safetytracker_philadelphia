@@ -63,19 +63,19 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,260,170,196,233,233,626,208.7,-24.6,-10.4,18.9,12,279.6,182.8,210.8,250.5,224.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,27,27,80,26.7,6.7,-10,-15.6,1,32.3,19.4,34.4,29,28.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,2103,1997,2225,3335,3335,6325,2108.3,5.8,58.6,49.9,58,2261.3,2147.3,2392.5,3586,2267
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,596,596,1959,653,12,2.1,-8.9,-9,679.1,838.4,760.5,693,759.3
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,597,597,1959,653,12,2.2,-8.7,-9,679.1,838.4,760.5,694.2,759.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,317,317,1136,378.7,-17.3,-15.5,2.3,-16,436,524.4,360.5,368.6,440.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,696,687,229,257.5,480,62.2,204,139.5,160.5,498.8,809.3,266.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,30,95,31.7,34.6,15.4,-14.3,-5,30.2,39.5,40.7,34.9,36.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4757,4757,17878,5959.3,-32.7,-37.1,-6.5,-20,8795.3,6075.6,5917.4,5531.4,6929.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,248,248,786,262,-20.4,-18.4,2.5,-5,353.5,279.1,281.4,288.4,304.7
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,247,247,786,262,-20.4,-18.8,2.1,-6,353.5,279.1,281.4,287.2,304.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,36,161,53.7,-38,-49.3,-18.2,-33,82.6,53.5,51.2,41.9,62.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2088,2088,4878,1626,-6.3,20.4,28.5,28,2016.3,1766.3,1889.5,2427.9,1890.7
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,771,771,2369,789.7,17.1,8.3,-7.6,-2,924.7,1068.8,1083.1,1001.3,1025.6
-22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,570,570,1907,635.7,-12.1,-10.8,1.4,-10,829.9,916.9,729.9,740.3,825.6
+22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,571,571,1907,635.7,-12.1,-10.6,1.6,-10,829.9,916.9,729.9,741.6,825.6
 22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,1000,1000,903,301,465.7,825.9,63.7,232,140.3,239,793.5,1298.7,390.9
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,55,160,53.3,115.2,66.7,-22.5,3,42.9,72.7,92.2,71.4,69.2
-22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5182,5182,16876,5625.3,-18.3,-20.4,-2.6,-8,8454.5,6553.2,6909.1,6729.9,7305.6
+22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5181,5181,16876,5625.3,-18.3,-20.4,-2.6,-8,8454.5,6553.2,6909.1,6728.6,7305.6
 22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,490,490,1199,399.7,-19.9,6.1,32.4,23,600,476.6,480.5,636.4,519.1
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,65,65,233,77.7,-8.2,-23.5,-16.7,-16,110.4,90.9,101.3,84.4,100.9
 22,77000,Strawberry Mansion and Stanton,Theft,2412,1979,2287,2929,2929,6678,2226,-5.2,21.4,28.1,32,3132.5,2570.1,2970.1,3803.9,2890.9
@@ -107,10 +107,10 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,396,396,1077,359,-19.2,1.3,25.3,10,281.3,266.2,227.3,284.9,258.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1258,1258,1216,405.3,432.9,761.6,61.7,210,105,210.1,559.7,905,291.6
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,41,41,114,38,35.5,32.3,-2.4,8,22.3,29.5,30.2,29.5,27.3
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4966,4966,17171,5723.7,-20.8,-24.7,-4.8,-13,4742.4,3856.8,3754,3572.7,4117.8
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4965,4965,17171,5723.7,-20.8,-24.7,-4.8,-13,4742.4,3856.8,3754,3571.9,4117.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,464,464,1297,432.3,-29.9,-13.3,23.7,7,384.9,278.4,269.8,333.8,311
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,92,90,53,42,42,235,78.3,-42.4,-54.3,-20.8,-46,66.2,64.7,38.1,30.2,56.3
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,2588,2256,2596,3660,3660,7440,2480,0.3,41.4,41,48,1861.9,1623,1867.6,2633.1,1784.2
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,2588,2256,2596,3662,3662,7440,2480,0.3,41.5,41.1,48,1861.9,1623,1867.6,2634.5,1784.2
 77,0,Philadelphia airport,Aggravated Assault,7,8,2,5,5,17,5.7,-71.4,-28.6,150,-12,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Burglary,1,6,3,0,0,10,3.3,200,-100,-100,-100,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Motor Vehicle Theft,2,14,13,43,43,29,9.7,550,2050,230.8,343,NA,NA,NA,NA,NA
@@ -131,10 +131,10 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,303,330,282,378,378,915,305,-6.9,24.8,34,24,658.7,717.4,613,821.7,663
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Motor Vehicle Theft,45,61,228,280,280,334,111.3,406.7,522.2,22.8,152,97.8,132.6,495.7,608.7,242
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,5,13,4.3,16.7,-16.7,-28.6,16,13,0,15.2,10.9,9.3
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2817,2817,8878,2959.3,-45.7,-32.3,24.8,-5,9039.1,5354.3,4906.5,6123.9,6433.3
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2816,2816,8878,2959.3,-45.7,-32.3,24.8,-5,9039.1,5354.3,4906.5,6121.7,6433.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,298,298,767,255.7,-4.1,1,5.3,17,641.3,410.9,615.2,647.8,555.9
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,31,21,27,19,19,79,26.3,-12.9,-38.7,-29.6,-28,67.4,45.7,58.7,41.3,57.2
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,3423,2615,2807,3616,3616,8845,2948.3,-18,5.6,28.8,23,7441.3,5684.8,6102.2,7860.9,6409.3
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,3423,2615,2807,3617,3617,8845,2948.3,-18,5.7,28.9,23,7441.3,5684.8,6102.2,7863,6409.3
 07,95000,Somerton and Bustleton,Aggravated Assault,80,70,97,93,93,247,82.3,21.2,16.3,-4.1,13,84.2,73.7,102.1,97.9,86.6
 07,95000,Somerton and Bustleton,Burglary,109,117,94,157,157,320,106.7,-13.8,44,67,47,114.7,123.2,98.9,165.3,112.3
 07,95000,Somerton and Bustleton,Motor Vehicle Theft,22,43,107,207,207,172,57.3,386.4,840.9,93.5,261,23.2,45.3,112.6,217.9,60.3
@@ -159,12 +159,12 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,236,236,702,234,-28.8,-17.2,16.3,1,431.8,324.2,307.6,357.6,354.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,19,19,64,21.3,-8.7,-17.4,-9.5,-11,34.8,30.3,31.8,28.8,32.3
 09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,3426,2583,2729,3303,3303,8738,2912.7,-20.3,-3.6,21,13,5190.9,3913.6,4134.8,5004.5,4413.2
-12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,505,505,1827,609,4.3,-5.6,-9.5,-17,743.1,1019.4,775,701.4,845.8
+12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,504,504,1827,609,4.3,-5.8,-9.7,-17,743.1,1019.4,775,700,845.8
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,335,335,1020,340,-29.4,-8,30.4,-1,505.6,554.2,356.9,465.3,472.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,868,1051,350.3,268.2,401.7,36.3,148,240.3,334.7,884.7,1205.6,486.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,39,105,35,13.8,34.5,18.2,11,40.3,59.7,45.8,54.2,48.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4747,4747,15361,5120.3,-15,-14.1,1.1,-7,7670.8,7140.3,6523.6,6593.1,7111.5
-12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,288,288,777,259,-10.8,7.1,20,11,373.6,372.2,333.3,400,359.7
+12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,289,289,777,259,-10.8,7.4,20.4,12,373.6,372.2,333.3,401.4,359.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,30,175,58.3,-3.4,-49.2,-47.4,-49,81.9,81.9,79.2,41.7,81
 12,72000,"Kingsessing, Eastwick and Elmwood",Theft,1432,1470,1668,1857,1857,4570,1523.3,16.5,29.7,11.3,22,1988.9,2041.7,2316.7,2579.2,2115.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,453,453,1398,466,12.2,10.2,-1.7,-3,367,469.6,411.6,404.5,416.1
@@ -172,6 +172,6 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,696,696,590,196.7,193.9,510.5,107.8,254,101.8,125.9,299.1,621.4,175.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,37,83,27.7,-15.4,42.3,68.2,34,23.2,31.2,19.6,33,24.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,5736,5081,4671,4737,4737,15488,5162.7,-18.6,-17.4,1.4,-8,5121.4,4536.6,4170.5,4229.5,4609.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,226,180,181,247,247,587,195.7,-19.9,9.3,36.5,26,201.8,160.7,161.6,220.5,174.7
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,226,180,181,246,246,587,195.7,-19.9,8.8,35.9,26,201.8,160.7,161.6,219.6,174.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,27,27,142,47.3,-40.4,-48.1,-12.9,-43,46.4,52.7,27.7,24.1,42.2
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,1784,1754,1769,2099,2099,5307,1769,-0.8,17.7,18.7,19,1592.9,1566.1,1579.5,1874.1,1579.5
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,1784,1754,1769,2100,2100,5307,1769,-0.8,17.7,18.7,19,1592.9,1566.1,1579.5,1875,1579.5

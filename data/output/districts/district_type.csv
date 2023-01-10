@@ -26,8 +26,8 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4757,4757,17878,5959.3,-32.7,-37.1,-6.5,-20,8795.3,6075.6,5917.4,5531.4,6929.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Property,2229,2108,2364,3101,3101,6701,2233.7,6.1,39.1,31.2,39,2591.9,2451.2,2748.8,3605.8,2597.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Violent,985,1041,975,910,910,3001,1000.3,-1,-7.6,-6.7,-9,1145.3,1210.5,1133.7,1058.1,1163.1
-22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5182,5182,16876,5625.3,-18.3,-20.4,-2.6,-8,8454.5,6553.2,6909.1,6729.9,7305.6
-22,77000,Strawberry Mansion and Stanton,Property,3159,2869,3460,4499,4499,9488,3162.7,9.5,42.4,30,42,4102.6,3726,4493.5,5842.9,4107.4
+22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5181,5181,16876,5625.3,-18.3,-20.4,-2.6,-8,8454.5,6553.2,6909.1,6728.6,7305.6
+22,77000,Strawberry Mansion and Stanton,Property,3159,2869,3460,4500,4500,9488,3162.7,9.5,42.5,30.1,42,4102.6,3726,4493.5,5844.2,4107.4
 22,77000,Strawberry Mansion and Stanton,Violent,1292,1316,1353,1381,1381,3961,1320.3,4.7,6.9,2.1,5,1677.9,1709.1,1757.1,1793.5,1714.7
 24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4536,4536,21170,7056.7,-52.8,-55.6,-6,-36,15243.3,9155.2,7198.5,6770.1,10532.4
 24,67000,Richmond and Port Richmond,Property,2140,2405,3142,3434,3434,7687,2562.3,46.8,60.5,9.3,34,3194,3589.6,4689.6,5125.4,3824.3
@@ -38,8 +38,8 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Other,2759,2460,2328,2439,2439,7547,2515.7,-15.6,-11.6,4.8,-3,4840.4,4315.8,4084.2,4278.9,4413.5
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Property,2384,2398,2880,3856,3856,7662,2554,20.8,61.7,33.9,51,4182.5,4207,5052.6,6764.9,4480.7
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Violent,566,524,602,667,667,1692,564,6.4,17.8,10.8,18,993,919.3,1056.1,1170.2,989.5
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4966,4966,17171,5723.7,-20.8,-24.7,-4.8,-13,4742.4,3856.8,3754,3572.7,4117.8
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Property,3125,2918,3690,5314,5314,9733,3244.3,18.1,70,44,64,2248.2,2099.3,2654.7,3823,2334
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4965,4965,17171,5723.7,-20.8,-24.7,-4.8,-13,4742.4,3856.8,3754,3571.9,4117.8
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Property,3125,2918,3690,5316,5316,9733,3244.3,18.1,70.1,44.1,64,2248.2,2099.3,2654.7,3824.5,2334
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Violent,1283,1169,1125,1222,1222,3577,1192.3,-12.3,-4.8,8.6,2,923,841,809.4,879.1,857.8
 77,0,Philadelphia airport,Other,276,268,268,251,251,812,270.7,-2.9,-9.1,-6.3,-7,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Property,387,221,360,536,536,968,322.7,-7,38.5,48.9,66,NA,NA,NA,NA,NA
@@ -47,8 +47,8 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 05,43000,"Andorra, Roxborough and Manayunk",Other,1238,921,920,1015,1015,3079,1026.3,-25.7,-18,10.3,-1,2879.1,2141.9,2139.5,2360.5,2386.7
 05,43000,"Andorra, Roxborough and Manayunk",Property,912,789,1093,1381,1381,2794,931.3,19.8,51.4,26.3,48,2120.9,1834.9,2541.9,3211.6,2165.8
 05,43000,"Andorra, Roxborough and Manayunk",Violent,113,103,94,140,140,310,103.3,-16.8,23.9,48.9,36,262.8,239.5,218.6,325.6,240.2
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2817,2817,8878,2959.3,-45.7,-32.3,24.8,-5,9039.1,5354.3,4906.5,6123.9,6433.3
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Property,3771,3006,3317,4274,4274,10094,3364.7,-12,13.3,28.9,27,8197.8,6534.8,7210.9,9291.3,7314.6
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2816,2816,8878,2959.3,-45.7,-32.3,24.8,-5,9039.1,5354.3,4906.5,6121.7,6433.3
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Property,3771,3006,3317,4275,4275,10094,3364.7,-12,13.4,28.9,27,8197.8,6534.8,7210.9,9293.5,7314.6
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Violent,580,465,570,645,645,1615,538.3,-1.7,11.2,13.2,20,1260.9,1010.9,1239.1,1402.2,1170.2
 07,95000,Somerton and Bustleton,Other,1468,1260,1383,1367,1367,4111,1370.3,-5.8,-6.9,-1.2,-0,1545.3,1326.3,1455.8,1438.9,1442.4
 07,95000,Somerton and Bustleton,Property,889,1046,1260,2072,2072,3195,1065,41.7,133.1,64.4,95,935.8,1101.1,1326.3,2181.1,1121.1
@@ -63,5 +63,5 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 12,72000,"Kingsessing, Eastwick and Elmwood",Property,1969,2110,2562,3060,3060,6641,2213.7,30.1,55.4,19.4,38,2734.7,2930.6,3558.3,4250,3074.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Violent,892,1104,888,862,862,2884,961.3,-0.4,-3.4,-2.9,-10,1238.9,1533.3,1233.3,1197.2,1335.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,5736,5081,4671,4737,4737,15488,5162.7,-18.6,-17.4,1.4,-8,5121.4,4536.6,4170.5,4229.5,4609.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Property,2186,2291,2347,3067,3067,6824,2274.7,7.4,40.3,30.7,35,1951.8,2045.5,2095.5,2738.4,2031
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Violent,715,800,695,764,764,2210,736.7,-2.8,6.9,9.9,4,638.4,714.3,620.5,682.1,657.8
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Property,2186,2291,2347,3068,3068,6824,2274.7,7.4,40.3,30.7,35,1951.8,2045.5,2095.5,2739.3,2031
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Violent,715,800,695,763,763,2210,736.7,-2.8,6.7,9.8,4,638.4,714.3,620.5,681.2,657.8

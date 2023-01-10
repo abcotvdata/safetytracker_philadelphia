@@ -7,7 +7,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 01,37000,Girard Estates and Navy Yard,Aggravated Assault,118,141,138,139,139,397,132.3,16.9,17.8,0.7,5,318.9,381.1,373,375.7,357.6
 02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,312,312,985,328.3,16.8,6.8,-8.5,-5,253.9,306.1,296.5,271.3,285.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,247,247,722,240.7,-8.8,-5,4.2,3,279.6,241.9,254.8,265.6,258.8
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,596,596,1959,653,12,2.1,-8.9,-9,679.1,838.4,760.5,693,759.3
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,597,597,1959,653,12,2.2,-8.7,-9,679.1,838.4,760.5,694.2,759.3
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,771,771,2369,789.7,17.1,8.3,-7.6,-2,924.7,1068.8,1083.1,1001.3,1025.6
 24,67000,Richmond and Port Richmond,Aggravated Assault,682,837,732,698,698,2251,750.3,7.3,2.3,-4.6,-7,1017.9,1249.3,1092.5,1041.8,1119.9
 25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,838,838,2463,821,11.4,13.7,2.1,2,1083.8,1330.9,1207.4,1232.4,1207.4
@@ -19,5 +19,5 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 07,95000,Somerton and Bustleton,Aggravated Assault,80,70,97,93,93,247,82.3,21.2,16.3,-4.1,13,84.2,73.7,102.1,97.9,86.6
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,155,212,233,252,252,600,200,50.3,62.6,8.2,26,159.8,218.6,240.2,259.8,206.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,206,206,540,180,8.7,12,3,14,278.8,236.4,303,312.1,272.7
-12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,505,505,1827,609,4.3,-5.6,-9.5,-17,743.1,1019.4,775,701.4,845.8
+12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,504,504,1827,609,4.3,-5.8,-9.7,-17,743.1,1019.4,775,700,845.8
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,453,453,1398,466,12.2,10.2,-1.7,-3,367,469.6,411.6,404.5,416.1
