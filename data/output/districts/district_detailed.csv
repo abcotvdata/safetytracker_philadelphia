@@ -73,7 +73,7 @@ district,population,placename,category,description,total19,total20,total21,total
 18,80000,University City and Cobbs Creek,Other,Liquor Law Violations,11,3,6,0,0,20,6.7,-45.5,-100,-100,-100,13.8,3.7,7.5,0,8.4
 18,80000,University City and Cobbs Creek,Other,Narcotic / Drug Law Violations,533,345,140,112,112,1018,339.3,-73.7,-79,-20,-67,666.2,431.3,175,140,424.1
 18,80000,University City and Cobbs Creek,Other,Offenses Against Family and Children,5,2,1,4,4,8,2.7,-80,-20,300,48,6.2,2.5,1.2,5,3.4
-18,80000,University City and Cobbs Creek,Other,Other Assaults,1179,953,915,1195,1195,3047,1015.7,-22.4,1.4,30.6,18,1473.8,1191.2,1143.8,1493.8,1269.6
+18,80000,University City and Cobbs Creek,Other,Other Assaults,1179,953,915,1196,1196,3047,1015.7,-22.4,1.4,30.7,18,1473.8,1191.2,1143.8,1495,1269.6
 18,80000,University City and Cobbs Creek,Other,Other Sex Offenses (Not Commercialized),52,34,45,47,47,131,43.7,-13.5,-9.6,4.4,8,65,42.5,56.2,58.8,54.6
 18,80000,University City and Cobbs Creek,Other,Prostitution and Commercialized Vice,1,0,0,0,0,1,0.3,-100,-100,NA,-100,1.2,0,0,0,0.4
 18,80000,University City and Cobbs Creek,Other,Public Drunkenness,7,2,2,0,0,11,3.7,-71.4,-100,-100,-100,8.8,2.5,2.5,0,4.6
@@ -132,7 +132,7 @@ district,population,placename,category,description,total19,total20,total21,total
 39,61000,"East Falls, Tioga and Nicetown",Other,Liquor Law Violations,2,4,9,10,10,15,5,350,400,11.1,100,3.3,6.6,14.8,16.4,8.2
 39,61000,"East Falls, Tioga and Nicetown",Other,Narcotic / Drug Law Violations,564,308,236,151,151,1108,369.3,-58.2,-73.2,-36,-59,924.6,504.9,386.9,247.5,605.4
 39,61000,"East Falls, Tioga and Nicetown",Other,Offenses Against Family and Children,8,7,5,2,2,20,6.7,-37.5,-75,-60,-70,13.1,11.5,8.2,3.3,11
-39,61000,"East Falls, Tioga and Nicetown",Other,Other Assaults,1766,1420,1874,1813,1813,5060,1686.7,6.1,2.7,-3.3,7,2895.1,2327.9,3072.1,2972.1,2765.1
+39,61000,"East Falls, Tioga and Nicetown",Other,Other Assaults,1766,1420,1874,1814,1814,5060,1686.7,6.1,2.7,-3.2,8,2895.1,2327.9,3072.1,2973.8,2765.1
 39,61000,"East Falls, Tioga and Nicetown",Other,Other Sex Offenses (Not Commercialized),47,37,42,53,53,126,42,-10.6,12.8,26.2,26,77,60.7,68.9,86.9,68.9
 39,61000,"East Falls, Tioga and Nicetown",Other,Prostitution and Commercialized Vice,11,0,0,0,0,11,3.7,-100,-100,NA,-100,18,0,0,0,6.1
 39,61000,"East Falls, Tioga and Nicetown",Other,Public Drunkenness,2,1,10,1,1,13,4.3,400,-50,-90,-77,3.3,1.6,16.4,1.6,7
@@ -202,7 +202,7 @@ district,population,placename,category,description,total19,total20,total21,total
 02,115000,Oxford Circle and Lawncrest,Theft,Theft from Vehicle,820,712,645,827,827,2177,725.7,-21.3,0.9,28.2,14,713,619.1,560.9,719.1,631
 02,115000,Oxford Circle and Lawncrest,Theft,Thefts,1308,1105,1459,2084,2084,3872,1290.7,11.5,59.3,42.8,61,1137.4,960.9,1268.7,1812.2,1122.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,Aggravated Assault Firearm,73,60,62,71,71,195,65,-15.1,-2.7,14.5,9,78.5,64.5,66.7,76.3,69.9
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,Aggravated Assault No Firearm,187,165,175,176,176,527,175.7,-6.4,-5.9,0.6,0,201.1,177.4,188.2,189.2,188.9
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,Aggravated Assault No Firearm,187,165,175,177,177,527,175.7,-6.4,-5.3,1.1,1,201.1,177.4,188.2,190.3,188.9
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,Burglary Non-Residential,115,119,106,137,137,340,113.3,-7.8,19.1,29.2,21,123.7,128,114,147.3,121.8
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,Burglary Residential,191,122,107,121,121,420,140,-44,-36.6,13.1,-14,205.4,131.2,115.1,130.1,150.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,Motor Vehicle Theft,68,80,283,427,427,431,143.7,316.2,527.9,50.9,197,73.1,86,304.3,459.1,154.5
@@ -218,7 +218,7 @@ district,population,placename,category,description,total19,total20,total21,total
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Liquor Law Violations,31,3,9,5,5,43,14.3,-71,-83.9,-44.4,-65,33.3,3.2,9.7,5.4,15.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Narcotic / Drug Law Violations,196,72,38,49,49,306,102,-80.6,-75,28.9,-52,210.8,77.4,40.9,52.7,109.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Offenses Against Family and Children,5,2,5,2,2,12,4,0,-60,-60,-50,5.4,2.2,5.4,2.2,4.3
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Other Assaults,881,826,885,855,855,2592,864,0.5,-3,-3.4,-1,947.3,888.2,951.6,919.4,929
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Other Assaults,881,826,885,854,854,2592,864,0.5,-3.1,-3.5,-1,947.3,888.2,951.6,918.3,929
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Other Sex Offenses (Not Commercialized),48,38,25,42,42,111,37,-47.9,-12.5,68,14,51.6,40.9,26.9,45.2,39.8
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Prostitution and Commercialized Vice,26,3,2,3,3,31,10.3,-92.3,-88.5,50,-71,28,3.2,2.2,3.2,11.1
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Public Drunkenness,1,0,0,3,3,1,0.3,-100,200,NA,900,1.1,0,0,3.2,0.3
@@ -316,7 +316,7 @@ district,population,placename,category,description,total19,total20,total21,total
 24,67000,Richmond and Port Richmond,Other,Weapon Violations,201,274,387,302,302,862,287.3,92.5,50.2,-22,5,300,409,577.6,450.7,428.8
 24,67000,Richmond and Port Richmond,Robbery,Robbery Firearm,149,169,185,241,241,503,167.7,24.2,61.7,30.3,44,222.4,252.2,276.1,359.7,250.3
 24,67000,Richmond and Port Richmond,Robbery,Robbery No Firearm,298,298,259,304,304,855,285,-13.1,2,17.4,7,444.8,444.8,386.6,453.7,425.4
-24,67000,Richmond and Port Richmond,Sexual Assault,Rape,70,59,39,41,41,168,56,-44.3,-41.4,5.1,-27,104.5,88.1,58.2,61.2,83.6
+24,67000,Richmond and Port Richmond,Sexual Assault,Rape,70,59,39,42,42,168,56,-44.3,-40,7.7,-25,104.5,88.1,58.2,62.7,83.6
 24,67000,Richmond and Port Richmond,Theft,Theft from Vehicle,612,694,662,685,685,1968,656,8.2,11.9,3.5,4,913.4,1035.8,988.1,1022.4,979.1
 24,67000,Richmond and Port Richmond,Theft,Thefts,1131,1074,1689,1745,1745,3894,1298,49.3,54.3,3.3,34,1688.1,1603,2520.9,2604.5,1937.3
 25,68000,Kensington and Harrowgate,Aggravated Assault,Aggravated Assault Firearm,255,369,362,389,389,986,328.7,42,52.5,7.5,18,375,542.6,532.4,572.1,483.4
@@ -475,7 +475,7 @@ district,population,placename,category,description,total19,total20,total21,total
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Liquor Law Violations,3,0,4,1,1,7,2.3,33.3,-66.7,-75,-57,6.5,0,8.7,2.2,5
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Narcotic / Drug Law Violations,487,134,40,31,31,661,220.3,-91.8,-93.6,-22.5,-86,1058.7,291.3,87,67.4,478.9
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Offenses Against Family and Children,2,1,1,2,2,4,1.3,-50,0,100,54,4.3,2.2,2.2,4.3,2.8
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Other Assaults,913,663,868,1035,1035,2444,814.7,-4.9,13.4,19.2,27,1984.8,1441.3,1887,2250,1771.1
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Other Assaults,913,663,868,1036,1036,2444,814.7,-4.9,13.5,19.4,27,1984.8,1441.3,1887,2252.2,1771.1
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Other Sex Offenses (Not Commercialized),51,27,41,41,41,119,39.7,-19.6,-19.6,0,3,110.9,58.7,89.1,89.1,86.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Prostitution and Commercialized Vice,14,3,0,2,2,17,5.7,-100,-85.7,NA,-65,30.4,6.5,0,4.3,12.4
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Public Drunkenness,2,0,1,4,4,3,1,-50,100,300,300,4.3,0,2.2,8.7,2.2
@@ -588,7 +588,7 @@ district,population,placename,category,description,total19,total20,total21,total
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Liquor Law Violations,5,5,8,5,5,18,6,60,0,-37.5,-17,6.9,6.9,11.1,6.9,8.3
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Narcotic / Drug Law Violations,564,547,258,191,191,1369,456.3,-54.3,-66.1,-26,-58,783.3,759.7,358.3,265.3,633.8
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Offenses Against Family and Children,8,4,3,5,5,15,5,-62.5,-37.5,66.7,0,11.1,5.6,4.2,6.9,6.9
-12,72000,"Kingsessing, Eastwick and Elmwood",Other,Other Assaults,1311,1575,1576,1590,1590,4462,1487.3,20.2,21.3,0.9,7,1820.8,2187.5,2188.9,2208.3,2065.7
+12,72000,"Kingsessing, Eastwick and Elmwood",Other,Other Assaults,1311,1575,1576,1591,1591,4462,1487.3,20.2,21.4,1,7,1820.8,2187.5,2188.9,2209.7,2065.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Other Sex Offenses (Not Commercialized),52,30,47,34,34,129,43,-9.6,-34.6,-27.7,-21,72.2,41.7,65.3,47.2,59.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Prostitution and Commercialized Vice,33,11,4,10,10,48,16,-87.9,-69.7,150,-38,45.8,15.3,5.6,13.9,22.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,Public Drunkenness,1,1,3,0,0,5,1.7,200,-100,-100,-100,1.4,1.4,4.2,0,2.4
@@ -618,7 +618,7 @@ district,population,placename,category,description,total19,total20,total21,total
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Narcotic / Drug Law Violations,498,322,246,190,190,1066,355.3,-50.6,-61.8,-22.8,-47,444.6,287.5,219.6,169.6,317.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Offenses Against Family and Children,9,58,39,80,80,106,35.3,333.3,788.9,105.1,127,8,51.8,34.8,71.4,31.5
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Other Assaults,1605,1656,1601,1778,1778,4862,1620.7,-0.2,10.8,11.1,10,1433,1478.6,1429.5,1587.5,1447.1
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Other Sex Offenses (Not Commercialized),52,40,56,50,50,148,49.3,7.7,-3.8,-10.7,1,46.4,35.7,50,44.6,44
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Other Sex Offenses (Not Commercialized),52,40,56,51,51,148,49.3,7.7,-1.9,-8.9,3,46.4,35.7,50,45.5,44
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Prostitution and Commercialized Vice,7,0,0,1,1,7,2.3,-100,-85.7,NA,-57,6.2,0,0,0.9,2.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Public Drunkenness,1,0,2,0,0,3,1,100,-100,-100,-100,0.9,0,1.8,0,0.9
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Receiving Stolen Property,1,1,29,56,56,31,10.3,2800,5500,93.1,444,0.9,0.9,25.9,50,9.2

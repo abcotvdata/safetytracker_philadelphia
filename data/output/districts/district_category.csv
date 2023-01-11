@@ -19,7 +19,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 18,80000,University City and Cobbs Creek,Burglary,318,362,289,302,302,969,323,-9.1,-5,4.5,-7,397.5,452.5,361.2,377.5,403.8
 18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,585,585,585,195,487.9,786.4,50.8,200,82.5,163.8,485,731.2,243.8
 18,80000,University City and Cobbs Creek,Murder,19,24,18,24,24,61,20.3,-5.3,26.3,33.3,18,23.8,30,22.5,30,25.4
-18,80000,University City and Cobbs Creek,Other,5760,3988,3333,3616,3616,13081,4360.3,-42.1,-37.2,8.5,-17,7200,4985,4166.2,4520,5450.4
+18,80000,University City and Cobbs Creek,Other,5760,3988,3333,3617,3617,13081,4360.3,-42.1,-37.2,8.5,-17,7200,4985,4166.2,4521.2,5450.4
 18,80000,University City and Cobbs Creek,Robbery,277,288,257,250,250,822,274,-7.2,-9.7,-2.7,-9,346.2,360,321.2,312.5,342.5
 18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,32,32,137,45.7,0,-30.4,-30.4,-30,57.5,56.2,57.5,40,57.1
 18,80000,University City and Cobbs Creek,Theft,2177,1701,1645,2414,2414,5523,1841,-24.4,10.9,46.7,31,2721.2,2126.2,2056.2,3017.5,2301.2
@@ -35,7 +35,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,325,325,1260,420,-21.2,-23.5,-3,-23,696.7,819.7,549.2,532.8,688.5
 39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,626,626,695,231.7,361.2,507.8,31.8,170,168.9,191.8,778.7,1026.2,379.8
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,35,35,117,39,64.3,25,-23.9,-10,45.9,70.5,75.4,57.4,63.9
-39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4344,4344,14584,4861.3,-23.1,-24.7,-2.1,-11,9454.1,7183.6,7270.5,7121.3,7969.3
+39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4345,4345,14584,4861.3,-23.1,-24.7,-2,-11,9454.1,7183.6,7270.5,7123,7969.3
 39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,311,311,827,275.7,-6.9,7.6,15.6,13,473.8,441,441,509.8,452
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,39,39,163,54.3,-7.9,-38.1,-32.8,-28,103.3,68.9,95.1,63.9,89
 39,61000,"East Falls, Tioga and Nicetown",Theft,1677,1451,1577,1851,1851,4705,1568.3,-6,10.4,17.4,18,2749.2,2378.7,2585.2,3034.4,2571
@@ -55,11 +55,11 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,401,401,788,262.7,30.5,65,26.5,53,211.3,198.3,275.7,348.7,228.4
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,38,38,141,47,-45.6,-33.3,22.6,-19,49.6,46.1,27,33,40.9
 02,115000,Oxford Circle and Lawncrest,Theft,2128,1817,2104,2911,2911,6049,2016.3,-1.1,36.8,38.4,44,1850.4,1580,1829.6,2531.3,1753.3
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,247,247,722,240.7,-8.8,-5,4.2,3,279.6,241.9,254.8,265.6,258.8
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,248,248,722,240.7,-8.8,-4.6,4.6,3,279.6,241.9,254.8,266.7,258.8
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,258,258,760,253.3,-30.4,-15.7,21.1,2,329,259.1,229,277.4,272.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,427,427,431,143.7,316.2,527.9,50.9,197,73.1,86,304.3,459.1,154.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,15,15,23,7.7,250,275,7.1,95,4.3,5.4,15.1,16.1,8.3
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,4138,3234,2642,2615,2615,10014,3338,-36.2,-36.8,-1,-22,4449.5,3477.4,2840.9,2811.8,3589.2
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,4138,3234,2642,2614,2614,10014,3338,-36.2,-36.8,-1.1,-22,4449.5,3477.4,2840.9,2810.8,3589.2
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,260,170,196,233,233,626,208.7,-24.6,-10.4,18.9,12,279.6,182.8,210.8,250.5,224.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,27,27,80,26.7,6.7,-10,-15.6,1,32.3,19.4,34.4,29,28.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,2103,1997,2225,3335,3335,6325,2108.3,5.8,58.6,49.9,58,2261.3,2147.3,2392.5,3586,2267
@@ -85,7 +85,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,55,163,54.3,181.5,103.7,-27.6,1,40.3,89.6,113.4,82.1,81
 24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4536,4536,21170,7056.7,-52.8,-55.6,-6,-36,15243.3,9155.2,7198.5,6770.1,10532.4
 24,67000,Richmond and Port Richmond,Robbery,447,467,444,545,545,1358,452.7,-0.7,21.9,22.7,20,667.2,697,662.7,813.4,675.7
-24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,41,41,168,56,-44.3,-41.4,5.1,-27,104.5,88.1,58.2,61.2,83.6
+24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,42,168,56,-44.3,-40,7.7,-25,104.5,88.1,58.2,62.7,83.6
 24,67000,Richmond and Port Richmond,Theft,1743,1768,2351,2430,2430,5862,1954,34.9,39.4,3.4,24,2601.5,2638.8,3509,3626.9,2916.4
 25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,838,838,2463,821,11.4,13.7,2.1,2,1083.8,1330.9,1207.4,1232.4,1207.4
 25,68000,Kensington and Harrowgate,Burglary,293,397,219,242,242,909,303,-25.3,-17.4,10.5,-20,430.9,583.8,322.1,355.9,445.6
@@ -131,7 +131,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,303,330,282,378,378,915,305,-6.9,24.8,34,24,658.7,717.4,613,821.7,663
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Motor Vehicle Theft,45,61,228,280,280,334,111.3,406.7,522.2,22.8,152,97.8,132.6,495.7,608.7,242
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,5,13,4.3,16.7,-16.7,-28.6,16,13,0,15.2,10.9,9.3
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2816,2816,8878,2959.3,-45.7,-32.3,24.8,-5,9039.1,5354.3,4906.5,6121.7,6433.3
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2817,2817,8878,2959.3,-45.7,-32.3,24.8,-5,9039.1,5354.3,4906.5,6123.9,6433.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,298,298,767,255.7,-4.1,1,5.3,17,641.3,410.9,615.2,647.8,555.9
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,31,21,27,19,19,79,26.3,-12.9,-38.7,-29.6,-28,67.4,45.7,58.7,41.3,57.2
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,3423,2615,2807,3617,3617,8845,2948.3,-18,5.7,28.9,23,7441.3,5684.8,6102.2,7863,6409.3
@@ -163,7 +163,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,335,335,1020,340,-29.4,-8,30.4,-1,505.6,554.2,356.9,465.3,472.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,868,1051,350.3,268.2,401.7,36.3,148,240.3,334.7,884.7,1205.6,486.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,39,105,35,13.8,34.5,18.2,11,40.3,59.7,45.8,54.2,48.6
-12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4747,4747,15361,5120.3,-15,-14.1,1.1,-7,7670.8,7140.3,6523.6,6593.1,7111.5
+12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4748,4748,15361,5120.3,-15,-14,1.1,-7,7670.8,7140.3,6523.6,6594.4,7111.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,289,289,777,259,-10.8,7.4,20.4,12,373.6,372.2,333.3,401.4,359.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,30,175,58.3,-3.4,-49.2,-47.4,-49,81.9,81.9,79.2,41.7,81
 12,72000,"Kingsessing, Eastwick and Elmwood",Theft,1432,1470,1668,1857,1857,4570,1523.3,16.5,29.7,11.3,22,1988.9,2041.7,2316.7,2579.2,2115.7
@@ -171,7 +171,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,288,396,243,272,272,927,309,-15.6,-5.6,11.9,-12,257.1,353.6,217,242.9,275.9
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,696,696,590,196.7,193.9,510.5,107.8,254,101.8,125.9,299.1,621.4,175.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,37,83,27.7,-15.4,42.3,68.2,34,23.2,31.2,19.6,33,24.7
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,5736,5081,4671,4737,4737,15488,5162.7,-18.6,-17.4,1.4,-8,5121.4,4536.6,4170.5,4229.5,4609.6
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,5736,5081,4671,4738,4738,15488,5162.7,-18.6,-17.4,1.4,-8,5121.4,4536.6,4170.5,4230.4,4609.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,226,180,181,246,246,587,195.7,-19.9,8.8,35.9,26,201.8,160.7,161.6,219.6,174.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,27,27,142,47.3,-40.4,-48.1,-12.9,-43,46.4,52.7,27.7,24.1,42.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,1784,1754,1769,2100,2100,5307,1769,-0.8,17.7,18.7,19,1592.9,1566.1,1579.5,1875,1579.5
