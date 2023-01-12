@@ -127,12 +127,12 @@ district,population,placename,category,description,total19,total20,total21,total
 39,61000,"East Falls, Tioga and Nicetown",Other,DRIVING UNDER THE INFLUENCE,177,94,68,49,49,339,113,-61.6,-72.3,-27.9,-57,290.2,154.1,111.5,80.3,185.2
 39,61000,"East Falls, Tioga and Nicetown",Other,Embezzlement,15,13,7,10,10,35,11.7,-53.3,-33.3,42.9,-15,24.6,21.3,11.5,16.4,19.2
 39,61000,"East Falls, Tioga and Nicetown",Other,Forgery and Counterfeiting,17,13,16,33,33,46,15.3,-5.9,94.1,106.2,116,27.9,21.3,26.2,54.1,25.1
-39,61000,"East Falls, Tioga and Nicetown",Other,Fraud,583,457,436,371,371,1476,492,-25.2,-36.4,-14.9,-25,955.7,749.2,714.8,608.2,806.6
+39,61000,"East Falls, Tioga and Nicetown",Other,Fraud,583,457,436,372,372,1476,492,-25.2,-36.2,-14.7,-24,955.7,749.2,714.8,609.8,806.6
 39,61000,"East Falls, Tioga and Nicetown",Other,Gambling Violations,2,1,0,0,0,3,1,-100,-100,NA,-100,3.3,1.6,0,0,1.6
 39,61000,"East Falls, Tioga and Nicetown",Other,Liquor Law Violations,2,4,9,10,10,15,5,350,400,11.1,100,3.3,6.6,14.8,16.4,8.2
 39,61000,"East Falls, Tioga and Nicetown",Other,Narcotic / Drug Law Violations,564,308,236,151,151,1108,369.3,-58.2,-73.2,-36,-59,924.6,504.9,386.9,247.5,605.4
 39,61000,"East Falls, Tioga and Nicetown",Other,Offenses Against Family and Children,8,7,5,2,2,20,6.7,-37.5,-75,-60,-70,13.1,11.5,8.2,3.3,11
-39,61000,"East Falls, Tioga and Nicetown",Other,Other Assaults,1766,1420,1874,1814,1814,5060,1686.7,6.1,2.7,-3.2,8,2895.1,2327.9,3072.1,2973.8,2765.1
+39,61000,"East Falls, Tioga and Nicetown",Other,Other Assaults,1766,1420,1874,1815,1815,5060,1686.7,6.1,2.8,-3.1,8,2895.1,2327.9,3072.1,2975.4,2765.1
 39,61000,"East Falls, Tioga and Nicetown",Other,Other Sex Offenses (Not Commercialized),47,37,42,53,53,126,42,-10.6,12.8,26.2,26,77,60.7,68.9,86.9,68.9
 39,61000,"East Falls, Tioga and Nicetown",Other,Prostitution and Commercialized Vice,11,0,0,0,0,11,3.7,-100,-100,NA,-100,18,0,0,0,6.1
 39,61000,"East Falls, Tioga and Nicetown",Other,Public Drunkenness,2,1,10,1,1,13,4.3,400,-50,-90,-77,3.3,1.6,16.4,1.6,7
@@ -297,7 +297,7 @@ district,population,placename,category,description,total19,total20,total21,total
 24,67000,Richmond and Port Richmond,Murder,Homicide - Justifiable,0,0,1,0,0,1,0.3,NA,NA,-100,-100,0,0,1.5,0,0.4
 24,67000,Richmond and Port Richmond,Other,All Other Offenses,3596,1116,516,669,669,5228,1742.7,-85.7,-81.4,29.7,-62,5367.2,1665.7,770.1,998.5,2601
 24,67000,Richmond and Port Richmond,Other,Arson,39,43,66,56,56,148,49.3,69.2,43.6,-15.2,14,58.2,64.2,98.5,83.6,73.6
-24,67000,Richmond and Port Richmond,Other,Disorderly Conduct,429,364,62,26,26,855,285,-85.5,-93.9,-58.1,-91,640.3,543.3,92.5,38.8,425.4
+24,67000,Richmond and Port Richmond,Other,Disorderly Conduct,429,364,62,28,28,855,285,-85.5,-93.5,-54.8,-90,640.3,543.3,92.5,41.8,425.4
 24,67000,Richmond and Port Richmond,Other,DRIVING UNDER THE INFLUENCE,195,205,217,149,149,617,205.7,11.3,-23.6,-31.3,-28,291,306,323.9,222.4,307
 24,67000,Richmond and Port Richmond,Other,Embezzlement,19,12,9,15,15,40,13.3,-52.6,-21.1,66.7,13,28.4,17.9,13.4,22.4,19.9
 24,67000,Richmond and Port Richmond,Other,Forgery and Counterfeiting,11,10,4,4,4,25,8.3,-63.6,-63.6,0,-52,16.4,14.9,6,6,12.4
@@ -407,7 +407,7 @@ district,population,placename,category,description,total19,total20,total21,total
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,Robbery No Firearm,341,191,182,178,178,714,238,-46.6,-47.8,-2.2,-25,245.3,137.4,130.9,128.1,171.2
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,Rape,92,90,53,42,42,235,78.3,-42.4,-54.3,-20.8,-46,66.2,64.7,38.1,30.2,56.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Theft from Vehicle,1034,1000,992,990,990,3026,1008.7,-4.1,-4.3,-0.2,-2,743.9,719.4,713.7,712.2,725.7
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Thefts,1554,1256,1604,2672,2672,4414,1471.3,3.2,71.9,66.6,82,1118,903.6,1154,1922.3,1058.5
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Thefts,1554,1256,1604,2673,2673,4414,1471.3,3.2,72,66.6,82,1118,903.6,1154,1923,1058.5
 77,0,Philadelphia airport,Aggravated Assault,Aggravated Assault Firearm,0,1,0,0,0,1,0.3,NA,NA,NA,-100,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Aggravated Assault,Aggravated Assault No Firearm,7,7,2,5,5,16,5.3,-71.4,-28.6,150,-6,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Burglary,Burglary Non-Residential,0,6,3,0,0,9,3,NA,NA,-100,-100,NA,NA,NA,NA,NA
@@ -475,7 +475,7 @@ district,population,placename,category,description,total19,total20,total21,total
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Liquor Law Violations,3,0,4,1,1,7,2.3,33.3,-66.7,-75,-57,6.5,0,8.7,2.2,5
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Narcotic / Drug Law Violations,487,134,40,31,31,661,220.3,-91.8,-93.6,-22.5,-86,1058.7,291.3,87,67.4,478.9
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Offenses Against Family and Children,2,1,1,2,2,4,1.3,-50,0,100,54,4.3,2.2,2.2,4.3,2.8
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Other Assaults,913,663,868,1036,1036,2444,814.7,-4.9,13.5,19.4,27,1984.8,1441.3,1887,2252.2,1771.1
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Other Assaults,913,663,868,1037,1037,2444,814.7,-4.9,13.6,19.5,27,1984.8,1441.3,1887,2254.3,1771.1
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Other Sex Offenses (Not Commercialized),51,27,41,41,41,119,39.7,-19.6,-19.6,0,3,110.9,58.7,89.1,89.1,86.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Prostitution and Commercialized Vice,14,3,0,2,2,17,5.7,-100,-85.7,NA,-65,30.4,6.5,0,4.3,12.4
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Public Drunkenness,2,0,1,4,4,3,1,-50,100,300,300,4.3,0,2.2,8.7,2.2
