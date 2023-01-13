@@ -6,7 +6,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 16,41000,"Powelton, Mantua and Parkside",Other,4952,3374,2683,2804,2804,11009,3669.7,-45.8,-43.4,4.5,-24,12078,8229.3,6543.9,6839,8950.5
 16,41000,"Powelton, Mantua and Parkside",Robbery,169,141,174,157,157,484,161.3,3,-7.1,-9.8,-3,412.2,343.9,424.4,382.9,393.4
 16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,18,18,94,31.3,-35.7,-57.1,-33.3,-42,102.4,61,65.9,43.9,76.3
-16,41000,"Powelton, Mantua and Parkside",Theft,1039,927,1029,1370,1370,2995,998.3,-1,31.9,33.1,37,2534.1,2261,2509.8,3341.5,2434.9
+16,41000,"Powelton, Mantua and Parkside",Theft,1039,927,1029,1371,1371,2995,998.3,-1,32,33.2,37,2534.1,2261,2509.8,3343.9,2434.9
 17,50000,South Philadelphia and Grays Ferry,Aggravated Assault,188,179,153,164,164,520,173.3,-18.6,-12.8,7.2,-5,376,358,306,328,346.6
 17,50000,South Philadelphia and Grays Ferry,Burglary,254,173,160,139,139,587,195.7,-37,-45.3,-13.1,-29,508,346,320,278,391.4
 17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,205,205,284,94.7,263.3,318.4,15.2,116,98,114,356,410,189.4
@@ -163,7 +163,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,335,335,1020,340,-29.4,-8,30.4,-1,505.6,554.2,356.9,465.3,472.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,868,1051,350.3,268.2,401.7,36.3,148,240.3,334.7,884.7,1205.6,486.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,39,105,35,13.8,34.5,18.2,11,40.3,59.7,45.8,54.2,48.6
-12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4748,4748,15361,5120.3,-15,-14,1.1,-7,7670.8,7140.3,6523.6,6594.4,7111.5
+12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4750,4750,15361,5120.3,-15,-14,1.1,-7,7670.8,7140.3,6523.6,6597.2,7111.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,289,289,777,259,-10.8,7.4,20.4,12,373.6,372.2,333.3,401.4,359.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,30,175,58.3,-3.4,-49.2,-47.4,-49,81.9,81.9,79.2,41.7,81
 12,72000,"Kingsessing, Eastwick and Elmwood",Theft,1432,1470,1668,1857,1857,4570,1523.3,16.5,29.7,11.3,22,1988.9,2041.7,2316.7,2579.2,2115.7
