@@ -51,13 +51,13 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Property,3771,3006,3317,4275,4275,10094,3364.7,-12,13.4,28.9,27,8197.8,6534.8,7210.9,9293.5,7314.6
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Violent,580,465,570,645,645,1615,538.3,-1.7,11.2,13.2,20,1260.9,1010.9,1239.1,1402.2,1170.2
 07,95000,Somerton and Bustleton,Other,1468,1260,1383,1367,1367,4111,1370.3,-5.8,-6.9,-1.2,-0,1545.3,1326.3,1455.8,1438.9,1442.4
-07,95000,Somerton and Bustleton,Property,889,1046,1260,2072,2072,3195,1065,41.7,133.1,64.4,95,935.8,1101.1,1326.3,2181.1,1121.1
+07,95000,Somerton and Bustleton,Property,889,1046,1260,2073,2073,3195,1065,41.7,133.2,64.5,95,935.8,1101.1,1326.3,2182.1,1121.1
 07,95000,Somerton and Bustleton,Violent,148,130,164,155,155,442,147.3,10.8,4.7,-5.5,5,155.8,136.8,172.6,163.2,155.1
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,2458,2430,2212,2202,2202,7100,2366.7,-10,-10.4,-0.5,-7,2534,2505.2,2280.4,2270.1,2439.9
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Property,1569,1455,1837,2897,2897,4861,1620.3,17.1,84.6,57.7,79,1617.5,1500,1893.8,2986.6,1670.4
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Violent,295,313,353,388,388,961,320.3,19.7,31.5,9.9,21,304.1,322.7,363.9,400,330.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,3559,2604,2305,2549,2549,8468,2822.7,-35.2,-28.4,10.6,-10,5392.4,3945.5,3492.4,3862.1,4276.8
-09,66000,"Center City West, Logan Circle and North Philadelphia",Property,3769,2986,3240,3881,3881,9995,3331.7,-14,3,19.8,16,5710.6,4524.2,4909.1,5880.3,5048
+09,66000,"Center City West, Logan Circle and North Philadelphia",Property,3769,2986,3240,3883,3883,9995,3331.7,-14,3,19.8,17,5710.6,4524.2,4909.1,5883.3,5048
 09,66000,"Center City West, Logan Circle and North Philadelphia",Violent,495,394,430,468,468,1319,439.7,-13.1,-5.5,8.8,6,750,597,651.5,709.1,666.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4750,4750,15361,5120.3,-15,-14,1.1,-7,7670.8,7140.3,6523.6,6597.2,7111.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Property,1969,2110,2562,3060,3060,6641,2213.7,30.1,55.4,19.4,38,2734.7,2930.6,3558.3,4250,3074.6

@@ -514,7 +514,7 @@ district,population,placename,category,description,total19,total20,total21,total
 07,95000,Somerton and Bustleton,Robbery,Robbery No Firearm,21,23,22,25,25,66,22,4.8,19,13.6,14,22.1,24.2,23.2,26.3,23.2
 07,95000,Somerton and Bustleton,Sexual Assault,Rape,15,22,10,3,3,47,15.7,-33.3,-80,-70,-81,15.8,23.2,10.5,3.2,16.5
 07,95000,Somerton and Bustleton,Theft,Theft from Vehicle,282,399,413,663,663,1094,364.7,46.5,135.1,60.5,82,296.8,420,434.7,697.9,383.9
-07,95000,Somerton and Bustleton,Theft,Thefts,476,487,646,1045,1045,1609,536.3,35.7,119.5,61.8,95,501.1,512.6,680,1100,564.5
+07,95000,Somerton and Bustleton,Theft,Thefts,476,487,646,1046,1046,1609,536.3,35.7,119.7,61.9,95,501.1,512.6,680,1101.1,564.5
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,Aggravated Assault Firearm,17,66,55,63,63,138,46,223.5,270.6,14.5,37,17.5,68,56.7,64.9,47.4
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,Aggravated Assault No Firearm,138,146,178,189,189,462,154,29,37,6.2,23,142.3,150.5,183.5,194.8,158.8
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Burglary,Burglary Non-Residential,38,92,57,87,87,187,62.3,50,128.9,52.6,40,39.2,94.8,58.8,89.7,64.2
@@ -571,7 +571,7 @@ district,population,placename,category,description,total19,total20,total21,total
 09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,Robbery No Firearm,244,181,143,153,153,568,189.3,-41.4,-37.3,7,-19,369.7,274.2,216.7,231.8,286.8
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,Rape,23,20,21,19,19,64,21.3,-8.7,-17.4,-9.5,-11,34.8,30.3,31.8,28.8,32.3
 09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,Theft from Vehicle,579,609,624,858,858,1812,604,7.8,48.2,37.5,42,877.3,922.7,945.5,1300,915.2
-09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,Thefts,2847,1974,2105,2445,2445,6926,2308.7,-26.1,-14.1,16.2,6,4313.6,2990.9,3189.4,3704.5,3498
+09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,Thefts,2847,1974,2105,2447,2447,6926,2308.7,-26.1,-14,16.2,6,4313.6,2990.9,3189.4,3707.6,3498
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,Aggravated Assault Firearm,182,350,273,251,251,805,268.3,50,37.9,-8.1,-6,252.8,486.1,379.2,348.6,372.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,Aggravated Assault No Firearm,353,384,285,253,253,1022,340.7,-19.3,-28.3,-11.2,-26,490.3,533.3,395.8,351.4,473.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,Burglary Non-Residential,76,186,53,72,72,315,105,-30.3,-5.3,35.8,-31,105.6,258.3,73.6,100,145.8

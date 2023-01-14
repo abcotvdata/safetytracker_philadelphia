@@ -142,7 +142,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 07,95000,Somerton and Bustleton,Other,1468,1260,1383,1367,1367,4111,1370.3,-5.8,-6.9,-1.2,-0,1545.3,1326.3,1455.8,1438.9,1442.4
 07,95000,Somerton and Bustleton,Robbery,48,35,53,58,58,136,45.3,10.4,20.8,9.4,28,50.5,36.8,55.8,61.1,47.7
 07,95000,Somerton and Bustleton,Sexual Assault,15,22,10,3,3,47,15.7,-33.3,-80,-70,-81,15.8,23.2,10.5,3.2,16.5
-07,95000,Somerton and Bustleton,Theft,758,886,1059,1708,1708,2703,901,39.7,125.3,61.3,90,797.9,932.6,1114.7,1797.9,948.4
+07,95000,Somerton and Bustleton,Theft,758,886,1059,1709,1709,2703,901,39.7,125.5,61.4,90,797.9,932.6,1114.7,1798.9,948.4
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,155,212,233,252,252,600,200,50.3,62.6,8.2,26,159.8,218.6,240.2,259.8,206.2
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Burglary,121,179,155,184,184,455,151.7,28.1,52.1,18.7,21,124.7,184.5,159.8,189.7,156.4
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Motor Vehicle Theft,65,59,192,359,359,316,105.3,195.4,452.3,87,241,67,60.8,197.9,370.1,108.6
@@ -158,7 +158,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,3559,2604,2305,2549,2549,8468,2822.7,-35.2,-28.4,10.6,-10,5392.4,3945.5,3492.4,3862.1,4276.8
 09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,236,236,702,234,-28.8,-17.2,16.3,1,431.8,324.2,307.6,357.6,354.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,19,19,64,21.3,-8.7,-17.4,-9.5,-11,34.8,30.3,31.8,28.8,32.3
-09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,3426,2583,2729,3303,3303,8738,2912.7,-20.3,-3.6,21,13,5190.9,3913.6,4134.8,5004.5,4413.2
+09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,3426,2583,2729,3305,3305,8738,2912.7,-20.3,-3.5,21.1,13,5190.9,3913.6,4134.8,5007.6,4413.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,504,504,1827,609,4.3,-5.8,-9.7,-17,743.1,1019.4,775,700,845.8
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,335,335,1020,340,-29.4,-8,30.4,-1,505.6,554.2,356.9,465.3,472.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,868,1051,350.3,268.2,401.7,36.3,148,240.3,334.7,884.7,1205.6,486.5
