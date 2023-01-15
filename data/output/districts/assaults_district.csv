@@ -4,7 +4,7 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 18,80000,University City and Cobbs Creek,Aggravated Assault,464,522,443,446,446,1429,476.3,-4.5,-3.9,0.7,-6,580,652.5,553.8,557.5,595.4
 35,100000,Olney and Logan,Aggravated Assault,634,670,676,645,645,1980,660,6.6,1.7,-4.6,-2,634,670,676,645,660
 39,61000,"East Falls, Tioga and Nicetown",Aggravated Assault,671,618,640,617,617,1929,643,-4.6,-8,-3.6,-4,1100,1013.1,1049.2,1011.5,1054.1
-01,37000,Girard Estates and Navy Yard,Aggravated Assault,118,141,138,139,139,397,132.3,16.9,17.8,0.7,5,318.9,381.1,373,375.7,357.6
+01,37000,Girard Estates and Navy Yard,Aggravated Assault,118,141,138,140,140,397,132.3,16.9,18.6,1.4,6,318.9,381.1,373,378.4,357.6
 02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,312,312,985,328.3,16.8,6.8,-8.5,-5,253.9,306.1,296.5,271.3,285.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,248,248,722,240.7,-8.8,-4.6,4.6,3,279.6,241.9,254.8,266.7,258.8
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,597,597,1959,653,12,2.2,-8.7,-9,679.1,838.4,760.5,694.2,759.3
@@ -18,6 +18,6 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Aggravated Assault,248,255,253,323,323,756,252,2,30.2,27.7,28,539.1,554.3,550,702.2,547.8
 07,95000,Somerton and Bustleton,Aggravated Assault,80,70,97,93,93,247,82.3,21.2,16.3,-4.1,13,84.2,73.7,102.1,97.9,86.6
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,155,212,233,252,252,600,200,50.3,62.6,8.2,26,159.8,218.6,240.2,259.8,206.2
-09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,206,206,540,180,8.7,12,3,14,278.8,236.4,303,312.1,272.7
+09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,207,207,540,180,8.7,12.5,3.5,15,278.8,236.4,303,313.6,272.7
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,504,504,1827,609,4.3,-5.8,-9.7,-17,743.1,1019.4,775,700,845.8
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,453,453,1398,466,12.2,10.2,-1.7,-3,367,469.6,411.6,404.5,416.1
