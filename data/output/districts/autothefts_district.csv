@@ -1,6 +1,6 @@
 district,population,placename,category,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Motor Vehicle Theft,61,88,293,332,332,442,147.3,380.3,444.3,13.3,125,148.8,214.6,714.6,809.8,359.3
-17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,205,205,284,94.7,263.3,318.4,15.2,116,98,114,356,410,189.4
+17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,204,204,284,94.7,263.3,316.3,14.6,115,98,114,356,408,189.4
 18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,585,585,585,195,487.9,786.4,50.8,200,82.5,163.8,485,731.2,243.8
 35,100000,Olney and Logan,Motor Vehicle Theft,115,143,477,951,951,735,245,314.8,727,99.4,288,115,143,477,951,245
 39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,626,626,695,231.7,361.2,507.8,31.8,170,168.9,191.8,778.7,1026.2,379.8
@@ -20,4 +20,4 @@ district,population,placename,category,total19,total20,total21,total22,last12mos
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Motor Vehicle Theft,65,59,192,359,359,316,105.3,195.4,452.3,87,241,67,60.8,197.9,370.1,108.6
 09,66000,"Center City West, Logan Circle and North Philadelphia",Motor Vehicle Theft,35,36,202,277,277,273,91,477.1,691.4,37.1,204,53,54.5,306.1,419.7,137.9
 12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,868,1051,350.3,268.2,401.7,36.3,148,240.3,334.7,884.7,1205.6,486.5
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,696,696,590,196.7,193.9,510.5,107.8,254,101.8,125.9,299.1,621.4,175.6
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,695,695,590,196.7,193.9,509.6,107.5,253,101.8,125.9,299.1,620.5,175.6

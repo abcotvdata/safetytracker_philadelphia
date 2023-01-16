@@ -31,11 +31,11 @@ district,population,placename,category,description,total19,total20,total21,total
 16,41000,"Powelton, Mantua and Parkside",Theft,Thefts,716,596,615,903,903,1927,642.3,-14.1,26.1,46.8,41,1746.3,1453.7,1500,2202.4,1566.6
 17,50000,South Philadelphia and Grays Ferry,Aggravated Assault,Aggravated Assault Firearm,77,72,58,68,68,207,69,-24.7,-11.7,17.2,-1,154,144,116,136,138
 17,50000,South Philadelphia and Grays Ferry,Aggravated Assault,Aggravated Assault No Firearm,111,107,95,96,96,313,104.3,-14.4,-13.5,1.1,-8,222,214,190,192,208.6
-17,50000,South Philadelphia and Grays Ferry,Burglary,Burglary Non-Residential,27,38,21,33,33,86,28.7,-22.2,22.2,57.1,15,54,76,42,66,57.4
+17,50000,South Philadelphia and Grays Ferry,Burglary,Burglary Non-Residential,27,38,21,34,34,86,28.7,-22.2,25.9,61.9,18,54,76,42,68,57.4
 17,50000,South Philadelphia and Grays Ferry,Burglary,Burglary Residential,227,135,139,106,106,501,167,-38.8,-53.3,-23.7,-37,454,270,278,212,334
-17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,Motor Vehicle Theft,49,57,178,205,205,284,94.7,263.3,318.4,15.2,116,98,114,356,410,189.4
+17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,Motor Vehicle Theft,49,57,178,204,204,284,94.7,263.3,316.3,14.6,115,98,114,356,408,189.4
 17,50000,South Philadelphia and Grays Ferry,Murder,Homicide - Criminal,5,17,10,7,7,32,10.7,100,40,-30,-35,10,34,20,14,21.4
-17,50000,South Philadelphia and Grays Ferry,Other,All Other Offenses,963,266,157,154,154,1386,462,-83.7,-84,-1.9,-67,1926,532,314,308,924
+17,50000,South Philadelphia and Grays Ferry,Other,All Other Offenses,963,266,157,153,153,1386,462,-83.7,-84.1,-2.5,-67,1926,532,314,306,924
 17,50000,South Philadelphia and Grays Ferry,Other,Arson,7,15,8,7,7,30,10,14.3,0,-12.5,-30,14,30,16,14,20
 17,50000,South Philadelphia and Grays Ferry,Other,Disorderly Conduct,12,10,6,3,3,28,9.3,-50,-75,-50,-68,24,20,12,6,18.6
 17,50000,South Philadelphia and Grays Ferry,Other,DRIVING UNDER THE INFLUENCE,38,42,31,26,26,111,37,-18.4,-31.6,-16.1,-30,76,84,62,52,74
@@ -54,9 +54,9 @@ district,population,placename,category,description,total19,total20,total21,total
 17,50000,South Philadelphia and Grays Ferry,Robbery,Robbery Firearm,37,24,25,48,48,86,28.7,-32.4,29.7,92,67,74,48,50,96,57.4
 17,50000,South Philadelphia and Grays Ferry,Robbery,Robbery No Firearm,84,78,46,64,64,208,69.3,-45.2,-23.8,39.1,-8,168,156,92,128,138.6
 17,50000,South Philadelphia and Grays Ferry,Sexual Assault,Rape,20,10,19,15,15,49,16.3,-5,-25,-21.1,-8,40,20,38,30,32.6
-17,50000,South Philadelphia and Grays Ferry,Theft,Theft from Vehicle,470,337,268,466,466,1075,358.3,-43,-0.9,73.9,30,940,674,536,932,716.6
+17,50000,South Philadelphia and Grays Ferry,Theft,Theft from Vehicle,470,337,268,467,467,1075,358.3,-43,-0.6,74.3,30,940,674,536,934,716.6
 17,50000,South Philadelphia and Grays Ferry,Theft,Thefts,886,973,866,1003,1003,2725,908.3,-2.3,13.2,15.8,10,1772,1946,1732,2006,1816.6
-18,80000,University City and Cobbs Creek,Aggravated Assault,Aggravated Assault Firearm,115,172,195,165,165,482,160.7,69.6,43.5,-15.4,3,143.8,215,243.8,206.2,200.9
+18,80000,University City and Cobbs Creek,Aggravated Assault,Aggravated Assault Firearm,115,172,195,166,166,482,160.7,69.6,44.3,-14.9,3,143.8,215,243.8,207.5,200.9
 18,80000,University City and Cobbs Creek,Aggravated Assault,Aggravated Assault No Firearm,349,350,248,281,281,947,315.7,-28.9,-19.5,13.3,-11,436.2,437.5,310,351.2,394.6
 18,80000,University City and Cobbs Creek,Burglary,Burglary Non-Residential,40,159,58,92,92,257,85.7,45,130,58.6,7,50,198.8,72.5,115,107.1
 18,80000,University City and Cobbs Creek,Burglary,Burglary Residential,278,203,231,210,210,712,237.3,-16.9,-24.5,-9.1,-12,347.5,253.7,288.8,262.5,296.6
@@ -79,14 +79,14 @@ district,population,placename,category,description,total19,total20,total21,total
 18,80000,University City and Cobbs Creek,Other,Public Drunkenness,7,2,2,0,0,11,3.7,-71.4,-100,-100,-100,8.8,2.5,2.5,0,4.6
 18,80000,University City and Cobbs Creek,Other,Receiving Stolen Property,0,1,32,51,51,33,11,NA,NA,59.4,364,0,1.2,40,63.8,13.8
 18,80000,University City and Cobbs Creek,Other,Vandalism/Criminal Mischief,665,681,623,731,731,1969,656.3,-6.3,9.9,17.3,11,831.2,851.2,778.8,913.8,820.4
-18,80000,University City and Cobbs Creek,Other,Weapon Violations,166,224,219,253,253,609,203,31.9,52.4,15.5,25,207.5,280,273.8,316.2,253.7
+18,80000,University City and Cobbs Creek,Other,Weapon Violations,166,224,219,251,251,609,203,31.9,51.2,14.6,24,207.5,280,273.8,313.8,253.7
 18,80000,University City and Cobbs Creek,Robbery,Robbery Firearm,112,134,137,115,115,383,127.7,22.3,2.7,-16.1,-10,140,167.5,171.2,143.8,159.6
-18,80000,University City and Cobbs Creek,Robbery,Robbery No Firearm,165,154,120,135,135,439,146.3,-27.3,-18.2,12.5,-8,206.2,192.5,150,168.8,182.9
+18,80000,University City and Cobbs Creek,Robbery,Robbery No Firearm,165,154,120,136,136,439,146.3,-27.3,-17.6,13.3,-7,206.2,192.5,150,170,182.9
 18,80000,University City and Cobbs Creek,Sexual Assault,Rape,46,45,46,32,32,137,45.7,0,-30.4,-30.4,-30,57.5,56.2,57.5,40,57.1
 18,80000,University City and Cobbs Creek,Theft,Theft from Vehicle,562,511,409,523,523,1482,494,-27.2,-6.9,27.9,6,702.5,638.8,511.2,653.8,617.5
 18,80000,University City and Cobbs Creek,Theft,Thefts,1615,1190,1236,1891,1891,4041,1347,-23.5,17.1,53,40,2018.8,1487.5,1545,2363.8,1683.7
 35,100000,Olney and Logan,Aggravated Assault,Aggravated Assault Firearm,236,260,297,276,276,793,264.3,25.8,16.9,-7.1,4,236,260,297,276,264.3
-35,100000,Olney and Logan,Aggravated Assault,Aggravated Assault No Firearm,398,410,379,369,369,1187,395.7,-4.8,-7.3,-2.6,-7,398,410,379,369,395.7
+35,100000,Olney and Logan,Aggravated Assault,Aggravated Assault No Firearm,398,410,379,370,370,1187,395.7,-4.8,-7,-2.4,-6,398,410,379,370,395.7
 35,100000,Olney and Logan,Burglary,Burglary Non-Residential,50,146,49,61,61,245,81.7,-2,22,24.5,-25,50,146,49,61,81.7
 35,100000,Olney and Logan,Burglary,Burglary Residential,293,239,237,196,196,769,256.3,-19.1,-33.1,-17.3,-24,293,239,237,196,256.3
 35,100000,Olney and Logan,Motor Vehicle Theft,Motor Vehicle Theft,115,143,477,951,951,735,245,314.8,727,99.4,288,115,143,477,951,245
@@ -102,7 +102,7 @@ district,population,placename,category,description,total19,total20,total21,total
 35,100000,Olney and Logan,Other,Liquor Law Violations,12,2,4,3,3,18,6,-66.7,-75,-25,-50,12,2,4,3,6
 35,100000,Olney and Logan,Other,Narcotic / Drug Law Violations,587,626,244,95,95,1457,485.7,-58.4,-83.8,-61.1,-80,587,626,244,95,485.7
 35,100000,Olney and Logan,Other,Offenses Against Family and Children,301,179,46,7,7,526,175.3,-84.7,-97.7,-84.8,-96,301,179,46,7,175.3
-35,100000,Olney and Logan,Other,Other Assaults,1932,1569,1780,1787,1787,5281,1760.3,-7.9,-7.5,0.4,2,1932,1569,1780,1787,1760.3
+35,100000,Olney and Logan,Other,Other Assaults,1932,1569,1780,1786,1786,5281,1760.3,-7.9,-7.6,0.3,1,1932,1569,1780,1786,1760.3
 35,100000,Olney and Logan,Other,Other Sex Offenses (Not Commercialized),70,39,51,45,45,160,53.3,-27.1,-35.7,-11.8,-16,70,39,51,45,53.3
 35,100000,Olney and Logan,Other,Prostitution and Commercialized Vice,19,0,0,1,1,19,6.3,-100,-94.7,NA,-84,19,0,0,1,6.3
 35,100000,Olney and Logan,Other,Public Drunkenness,6,1,5,0,0,12,4,-16.7,-100,-100,-100,6,1,5,0,4
@@ -115,7 +115,7 @@ district,population,placename,category,description,total19,total20,total21,total
 35,100000,Olney and Logan,Sexual Assault,Rape,75,63,49,44,44,187,62.3,-34.7,-41.3,-10.2,-29,75,63,49,44,62.3
 35,100000,Olney and Logan,Theft,Theft from Vehicle,723,708,485,696,696,1916,638.7,-32.9,-3.7,43.5,9,723,708,485,696,638.7
 35,100000,Olney and Logan,Theft,Thefts,1155,938,1115,1711,1711,3208,1069.3,-3.5,48.1,53.5,60,1155,938,1115,1711,1069.3
-39,61000,"East Falls, Tioga and Nicetown",Aggravated Assault,Aggravated Assault Firearm,278,292,312,287,287,882,294,12.2,3.2,-8,-2,455.7,478.7,511.5,470.5,482
+39,61000,"East Falls, Tioga and Nicetown",Aggravated Assault,Aggravated Assault Firearm,278,292,312,286,286,882,294,12.2,2.9,-8.3,-3,455.7,478.7,511.5,468.9,482
 39,61000,"East Falls, Tioga and Nicetown",Aggravated Assault,Aggravated Assault No Firearm,393,326,328,330,330,1047,349,-16.5,-16,0.6,-5,644.3,534.4,537.7,541,572.1
 39,61000,"East Falls, Tioga and Nicetown",Burglary,Burglary Non-Residential,75,233,94,77,77,402,134,25.3,2.7,-18.1,-43,123,382,154.1,126.2,219.7
 39,61000,"East Falls, Tioga and Nicetown",Burglary,Burglary Residential,350,267,241,248,248,858,286,-31.1,-29.1,2.9,-13,573.8,437.7,395.1,406.6,468.9
@@ -140,7 +140,7 @@ district,population,placename,category,description,total19,total20,total21,total
 39,61000,"East Falls, Tioga and Nicetown",Other,Vandalism/Criminal Mischief,838,826,804,823,823,2468,822.7,-4.1,-1.8,2.4,0,1373.8,1354.1,1318,1349.2,1348.7
 39,61000,"East Falls, Tioga and Nicetown",Other,Weapon Violations,193,293,299,178,178,785,261.7,54.9,-7.8,-40.5,-32,316.4,480.3,490.2,291.8,429
 39,61000,"East Falls, Tioga and Nicetown",Robbery,Robbery Firearm,127,114,127,169,169,368,122.7,0,33.1,33.1,38,208.2,186.9,208.2,277,201.1
-39,61000,"East Falls, Tioga and Nicetown",Robbery,Robbery No Firearm,162,155,142,142,142,459,153,-12.3,-12.3,0,-7,265.6,254.1,232.8,232.8,250.8
+39,61000,"East Falls, Tioga and Nicetown",Robbery,Robbery No Firearm,162,155,142,143,143,459,153,-12.3,-11.7,0.7,-7,265.6,254.1,232.8,234.4,250.8
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,Rape,63,42,58,39,39,163,54.3,-7.9,-38.1,-32.8,-28,103.3,68.9,95.1,63.9,89
 39,61000,"East Falls, Tioga and Nicetown",Theft,Theft from Vehicle,657,623,599,624,624,1879,626.3,-8.8,-5,4.2,-0,1077,1021.3,982,1023,1026.7
 39,61000,"East Falls, Tioga and Nicetown",Theft,Thefts,1020,828,978,1227,1227,2826,942,-4.1,20.3,25.5,30,1672.1,1357.4,1603.3,2011.5,1544.3
@@ -173,7 +173,7 @@ district,population,placename,category,description,total19,total20,total21,total
 01,37000,Girard Estates and Navy Yard,Theft,Theft from Vehicle,296,248,206,312,312,750,250,-30.4,5.4,51.5,25,800,670.3,556.8,843.2,675.7
 01,37000,Girard Estates and Navy Yard,Theft,Thefts,437,400,529,1004,1004,1366,455.3,21.1,129.7,89.8,121,1181.1,1081.1,1429.7,2713.5,1230.5
 02,115000,Oxford Circle and Lawncrest,Aggravated Assault,Aggravated Assault Firearm,80,137,130,131,131,347,115.7,62.5,63.8,0.8,13,69.6,119.1,113,113.9,100.6
-02,115000,Oxford Circle and Lawncrest,Aggravated Assault,Aggravated Assault No Firearm,212,215,211,181,181,638,212.7,-0.5,-14.6,-14.2,-15,184.3,187,183.5,157.4,185
+02,115000,Oxford Circle and Lawncrest,Aggravated Assault,Aggravated Assault No Firearm,212,215,211,182,182,638,212.7,-0.5,-14.2,-13.7,-14,184.3,187,183.5,158.3,185
 02,115000,Oxford Circle and Lawncrest,Burglary,Burglary Non-Residential,52,191,60,79,79,303,101,15.4,51.9,31.7,-22,45.2,166.1,52.2,68.7,87.8
 02,115000,Oxford Circle and Lawncrest,Burglary,Burglary Residential,167,123,170,140,140,460,153.3,1.8,-16.2,-17.6,-9,145.2,107,147.8,121.7,133.3
 02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,Motor Vehicle Theft,94,95,432,863,863,621,207,359.6,818.1,99.8,317,81.7,82.6,375.7,750.4,180
@@ -189,7 +189,7 @@ district,population,placename,category,description,total19,total20,total21,total
 02,115000,Oxford Circle and Lawncrest,Other,Liquor Law Violations,4,4,2,3,3,10,3.3,-50,-25,50,-9,3.5,3.5,1.7,2.6,2.9
 02,115000,Oxford Circle and Lawncrest,Other,Narcotic / Drug Law Violations,144,323,263,94,94,730,243.3,82.6,-34.7,-64.3,-61,125.2,280.9,228.7,81.7,211.6
 02,115000,Oxford Circle and Lawncrest,Other,Offenses Against Family and Children,3,3,3,6,6,9,3,0,100,100,100,2.6,2.6,2.6,5.2,2.6
-02,115000,Oxford Circle and Lawncrest,Other,Other Assaults,1137,904,1201,1338,1338,3242,1080.7,5.6,17.7,11.4,24,988.7,786.1,1044.3,1163.5,939.7
+02,115000,Oxford Circle and Lawncrest,Other,Other Assaults,1137,904,1201,1336,1336,3242,1080.7,5.6,17.5,11.2,24,988.7,786.1,1044.3,1161.7,939.7
 02,115000,Oxford Circle and Lawncrest,Other,Other Sex Offenses (Not Commercialized),50,43,55,51,51,148,49.3,10,2,-7.3,3,43.5,37.4,47.8,44.3,42.9
 02,115000,Oxford Circle and Lawncrest,Other,Prostitution and Commercialized Vice,5,1,1,3,3,7,2.3,-80,-40,200,30,4.3,0.9,0.9,2.6,2
 02,115000,Oxford Circle and Lawncrest,Other,Public Drunkenness,1,0,0,0,0,1,0.3,-100,-100,NA,-100,0.9,0,0,0,0.3
@@ -197,13 +197,13 @@ district,population,placename,category,description,total19,total20,total21,total
 02,115000,Oxford Circle and Lawncrest,Other,Vandalism/Criminal Mischief,747,726,626,679,679,2099,699.7,-16.2,-9.1,8.5,-3,649.6,631.3,544.3,590.4,608.4
 02,115000,Oxford Circle and Lawncrest,Other,Weapon Violations,60,98,110,86,86,268,89.3,83.3,43.3,-21.8,-4,52.2,85.2,95.7,74.8,77.7
 02,115000,Oxford Circle and Lawncrest,Robbery,Robbery Firearm,105,117,189,233,233,411,137,80,121.9,23.3,70,91.3,101.7,164.3,202.6,119.1
-02,115000,Oxford Circle and Lawncrest,Robbery,Robbery No Firearm,138,111,128,168,168,377,125.7,-7.2,21.7,31.2,34,120,96.5,111.3,146.1,109.3
+02,115000,Oxford Circle and Lawncrest,Robbery,Robbery No Firearm,138,111,128,169,169,377,125.7,-7.2,22.5,32,34,120,96.5,111.3,147,109.3
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,Rape,57,53,31,38,38,141,47,-45.6,-33.3,22.6,-19,49.6,46.1,27,33,40.9
 02,115000,Oxford Circle and Lawncrest,Theft,Theft from Vehicle,820,712,645,827,827,2177,725.7,-21.3,0.9,28.2,14,713,619.1,560.9,719.1,631
 02,115000,Oxford Circle and Lawncrest,Theft,Thefts,1308,1105,1459,2084,2084,3872,1290.7,11.5,59.3,42.8,61,1137.4,960.9,1268.7,1812.2,1122.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,Aggravated Assault Firearm,73,60,62,71,71,195,65,-15.1,-2.7,14.5,9,78.5,64.5,66.7,76.3,69.9
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,Aggravated Assault No Firearm,187,165,175,177,177,527,175.7,-6.4,-5.3,1.1,1,201.1,177.4,188.2,190.3,188.9
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,Burglary Non-Residential,115,119,106,137,137,340,113.3,-7.8,19.1,29.2,21,123.7,128,114,147.3,121.8
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,Aggravated Assault No Firearm,187,165,175,178,178,527,175.7,-6.4,-4.8,1.7,1,201.1,177.4,188.2,191.4,188.9
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,Burglary Non-Residential,115,119,106,136,136,340,113.3,-7.8,18.3,28.3,20,123.7,128,114,146.2,121.8
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,Burglary Residential,191,122,107,121,121,420,140,-44,-36.6,13.1,-14,205.4,131.2,115.1,130.1,150.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,Motor Vehicle Theft,68,80,283,427,427,431,143.7,316.2,527.9,50.9,197,73.1,86,304.3,459.1,154.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,Homicide - Criminal,4,5,14,14,14,23,7.7,250,250,0,82,4.3,5.4,15.1,15.1,8.3
@@ -214,7 +214,7 @@ district,population,placename,category,description,total19,total20,total21,total
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,DRIVING UNDER THE INFLUENCE,157,66,49,35,35,272,90.7,-68.8,-77.7,-28.6,-61,168.8,71,52.7,37.6,97.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Embezzlement,43,18,13,10,10,74,24.7,-69.8,-76.7,-23.1,-60,46.2,19.4,14,10.8,26.6
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Forgery and Counterfeiting,17,16,13,11,11,46,15.3,-23.5,-35.3,-15.4,-28,18.3,17.2,14,11.8,16.5
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Fraud,439,382,388,355,355,1209,403,-11.6,-19.1,-8.5,-12,472,410.8,417.2,381.7,433.3
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Fraud,439,382,388,354,354,1209,403,-11.6,-19.4,-8.8,-12,472,410.8,417.2,380.6,433.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Liquor Law Violations,31,3,9,5,5,43,14.3,-71,-83.9,-44.4,-65,33.3,3.2,9.7,5.4,15.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Narcotic / Drug Law Violations,196,72,38,49,49,306,102,-80.6,-75,28.9,-52,210.8,77.4,40.9,52.7,109.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Offenses Against Family and Children,5,2,5,2,2,12,4,0,-60,-60,-50,5.4,2.2,5.4,2.2,4.3
@@ -226,14 +226,14 @@ district,population,placename,category,description,total19,total20,total21,total
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Vandalism/Criminal Mischief,564,561,517,712,712,1642,547.3,-8.3,26.2,37.7,30,606.5,603.2,555.9,765.6,588.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,Weapon Violations,66,55,56,56,56,177,59,-15.2,-15.2,0,-5,71,59.1,60.2,60.2,63.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,Robbery Firearm,82,52,89,94,94,223,74.3,8.5,14.6,5.6,27,88.2,55.9,95.7,101.1,79.9
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,Robbery No Firearm,178,118,107,139,139,403,134.3,-39.9,-21.9,29.9,3,191.4,126.9,115.1,149.5,144.4
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,Robbery No Firearm,178,118,107,138,138,403,134.3,-39.9,-22.5,29,3,191.4,126.9,115.1,148.4,144.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,Rape,30,18,32,27,27,80,26.7,6.7,-10,-15.6,1,32.3,19.4,34.4,29,28.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,Theft from Vehicle,750,752,789,1262,1262,2291,763.7,5.2,68.3,59.9,65,806.5,808.6,848.4,1357,821.2
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,Thefts,1353,1245,1436,2073,2073,4034,1344.7,6.1,53.2,44.4,54,1454.8,1338.7,1544.1,2229,1445.9
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault Firearm,221,315,296,278,278,832,277.3,33.9,25.8,-6.1,0,257,366.3,344.2,323.3,322.4
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,Thefts,1353,1245,1436,2075,2075,4034,1344.7,6.1,53.4,44.5,54,1454.8,1338.7,1544.1,2231.2,1445.9
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault Firearm,221,315,296,279,279,832,277.3,33.9,26.2,-5.7,1,257,366.3,344.2,324.4,322.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault No Firearm,363,406,358,319,319,1127,375.7,-1.4,-12.1,-10.9,-15,422.1,472.1,416.3,370.9,436.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Non-Residential,76,218,63,80,80,357,119,-17.1,5.3,27,-33,88.4,253.5,73.3,93,138.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Residential,299,233,247,237,237,779,259.7,-17.4,-20.7,-4,-9,347.7,270.9,287.2,275.6,302
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Residential,299,233,247,238,238,779,259.7,-17.4,-20.4,-3.6,-8,347.7,270.9,287.2,276.7,302
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,Motor Vehicle Theft,120,138,429,696,696,687,229,257.5,480,62.2,204,139.5,160.5,498.8,809.3,266.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,Homicide - Criminal,26,34,35,30,30,95,31.7,34.6,15.4,-14.3,-5,30.2,39.5,40.7,34.9,36.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,All Other Offenses,2775,874,737,616,616,4386,1462,-73.4,-77.8,-16.4,-58,3226.7,1016.3,857,716.3,1700
@@ -246,14 +246,14 @@ district,population,placename,category,description,total19,total20,total21,total
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Liquor Law Violations,10,2,10,6,6,22,7.3,0,-40,-40,-18,11.6,2.3,11.6,7,8.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Narcotic / Drug Law Violations,625,273,110,144,144,1008,336,-82.4,-77,30.9,-57,726.7,317.4,127.9,167.4,390.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Offenses Against Family and Children,19,15,10,4,4,44,14.7,-47.4,-78.9,-60,-73,22.1,17.4,11.6,4.7,17.1
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Assaults,2023,1938,2026,2141,2141,5987,1995.7,0.1,5.8,5.7,7,2352.3,2253.5,2355.8,2489.5,2320.6
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Assaults,2023,1938,2026,2140,2140,5987,1995.7,0.1,5.8,5.6,7,2352.3,2253.5,2355.8,2488.4,2320.6
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Sex Offenses (Not Commercialized),61,36,36,48,48,133,44.3,-41,-21.3,33.3,8,70.9,41.9,41.9,55.8,51.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Prostitution and Commercialized Vice,2,0,1,2,2,3,1,-50,0,100,100,2.3,0,1.2,2.3,1.2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Public Drunkenness,0,0,5,2,2,5,1.7,NA,NA,-60,18,0,0,5.8,2.3,2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Receiving Stolen Property,3,3,41,46,46,47,15.7,1266.7,1433.3,12.2,193,3.5,3.5,47.7,53.5,18.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Vagrancy/Loitering,5,0,1,0,0,6,2,-80,-100,-100,-100,5.8,0,1.2,0,2.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Vandalism/Criminal Mischief,944,963,993,970,970,2900,966.7,5.2,2.8,-2.3,0,1097.7,1119.8,1154.7,1127.9,1124.1
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Weapon Violations,192,286,290,224,224,768,256,51,16.7,-22.8,-12,223.3,332.6,337.2,260.5,297.7
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Weapon Violations,192,286,290,223,223,768,256,51,16.1,-23.1,-13,223.3,332.6,337.2,259.3,297.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,Robbery Firearm,138,103,155,140,140,396,132,12.3,1.4,-9.7,6,160.5,119.8,180.2,162.8,153.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,Robbery No Firearm,166,137,87,107,107,390,130,-47.6,-35.5,23,-18,193,159.3,101.2,124.4,151.2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,Rape,71,46,44,36,36,161,53.7,-38,-49.3,-18.2,-33,82.6,53.5,51.2,41.9,62.4
@@ -347,12 +347,12 @@ district,population,placename,category,description,total19,total20,total21,total
 25,68000,Kensington and Harrowgate,Robbery,Robbery Firearm,240,185,256,300,300,681,227,6.7,25,17.2,32,352.9,272.1,376.5,441.2,333.8
 25,68000,Kensington and Harrowgate,Robbery,Robbery No Firearm,319,235,212,204,204,766,255.3,-33.5,-36.1,-3.8,-20,469.1,345.6,311.8,300,375.4
 25,68000,Kensington and Harrowgate,Sexual Assault,Rape,68,80,74,46,46,222,74,8.8,-32.4,-37.8,-38,100,117.6,108.8,67.6,108.8
-25,68000,Kensington and Harrowgate,Theft,Theft from Vehicle,677,780,499,490,490,1956,652,-26.3,-27.6,-1.8,-25,995.6,1147.1,733.8,720.6,958.8
-25,68000,Kensington and Harrowgate,Theft,Thefts,804,725,892,1119,1119,2421,807,10.9,39.2,25.4,39,1182.4,1066.2,1311.8,1645.6,1186.8
+25,68000,Kensington and Harrowgate,Theft,Theft from Vehicle,677,780,499,489,489,1956,652,-26.3,-27.8,-2,-25,995.6,1147.1,733.8,719.1,958.8
+25,68000,Kensington and Harrowgate,Theft,Thefts,804,725,892,1120,1120,2421,807,10.9,39.3,25.6,39,1182.4,1066.2,1311.8,1647.1,1186.8
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Aggravated Assault,Aggravated Assault Firearm,70,134,139,137,137,343,114.3,98.6,95.7,-1.4,20,122.8,235.1,243.9,240.4,200.5
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Aggravated Assault,Aggravated Assault No Firearm,198,173,184,174,174,555,185,-7.1,-12.1,-5.4,-6,347.4,303.5,322.8,305.3,324.6
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,Burglary Non-Residential,92,158,128,210,210,378,126,39.1,128.3,64.1,67,161.4,277.2,224.6,368.4,221.1
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,Burglary Residential,309,236,257,329,329,802,267.3,-16.8,6.5,28,23,542.1,414,450.9,577.2,468.9
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,Burglary Non-Residential,92,158,128,211,211,378,126,39.1,129.3,64.8,67,161.4,277.2,224.6,370.2,221.1
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,Burglary Residential,309,236,257,328,328,802,267.3,-16.8,6.1,27.6,23,542.1,414,450.9,575.4,468.9
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,Motor Vehicle Theft,105,164,424,719,719,693,231,303.8,584.8,69.6,211,184.2,287.7,743.9,1261.4,405.3
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,Homicide - Criminal,10,14,11,13,13,35,11.7,10,30,18.2,11,17.5,24.6,19.3,22.8,20.5
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,Homicide - Justifiable,0,0,0,1,1,0,0,NA,NA,NA,NA,0,0,0,1.8,0
@@ -379,8 +379,8 @@ district,population,placename,category,description,total19,total20,total21,total
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Sexual Assault,Rape,41,26,24,22,22,91,30.3,-41.5,-46.3,-8.3,-27,71.9,45.6,42.1,38.6,53.2
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Theft,Theft from Vehicle,978,1007,1066,1316,1316,3051,1017,9,34.6,23.5,29,1715.8,1766.7,1870.2,2308.8,1784.2
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Theft,Thefts,900,833,1005,1282,1282,2738,912.7,11.7,42.4,27.6,40,1578.9,1461.4,1763.2,2249.1,1601.2
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,Aggravated Assault Firearm,216,277,272,326,326,765,255,25.9,50.9,19.9,28,155.4,199.3,195.7,234.5,183.5
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,Aggravated Assault No Firearm,409,374,383,349,349,1166,388.7,-6.4,-14.7,-8.9,-10,294.2,269.1,275.5,251.1,279.6
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,Aggravated Assault Firearm,216,277,272,327,327,765,255,25.9,51.4,20.2,28,155.4,199.3,195.7,235.3,183.5
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,Aggravated Assault No Firearm,409,374,383,348,348,1166,388.7,-6.4,-14.9,-9.1,-10,294.2,269.1,275.5,250.4,279.6
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,Burglary Non-Residential,82,177,79,150,150,338,112.7,-3.7,82.9,89.9,33,59,127.3,56.8,107.9,81.1
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,Burglary Residential,309,193,237,246,246,739,246.3,-23.3,-20.4,3.8,-0,222.3,138.8,170.5,177,177.2
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,Motor Vehicle Theft,146,292,778,1258,1258,1216,405.3,432.9,761.6,61.7,210,105,210.1,559.7,905,291.6
@@ -601,10 +601,10 @@ district,population,placename,category,description,total19,total20,total21,total
 12,72000,"Kingsessing, Eastwick and Elmwood",Theft,Theft from Vehicle,606,719,689,577,577,2014,671.3,13.7,-4.8,-16.3,-14,841.7,998.6,956.9,801.4,932.4
 12,72000,"Kingsessing, Eastwick and Elmwood",Theft,Thefts,826,751,979,1280,1280,2556,852,18.5,55,30.7,50,1147.2,1043.1,1359.7,1777.8,1183.3
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,Aggravated Assault Firearm,143,234,211,200,200,588,196,47.6,39.9,-5.2,2,127.7,208.9,188.4,178.6,175
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,Aggravated Assault No Firearm,268,292,250,253,253,810,270,-6.7,-5.6,1.2,-6,239.3,260.7,223.2,225.9,241.1
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,Aggravated Assault No Firearm,268,292,250,254,254,810,270,-6.7,-5.2,1.6,-6,239.3,260.7,223.2,226.8,241.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,Burglary Non-Residential,37,168,60,71,71,265,88.3,62.2,91.9,18.3,-20,33,150,53.6,63.4,78.8
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,Burglary Residential,251,228,183,201,201,662,220.7,-27.1,-19.9,9.8,-9,224.1,203.6,163.4,179.5,197.1
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,Motor Vehicle Theft,114,141,335,696,696,590,196.7,193.9,510.5,107.8,254,101.8,125.9,299.1,621.4,175.6
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,Motor Vehicle Theft,114,141,335,695,695,590,196.7,193.9,509.6,107.5,253,101.8,125.9,299.1,620.5,175.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,Homicide - Criminal,26,35,22,37,37,83,27.7,-15.4,42.3,68.2,34,23.2,31.2,19.6,33,24.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,All Other Offenses,1613,873,525,578,578,3011,1003.7,-67.5,-64.2,10.1,-42,1440.2,779.5,468.8,516.1,896.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Arson,30,30,25,15,15,85,28.3,-16.7,-50,-40,-47,26.8,26.8,22.3,13.4,25.3
@@ -612,18 +612,18 @@ district,population,placename,category,description,total19,total20,total21,total
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,DRIVING UNDER THE INFLUENCE,97,60,56,40,40,213,71,-42.3,-58.8,-28.6,-44,86.6,53.6,50,35.7,63.4
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Embezzlement,13,12,5,8,8,30,10,-61.5,-38.5,60,-20,11.6,10.7,4.5,7.1,8.9
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Forgery and Counterfeiting,17,11,30,175,175,58,19.3,76.5,929.4,483.3,807,15.2,9.8,26.8,156.2,17.2
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Fraud,679,802,910,642,642,2391,797,34,-5.4,-29.5,-19,606.2,716.1,812.5,573.2,711.6
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Fraud,679,802,910,641,641,2391,797,34,-5.6,-29.6,-20,606.2,716.1,812.5,572.3,711.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Gambling Violations,15,1,4,0,0,20,6.7,-73.3,-100,-100,-100,13.4,0.9,3.6,0,6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Liquor Law Violations,1,1,0,1,1,2,0.7,-100,0,NA,43,0.9,0.9,0,0.9,0.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Narcotic / Drug Law Violations,498,322,246,190,190,1066,355.3,-50.6,-61.8,-22.8,-47,444.6,287.5,219.6,169.6,317.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Offenses Against Family and Children,9,58,39,80,80,106,35.3,333.3,788.9,105.1,127,8,51.8,34.8,71.4,31.5
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Other Assaults,1605,1656,1601,1778,1778,4862,1620.7,-0.2,10.8,11.1,10,1433,1478.6,1429.5,1587.5,1447.1
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Other Assaults,1605,1656,1601,1777,1777,4862,1620.7,-0.2,10.7,11,10,1433,1478.6,1429.5,1586.6,1447.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Other Sex Offenses (Not Commercialized),52,40,56,51,51,148,49.3,7.7,-1.9,-8.9,3,46.4,35.7,50,45.5,44
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Prostitution and Commercialized Vice,7,0,0,1,1,7,2.3,-100,-85.7,NA,-57,6.2,0,0,0.9,2.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Public Drunkenness,1,0,2,0,0,3,1,100,-100,-100,-100,0.9,0,1.8,0,0.9
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Receiving Stolen Property,1,1,29,56,56,31,10.3,2800,5500,93.1,444,0.9,0.9,25.9,50,9.2
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Receiving Stolen Property,1,1,29,57,57,31,10.3,2800,5600,96.6,453,0.9,0.9,25.9,50.9,9.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Vagrancy/Loitering,1,0,1,0,0,2,0.7,0,-100,-100,-100,0.9,0,0.9,0,0.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Vandalism/Criminal Mischief,927,952,836,914,914,2715,905,-9.8,-1.4,9.3,1,827.7,850,746.4,816.1,808
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Vandalism/Criminal Mischief,927,952,836,915,915,2715,905,-9.8,-1.3,9.4,1,827.7,850,746.4,817,808
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,Weapon Violations,155,249,294,204,204,698,232.7,89.7,31.6,-30.6,-12,138.4,222.3,262.5,182.1,207.8
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,Robbery Firearm,119,84,105,144,144,308,102.7,-11.8,21,37.1,40,106.3,75,93.8,128.6,91.7
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,Robbery No Firearm,107,96,76,102,102,279,93,-29,-4.7,34.2,10,95.5,85.7,67.9,91.1,83

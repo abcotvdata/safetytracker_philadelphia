@@ -1,13 +1,13 @@
 district,population,placename,category,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Burglary,204,192,155,188,188,551,183.7,-24,-7.8,21.3,2,497.6,468.3,378,458.5,448
-17,50000,South Philadelphia and Grays Ferry,Burglary,254,173,160,139,139,587,195.7,-37,-45.3,-13.1,-29,508,346,320,278,391.4
+17,50000,South Philadelphia and Grays Ferry,Burglary,254,173,160,140,140,587,195.7,-37,-44.9,-12.5,-28,508,346,320,280,391.4
 18,80000,University City and Cobbs Creek,Burglary,318,362,289,302,302,969,323,-9.1,-5,4.5,-7,397.5,452.5,361.2,377.5,403.8
 35,100000,Olney and Logan,Burglary,343,385,286,257,257,1014,338,-16.6,-25.1,-10.1,-24,343,385,286,257,338
 39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,325,325,1260,420,-21.2,-23.5,-3,-23,696.7,819.7,549.2,532.8,688.5
 01,37000,Girard Estates and Navy Yard,Burglary,77,72,136,157,157,285,95,76.6,103.9,15.4,65,208.1,194.6,367.6,424.3,256.8
 02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,219,219,763,254.3,5,0,-4.8,-14,190.4,273,200,190.4,221.1
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,258,258,760,253.3,-30.4,-15.7,21.1,2,329,259.1,229,277.4,272.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,317,317,1136,378.7,-17.3,-15.5,2.3,-16,436,524.4,360.5,368.6,440.3
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,257,257,760,253.3,-30.4,-16,20.7,1,329,259.1,229,276.3,272.4
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,318,318,1136,378.7,-17.3,-15.2,2.6,-16,436,524.4,360.5,369.8,440.3
 22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,571,571,1907,635.7,-12.1,-10.6,1.6,-10,829.9,916.9,729.9,741.6,825.6
 24,67000,Richmond and Port Richmond,Burglary,277,450,233,316,316,960,320,-15.9,14.1,35.6,-1,413.4,671.6,347.8,471.6,477.6
 25,68000,Kensington and Harrowgate,Burglary,293,397,219,242,242,909,303,-25.3,-17.4,10.5,-20,430.9,583.8,322.1,355.9,445.6
