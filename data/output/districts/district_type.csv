@@ -26,7 +26,7 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4755,4755,17878,5959.3,-32.7,-37.1,-6.6,-20,8795.3,6075.6,5917.4,5529.1,6929.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Property,2229,2108,2364,3102,3102,6701,2233.7,6.1,39.2,31.2,39,2591.9,2451.2,2748.8,3607,2597.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Violent,985,1041,975,911,911,3001,1000.3,-1,-7.5,-6.6,-9,1145.3,1210.5,1133.7,1059.3,1163.1
-22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5181,5181,16876,5625.3,-18.3,-20.4,-2.6,-8,8454.5,6553.2,6909.1,6728.6,7305.6
+22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5183,5183,16876,5625.3,-18.3,-20.4,-2.6,-8,8454.5,6553.2,6909.1,6731.2,7305.6
 22,77000,Strawberry Mansion and Stanton,Property,3159,2869,3460,4500,4500,9488,3162.7,9.5,42.5,30.1,42,4102.6,3726,4493.5,5844.2,4107.4
 22,77000,Strawberry Mansion and Stanton,Violent,1292,1316,1353,1381,1381,3961,1320.3,4.7,6.9,2.1,5,1677.9,1709.1,1757.1,1793.5,1714.7
 24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4540,4540,21170,7056.7,-52.8,-55.5,-5.9,-36,15243.3,9155.2,7198.5,6776.1,10532.4
@@ -47,7 +47,7 @@ district,population,placename,type,total19,total20,total21,total22,last12mos,tot
 05,43000,"Andorra, Roxborough and Manayunk",Other,1238,921,920,1015,1015,3079,1026.3,-25.7,-18,10.3,-1,2879.1,2141.9,2139.5,2360.5,2386.7
 05,43000,"Andorra, Roxborough and Manayunk",Property,912,789,1093,1381,1381,2794,931.3,19.8,51.4,26.3,48,2120.9,1834.9,2541.9,3211.6,2165.8
 05,43000,"Andorra, Roxborough and Manayunk",Violent,113,103,94,140,140,310,103.3,-16.8,23.9,48.9,36,262.8,239.5,218.6,325.6,240.2
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2819,2819,8878,2959.3,-45.7,-32.2,24.9,-5,9039.1,5354.3,4906.5,6128.3,6433.3
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2820,2820,8878,2959.3,-45.7,-32.2,24.9,-5,9039.1,5354.3,4906.5,6130.4,6433.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Property,3771,3006,3317,4275,4275,10094,3364.7,-12,13.4,28.9,27,8197.8,6534.8,7210.9,9293.5,7314.6
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Violent,580,465,570,645,645,1615,538.3,-1.7,11.2,13.2,20,1260.9,1010.9,1239.1,1402.2,1170.2
 07,95000,Somerton and Bustleton,Other,1468,1260,1383,1367,1367,4111,1370.3,-5.8,-6.9,-1.2,-0,1545.3,1326.3,1455.8,1438.9,1442.4

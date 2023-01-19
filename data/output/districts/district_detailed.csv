@@ -280,8 +280,8 @@ district,population,placename,category,description,total19,total20,total21,total
 22,77000,Strawberry Mansion and Stanton,Other,Other Sex Offenses (Not Commercialized),54,48,75,66,66,177,59,38.9,22.2,-12,12,70.1,62.3,97.4,85.7,76.6
 22,77000,Strawberry Mansion and Stanton,Other,Prostitution and Commercialized Vice,3,1,1,1,1,5,1.7,-66.7,-66.7,0,-41,3.9,1.3,1.3,1.3,2.2
 22,77000,Strawberry Mansion and Stanton,Other,Public Drunkenness,23,1,0,4,4,24,8,-100,-82.6,NA,-50,29.9,1.3,0,5.2,10.4
-22,77000,Strawberry Mansion and Stanton,Other,Receiving Stolen Property,0,1,21,53,53,22,7.3,NA,NA,152.4,626,0,1.3,27.3,68.8,9.5
-22,77000,Strawberry Mansion and Stanton,Other,Vandalism/Criminal Mischief,1275,1184,1258,1320,1320,3717,1239,-1.3,3.5,4.9,7,1655.8,1537.7,1633.8,1714.3,1609.1
+22,77000,Strawberry Mansion and Stanton,Other,Receiving Stolen Property,0,1,21,54,54,22,7.3,NA,NA,157.1,640,0,1.3,27.3,70.1,9.5
+22,77000,Strawberry Mansion and Stanton,Other,Vandalism/Criminal Mischief,1275,1184,1258,1321,1321,3717,1239,-1.3,3.6,5,7,1655.8,1537.7,1633.8,1715.6,1609.1
 22,77000,Strawberry Mansion and Stanton,Other,Weapon Violations,196,294,287,271,271,777,259,46.4,38.3,-5.6,5,254.5,381.8,372.7,351.9,336.4
 22,77000,Strawberry Mansion and Stanton,Robbery,Robbery Firearm,208,147,193,273,273,548,182.7,-7.2,31.2,41.5,49,270.1,190.9,250.6,354.5,237.3
 22,77000,Strawberry Mansion and Stanton,Robbery,Robbery No Firearm,254,220,177,217,217,651,217,-30.3,-14.6,22.6,0,329.9,285.7,229.9,281.8,281.8
@@ -479,7 +479,7 @@ district,population,placename,category,description,total19,total20,total21,total
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Other Sex Offenses (Not Commercialized),51,27,41,41,41,119,39.7,-19.6,-19.6,0,3,110.9,58.7,89.1,89.1,86.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Prostitution and Commercialized Vice,14,3,0,2,2,17,5.7,-100,-85.7,NA,-65,30.4,6.5,0,4.3,12.4
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Public Drunkenness,2,0,1,4,4,3,1,-50,100,300,300,4.3,0,2.2,8.7,2.2
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Receiving Stolen Property,0,0,20,34,34,20,6.7,NA,NA,70,407,0,0,43.5,73.9,14.6
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Receiving Stolen Property,0,0,20,35,35,20,6.7,NA,NA,75,422,0,0,43.5,76.1,14.6
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Vandalism/Criminal Mischief,564,523,478,591,591,1565,521.7,-15.2,4.8,23.6,13,1226.1,1137,1039.1,1284.8,1134.1
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Weapon Violations,43,55,44,58,58,142,47.3,2.3,34.9,31.8,23,93.5,119.6,95.7,126.1,102.8
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,Robbery Firearm,47,32,66,78,78,145,48.3,40.4,66,18.2,61,102.2,69.6,143.5,169.6,105
