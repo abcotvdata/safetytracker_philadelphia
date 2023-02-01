@@ -298,9 +298,9 @@ district_category$rate_last12 <- round(district_category$last12mos/district_cate
 district_category$rate_prior3years <- round(district_category$avg_prior3years/district_category$population*100000,1)
 # for map/table making purposes, changing Inf and NaN in calc fields to NA
 district_category <- district_category %>%
-  mutate(across(where(is.numeric), ~na_if(., Inf)))
+  mutate_if(is.numeric, ~ifelse(. == Inf, NA, .))
 district_category <- district_category %>%
-  mutate(across(where(is.numeric), ~na_if(., "NaN")))
+  mutate_if(is.numeric, ~ifelse(. == "NaN", NA, .))
 
 # Calculate total of each type of crime BY POLICE BEAT
 district_type <- philly_crime %>%
