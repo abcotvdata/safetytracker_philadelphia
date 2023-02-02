@@ -91,9 +91,9 @@ citywide_detailed$rate_last12 <- round(citywide_detailed$last12mos/philly_popula
 citywide_detailed$rate_prior3years <- round(citywide_detailed$avg_prior3years/philly_population*100000,1)
 # for map/table making purposes, changing Inf and NaN in calc fields to NA
 citywide_detailed <- citywide_detailed %>%
-  mutate(across(where(is.numeric), ~na_if(., Inf)))
+  mutate_if(is.numeric, ~ifelse(. == Inf, NA, .))
 citywide_detailed <- citywide_detailed %>%
-  mutate(across(where(is.numeric), ~na_if(., "NaN")))
+  mutate_if(is.numeric, ~ifelse(. == "NaN", NA, .))
 
 # Calculate of each detailed offense type CITYWIDE
 citywide_detailed_monthly <- philly_crime %>%
@@ -254,9 +254,9 @@ district_detailed$rate_last12 <- round(district_detailed$last12mos/district_deta
 district_detailed$rate_prior3years <- round(district_detailed$avg_prior3years/district_detailed$population*100000,1)
 # for map/table making purposes, changing Inf and NaN in calc fields to NA
 district_detailed <- district_detailed %>%
-  mutate(across(where(is.numeric), ~na_if(., Inf)))
+  mutate_if(is.numeric, ~ifelse(. == Inf, NA, .))
 district_detailed <- district_detailed %>%
-  mutate(across(where(is.numeric), ~na_if(., "NaN")))
+  mutate_if(is.numeric, ~ifelse(. == "NaN", NA, .))
 
 # Calculate total of each category of offense BY POLICE BEAT
 district_category <- philly_crime %>%
@@ -342,9 +342,9 @@ district_type$rate_last12 <- round(district_type$last12mos/district_type$populat
 district_type$rate_prior3years <- round(district_type$avg_prior3years/district_type$population*100000,1)
 # for map/table making purposes, changing Inf and NaN in calc fields to NA
 district_type <- district_type %>%
-  mutate(across(where(is.numeric), ~na_if(., Inf)))
+  mutate_if(is.numeric, ~ifelse(. == Inf, NA, .))
 district_type <- district_type %>%
-  mutate(across(where(is.numeric), ~na_if(., "NaN")))
+  mutate_if(is.numeric, ~ifelse(. == "NaN", NA, .))
 
 # output various csvs for basic tables to be made with crime totals
 # we are dropping geometry for beats here because this is just for tables
