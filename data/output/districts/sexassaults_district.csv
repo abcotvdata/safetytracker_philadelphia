@@ -1,18 +1,18 @@
 district,population,placename,category,total19,total20,total21,total22,2023,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,18,5,22,94,31.3,-35.7,-47.6,-18.5,-30,102.4,61,65.9,53.7,76.3
+16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,18,5,21,94,31.3,-35.7,-50,-22.2,-33,102.4,61,65.9,51.2,76.3
 17,50000,South Philadelphia and Grays Ferry,Sexual Assault,20,10,19,15,2,17,49,16.3,-5,-15,-10.5,4,40,20,38,34,32.6
 18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,32,3,33,137,45.7,0,-28.3,-28.3,-28,57.5,56.2,57.5,41.2,57.1
-35,100000,Olney and Logan,Sexual Assault,75,63,49,44,7,43,187,62.3,-34.7,-42.7,-12.2,-31,75,63,49,43,62.3
+35,100000,Olney and Logan,Sexual Assault,75,63,49,44,7,42,187,62.3,-34.7,-44,-14.3,-33,75,63,49,42,62.3
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,40,2,35,163,54.3,-7.9,-44.4,-39.7,-36,103.3,68.9,95.1,57.4,89
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,8,2,9,31,10.3,-77.8,-50,125,-13,48.6,24.3,10.8,24.3,27.8
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,38,4,39,141,47,-45.6,-31.6,25.8,-17,49.6,46.1,27,33.9,40.9
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,27,2,27,80,26.7,6.7,-10,-15.6,1,32.3,19.4,34.4,29,28.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,4,33,161,53.7,-38,-53.5,-25,-39,82.6,53.5,51.2,38.4,62.4
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,65,3,64,233,77.7,-8.2,-24.7,-17.9,-18,110.4,90.9,101.3,83.1,100.9
-24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,5,44,168,56,-44.3,-37.1,12.8,-21,104.5,88.1,58.2,65.7,83.6
+24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,5,43,168,56,-44.3,-38.6,10.3,-23,104.5,88.1,58.2,64.2,83.6
 25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,46,8,50,222,74,8.8,-26.5,-32.4,-32,100,117.6,108.8,73.5,108.8
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Sexual Assault,41,26,24,22,4,25,91,30.3,-41.5,-39,4.2,-17,71.9,45.6,42.1,43.9,53.2
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,92,90,53,42,4,44,235,78.3,-42.4,-52.2,-17,-44,66.2,64.7,38.1,31.7,56.3
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,92,90,53,42,4,43,235,78.3,-42.4,-53.3,-18.9,-45,66.2,64.7,38.1,30.9,56.3
 77,0,Philadelphia airport,Sexual Assault,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Sexual Assault,10,10,10,13,1,14,30,10,0,40,40,40,23.3,23.3,23.3,32.6,23.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,31,21,27,19,5,23,79,26.3,-12.9,-25.8,-14.8,-13,67.4,45.7,58.7,50,57.2
