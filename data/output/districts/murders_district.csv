@@ -7,8 +7,8 @@ district,population,placename,category,total19,total20,total21,total22,2023,last
 01,37000,Girard Estates and Navy Yard,Murder,9,5,8,13,1,12,22,7.3,-11.1,33.3,50,64,24.3,13.5,21.6,32.4,19.7
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,3,20,32,10.7,71.4,185.7,66.7,87,6.1,11.3,10.4,17.4,9.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,15,0,14,23,7.7,250,250,0,82,4.3,5.4,15.1,15.1,8.3
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,2,29,95,31.7,34.6,11.5,-17.1,-9,30.2,39.5,40.7,33.7,36.9
-22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,10,59,160,53.3,115.2,78.8,-16.9,11,42.9,72.7,92.2,76.6,69.2
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,2,28,95,31.7,34.6,7.7,-20,-12,30.2,39.5,40.7,32.6,36.9
+22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,11,58,160,53.3,115.2,75.8,-18.3,9,42.9,72.7,92.2,75.3,69.2
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,4,52,163,54.3,181.5,92.6,-31.6,-4,40.3,89.6,113.4,77.6,81
 25,68000,Kensington and Harrowgate,Murder,41,42,52,54,8,54,135,45,26.8,31.7,3.8,20,60.3,61.8,76.5,79.4,66.2
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,1,12,35,11.7,10,20,9.1,3,17.5,24.6,19.3,21.1,20.5
@@ -17,7 +17,7 @@ district,population,placename,category,total19,total20,total21,total22,2023,last
 05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,4,4,1.3,100,300,100,208,2.3,2.3,4.7,9.3,3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,1,4,13,4.3,16.7,-33.3,-42.9,-7,13,0,15.2,8.7,9.3
 07,95000,Somerton and Bustleton,Murder,5,3,4,1,0,1,12,4,-20,-80,-75,-75,5.3,3.2,4.2,1.1,4.2
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,0,3,16,5.3,400,50,-70,-43,2.1,4.1,10.3,3.1,5.5
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,1,4,16,5.3,400,100,-60,-25,2.1,4.1,10.3,4.1,5.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,7,13,4.3,100,133.3,16.7,63,4.5,6.1,9.1,10.6,6.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,4,35,105,35,13.8,20.7,6.1,0,40.3,59.7,45.8,48.6,48.6
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,1,33,83,27.7,-15.4,26.9,50,19,23.2,31.2,19.6,29.5,24.7
