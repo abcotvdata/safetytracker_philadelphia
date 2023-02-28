@@ -1,23 +1,23 @@
 district,population,placename,category,total19,total20,total21,total22,2023,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-16,41000,"Powelton, Mantua and Parkside",Motor Vehicle Theft,61,88,293,332,58,327,442,147.3,380.3,436.1,11.6,122,148.8,214.6,714.6,797.6,359.3
-17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,204,66,246,284,94.7,263.3,402,38.2,160,98,114,356,492,189.4
-18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,584,108,607,585,195,487.9,819.7,56.4,211,82.5,163.8,485,758.8,243.8
-35,100000,Olney and Logan,Motor Vehicle Theft,115,143,477,951,321,1151,735,245,314.8,900.9,141.3,370,115,143,477,1151,245
-39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,627,186,720,695,231.7,361.2,599,51.6,211,168.9,191.8,778.7,1180.3,379.8
-01,37000,Girard Estates and Navy Yard,Motor Vehicle Theft,34,27,109,198,62,235,170,56.7,220.6,591.2,115.6,314,91.9,73,294.6,635.1,153.2
-02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,862,266,1018,621,207,359.6,983,135.6,392,81.7,82.6,375.7,885.2,180
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,427,94,452,431,143.7,316.2,564.7,59.7,215,73.1,86,304.3,486,154.5
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,161,764,687,229,257.5,536.7,78.1,234,139.5,160.5,498.8,888.4,266.3
-22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,1002,279,1136,903,301,465.7,951.9,85.9,277,140.3,239,793.5,1475.3,390.9
-24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,688,141,736,865,288.3,365,513.3,31.9,155,179.1,279.1,832.8,1098.5,430.3
-25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,682,152,725,880,293.3,314.6,457.7,34.5,147,191.2,310.3,792.6,1066.2,431.3
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,105,164,424,719,262,889,693,231,303.8,746.7,109.7,285,184.2,287.7,743.9,1559.6,405.3
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1258,305,1371,1216,405.3,432.9,839,76.2,238,105,210.1,559.7,986.3,291.6
-77,0,Philadelphia airport,Motor Vehicle Theft,2,14,13,43,15,45,29,9.7,550,2150,246.2,364,NA,NA,NA,NA,NA
-05,43000,"Andorra, Roxborough and Manayunk",Motor Vehicle Theft,21,30,92,186,44,203,143,47.7,338.1,866.7,120.7,326,48.8,69.8,214,472.1,110.9
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Motor Vehicle Theft,45,61,228,281,69,315,334,111.3,406.7,600,38.2,183,97.8,132.6,495.7,684.8,242
-07,95000,Somerton and Bustleton,Motor Vehicle Theft,22,43,107,207,97,284,172,57.3,386.4,1190.9,165.4,396,23.2,45.3,112.6,298.9,60.3
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Motor Vehicle Theft,65,59,192,360,147,469,316,105.3,195.4,621.5,144.3,345,67,60.8,197.9,483.5,108.6
-09,66000,"Center City West, Logan Circle and North Philadelphia",Motor Vehicle Theft,35,36,202,276,113,351,273,91,477.1,902.9,73.8,286,53,54.5,306.1,531.8,137.9
-12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,154,885,1051,350.3,268.2,411.6,38.9,153,240.3,334.7,884.7,1229.2,486.5
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,695,251,864,590,196.7,193.9,657.9,157.9,339,101.8,125.9,299.1,771.4,175.6
+16,41000,"Powelton, Mantua and Parkside",Motor Vehicle Theft,61,88,293,332,59,326,442,147.3,380.3,434.4,11.3,121,148.8,214.6,714.6,795.1,359.3
+17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,204,69,248,284,94.7,263.3,406.1,39.3,162,98,114,356,496,189.4
+18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,584,110,605,585,195,487.9,816.7,55.9,210,82.5,163.8,485,756.2,243.8
+35,100000,Olney and Logan,Motor Vehicle Theft,115,143,477,951,328,1156,735,245,314.8,905.2,142.3,372,115,143,477,1156,245
+39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,627,195,728,695,231.7,361.2,606.8,53.3,214,168.9,191.8,778.7,1193.4,379.8
+01,37000,Girard Estates and Navy Yard,Motor Vehicle Theft,34,27,109,198,63,236,170,56.7,220.6,594.1,116.5,316,91.9,73,294.6,637.8,153.2
+02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,862,275,1022,621,207,359.6,987.2,136.6,394,81.7,82.6,375.7,888.7,180
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,427,97,452,431,143.7,316.2,564.7,59.7,215,73.1,86,304.3,486,154.5
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,169,767,687,229,257.5,539.2,78.8,235,139.5,160.5,498.8,891.9,266.3
+22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,1002,287,1143,903,301,465.7,958.3,87.1,280,140.3,239,793.5,1484.4,390.9
+24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,688,143,734,865,288.3,365,511.7,31.5,155,179.1,279.1,832.8,1095.5,430.3
+25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,682,158,728,880,293.3,314.6,460,35.1,148,191.2,310.3,792.6,1070.6,431.3
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,105,164,424,719,272,895,693,231,303.8,752.4,111.1,287,184.2,287.7,743.9,1570.2,405.3
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1258,322,1383,1216,405.3,432.9,847.3,77.8,241,105,210.1,559.7,995,291.6
+77,0,Philadelphia airport,Motor Vehicle Theft,2,14,13,43,19,49,29,9.7,550,2350,276.9,405,NA,NA,NA,NA,NA
+05,43000,"Andorra, Roxborough and Manayunk",Motor Vehicle Theft,21,30,92,186,45,202,143,47.7,338.1,861.9,119.6,323,48.8,69.8,214,469.8,110.9
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Motor Vehicle Theft,45,61,228,281,74,320,334,111.3,406.7,611.1,40.4,188,97.8,132.6,495.7,695.7,242
+07,95000,Somerton and Bustleton,Motor Vehicle Theft,22,43,107,207,99,286,172,57.3,386.4,1200,167.3,399,23.2,45.3,112.6,301.1,60.3
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Motor Vehicle Theft,65,59,192,360,147,467,316,105.3,195.4,618.5,143.2,343,67,60.8,197.9,481.4,108.6
+09,66000,"Center City West, Logan Circle and North Philadelphia",Motor Vehicle Theft,35,36,202,276,115,353,273,91,477.1,908.6,74.8,288,53,54.5,306.1,534.8,137.9
+12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,156,881,1051,350.3,268.2,409.2,38.3,151,240.3,334.7,884.7,1223.6,486.5
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,695,257,869,590,196.7,193.9,662.3,159.4,342,101.8,125.9,299.1,775.9,175.6
