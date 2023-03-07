@@ -7,7 +7,7 @@ district,population,placename,category,total19,total20,total21,total22,2023,last
 01,37000,Girard Estates and Navy Yard,Murder,9,5,8,13,1,12,22,7.3,-11.1,33.3,50,64,24.3,13.5,21.6,32.4,19.7
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,4,21,32,10.7,71.4,200,75,96,6.1,11.3,10.4,18.3,9.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,15,0,14,23,7.7,250,250,0,82,4.3,5.4,15.1,15.1,8.3
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,2,27,95,31.7,34.6,3.8,-22.9,-15,30.2,39.5,40.7,31.4,36.9
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,2,25,95,31.7,34.6,-3.8,-28.6,-21,30.2,39.5,40.7,29.1,36.9
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,11,54,160,53.3,115.2,63.6,-23.9,1,42.9,72.7,92.2,70.1,69.2
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,4,52,163,54.3,181.5,92.6,-31.6,-4,40.3,89.6,113.4,77.6,81
 25,68000,Kensington and Harrowgate,Murder,41,42,52,54,8,53,135,45,26.8,29.3,1.9,18,60.3,61.8,76.5,77.9,66.2
@@ -20,4 +20,4 @@ district,population,placename,category,total19,total20,total21,total22,2023,last
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,1,4,16,5.3,400,100,-60,-25,2.1,4.1,10.3,4.1,5.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,7,13,4.3,100,133.3,16.7,63,4.5,6.1,9.1,10.6,6.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,4,35,105,35,13.8,20.7,6.1,0,40.3,59.7,45.8,48.6,48.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,1,31,83,27.7,-15.4,19.2,40.9,12,23.2,31.2,19.6,27.7,24.7
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,1,28,83,27.7,-15.4,7.7,27.3,1,23.2,31.2,19.6,25,24.7
