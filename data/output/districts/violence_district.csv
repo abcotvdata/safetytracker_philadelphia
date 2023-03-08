@@ -1,23 +1,23 @@
 district,population,placename,type,total19,total20,total21,total22,2023,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Violent,528,537,588,518,94,521,1653,551,11.4,-1.3,-11.4,-5,1287.8,1309.8,1434.1,1270.7,1343.9
-17,50000,South Philadelphia and Grays Ferry,Violent,334,308,253,298,42,272,895,298.3,-24.3,-18.6,7.5,-9,668,616,506,544,596.6
-18,80000,University City and Cobbs Creek,Violent,806,879,764,753,112,751,2449,816.3,-5.2,-6.8,-1.7,-8,1007.5,1098.8,955,938.8,1020.4
-35,100000,Olney and Logan,Violent,1170,1121,1131,1078,222,1100,3422,1140.7,-3.3,-6,-2.7,-4,1170,1121,1131,1100,1140.7
-39,61000,"East Falls, Tioga and Nicetown",Violent,1051,972,1013,1004,184,1015,3036,1012,-3.6,-3.4,0.2,0,1723,1593.4,1660.7,1663.9,1659
-01,37000,Girard Estates and Navy Yard,Violent,243,240,229,307,39,283,712,237.3,-5.8,16.5,23.6,19,656.8,648.6,618.9,764.9,641.4
-02,115000,Oxford Circle and Lawncrest,Violent,599,646,701,775,125,755,1946,648.7,17,26,7.7,16,520.9,561.7,609.6,656.5,564.1
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Violent,554,418,479,524,81,536,1451,483.7,-13.5,-3.2,11.9,11,595.7,449.5,515.1,576.3,520.1
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Violent,985,1041,975,912,172,926,3001,1000.3,-1,-6,-5,-7,1145.3,1210.5,1133.7,1076.7,1163.1
-22,77000,Strawberry Mansion and Stanton,Violent,1292,1316,1353,1385,207,1378,3961,1320.3,4.7,6.7,1.8,4,1677.9,1709.1,1757.1,1789.6,1714.7
-24,67000,Richmond and Port Richmond,Violent,1226,1423,1291,1342,195,1328,3940,1313.3,5.3,8.3,2.9,1,1829.9,2123.9,1926.9,1982.1,1960.1
-25,68000,Kensington and Harrowgate,Violent,1405,1447,1415,1444,249,1491,4267,1422.3,0.7,6.1,5.4,5,2066.2,2127.9,2080.9,2192.6,2091.6
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Violent,566,524,602,666,125,660,1692,564,6.4,16.6,9.6,17,993,919.3,1056.1,1157.9,989.5
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Violent,1283,1169,1125,1223,204,1245,3577,1192.3,-12.3,-3,10.7,4,923,841,809.4,895.7,857.8
+17,50000,South Philadelphia and Grays Ferry,Violent,334,308,253,298,43,272,895,298.3,-24.3,-18.6,7.5,-9,668,616,506,544,596.6
+18,80000,University City and Cobbs Creek,Violent,806,879,764,753,116,752,2449,816.3,-5.2,-6.7,-1.6,-8,1007.5,1098.8,955,940,1020.4
+35,100000,Olney and Logan,Violent,1170,1121,1131,1078,225,1097,3422,1140.7,-3.3,-6.2,-3,-4,1170,1121,1131,1097,1140.7
+39,61000,"East Falls, Tioga and Nicetown",Violent,1051,972,1013,1004,186,1016,3036,1012,-3.6,-3.3,0.3,0,1723,1593.4,1660.7,1665.6,1659
+01,37000,Girard Estates and Navy Yard,Violent,243,240,229,307,39,279,712,237.3,-5.8,14.8,21.8,18,656.8,648.6,618.9,754.1,641.4
+02,115000,Oxford Circle and Lawncrest,Violent,599,646,701,775,125,753,1946,648.7,17,25.7,7.4,16,520.9,561.7,609.6,654.8,564.1
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Violent,554,418,479,524,81,532,1451,483.7,-13.5,-4,11.1,10,595.7,449.5,515.1,572,520.1
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Violent,985,1041,975,912,178,928,3001,1000.3,-1,-5.8,-4.8,-7,1145.3,1210.5,1133.7,1079.1,1163.1
+22,77000,Strawberry Mansion and Stanton,Violent,1292,1316,1353,1385,212,1381,3961,1320.3,4.7,6.9,2.1,5,1677.9,1709.1,1757.1,1793.5,1714.7
+24,67000,Richmond and Port Richmond,Violent,1226,1423,1291,1342,199,1331,3940,1313.3,5.3,8.6,3.1,1,1829.9,2123.9,1926.9,1986.6,1960.1
+25,68000,Kensington and Harrowgate,Violent,1405,1447,1415,1444,253,1491,4267,1422.3,0.7,6.1,5.4,5,2066.2,2127.9,2080.9,2192.6,2091.6
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Violent,566,524,602,666,128,661,1692,564,6.4,16.8,9.8,17,993,919.3,1056.1,1159.6,989.5
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Violent,1283,1169,1125,1223,207,1245,3577,1192.3,-12.3,-3,10.7,4,923,841,809.4,895.7,857.8
 77,0,Philadelphia airport,Violent,9,10,6,8,0,7,25,8.3,-33.3,-22.2,16.7,-16,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Violent,113,103,94,140,15,140,310,103.3,-16.8,23.9,48.9,36,262.8,239.5,218.6,325.6,240.2
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Violent,580,465,570,647,112,666,1615,538.3,-1.7,14.8,16.8,24,1260.9,1010.9,1239.1,1447.8,1170.2
-07,95000,Somerton and Bustleton,Violent,148,130,164,155,40,163,442,147.3,10.8,10.1,-0.6,11,155.8,136.8,172.6,171.6,155.1
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Violent,295,313,353,388,63,397,961,320.3,19.7,34.6,12.5,24,304.1,322.7,363.9,409.3,330.2
-09,66000,"Center City West, Logan Circle and North Philadelphia",Violent,495,394,430,471,64,474,1319,439.7,-13.1,-4.2,10.2,8,750,597,651.5,718.2,666.2
-12,72000,"Kingsessing, Eastwick and Elmwood",Violent,892,1104,888,862,157,878,2884,961.3,-0.4,-1.6,-1.1,-9,1238.9,1533.3,1233.3,1219.4,1335.1
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Violent,715,800,695,765,140,756,2210,736.7,-2.8,5.7,8.8,3,638.4,714.3,620.5,675,657.8
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Violent,580,465,570,647,113,665,1615,538.3,-1.7,14.7,16.7,24,1260.9,1010.9,1239.1,1445.7,1170.2
+07,95000,Somerton and Bustleton,Violent,148,130,164,155,41,164,442,147.3,10.8,10.8,0,11,155.8,136.8,172.6,172.6,155.1
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Violent,295,313,353,388,65,398,961,320.3,19.7,34.9,12.7,24,304.1,322.7,363.9,410.3,330.2
+09,66000,"Center City West, Logan Circle and North Philadelphia",Violent,495,394,430,471,66,476,1319,439.7,-13.1,-3.8,10.7,8,750,597,651.5,721.2,666.2
+12,72000,"Kingsessing, Eastwick and Elmwood",Violent,892,1104,888,862,158,877,2884,961.3,-0.4,-1.7,-1.2,-9,1238.9,1533.3,1233.3,1218.1,1335.1
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Violent,715,800,695,765,145,757,2210,736.7,-2.8,5.9,8.9,3,638.4,714.3,620.5,675.9,657.8
