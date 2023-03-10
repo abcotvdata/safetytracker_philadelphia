@@ -1,177 +1,177 @@
 district,population,placename,category,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-16,41000,"Powelton, Mantua and Parkside",Aggravated Assault,302,345,358,324,49,326,1027,342.3,7.3,7.9,0.6,-5,736.6,841.5,873.2,790.2,795.1,834.9
-16,41000,"Powelton, Mantua and Parkside",Burglary,204,192,155,189,34,179,536,178.7,-7.4,-12.3,-5.3,0,497.6,468.3,378,461,436.6,435.9
-16,41000,"Powelton, Mantua and Parkside",Motor Vehicle Theft,61,88,293,332,69,329,713,237.7,444.3,439.3,-0.9,38,148.8,214.6,714.6,809.8,802.4,579.8
+16,41000,"Powelton, Mantua and Parkside",Aggravated Assault,302,345,358,324,50,325,1027,342.3,7.3,7.6,0.3,-5,736.6,841.5,873.2,790.2,792.7,834.9
+16,41000,"Powelton, Mantua and Parkside",Burglary,204,192,155,189,34,178,536,178.7,-7.4,-12.7,-5.8,-0,497.6,468.3,378,461,434.1,435.9
+16,41000,"Powelton, Mantua and Parkside",Motor Vehicle Theft,61,88,293,332,70,330,713,237.7,444.3,441,-0.6,39,148.8,214.6,714.6,809.8,804.9,579.8
 16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,2,18,74,24.7,26.7,20,-5.3,-27,36.6,63.4,70.7,46.3,43.9,60.2
-16,41000,"Powelton, Mantua and Parkside",Other,4952,3374,2683,2803,485,2870,8860,2953.3,-43.4,-42,2.4,-3,12078,8229.3,6543.9,6836.6,7000,7203.2
-16,41000,"Powelton, Mantua and Parkside",Robbery,169,141,174,157,35,154,472,157.3,-7.1,-8.9,-1.9,-2,412.2,343.9,424.4,382.9,375.6,383.7
-16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,18,8,23,70,23.3,-57.1,-45.2,27.8,-1,102.4,61,65.9,43.9,56.1,56.8
-16,41000,"Powelton, Mantua and Parkside",Theft,1039,927,1029,1371,220,1396,3327,1109,32,34.4,1.8,26,2534.1,2261,2509.8,3343.9,3404.9,2704.9
-17,50000,South Philadelphia and Grays Ferry,Aggravated Assault,188,179,153,164,24,150,496,165.3,-12.8,-20.2,-8.5,-9,376,358,306,328,300,330.6
-17,50000,South Philadelphia and Grays Ferry,Burglary,254,173,160,141,35,161,474,158,-44.5,-36.6,14.2,2,508,346,320,282,322,316
-17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,204,93,265,439,146.3,316.3,440.8,29.9,81,98,114,356,408,530,292.6
+16,41000,"Powelton, Mantua and Parkside",Other,4952,3374,2683,2803,512,2888,8860,2953.3,-43.4,-41.7,3,-2,12078,8229.3,6543.9,6836.6,7043.9,7203.2
+16,41000,"Powelton, Mantua and Parkside",Robbery,169,141,174,157,37,156,472,157.3,-7.1,-7.7,-0.6,-1,412.2,343.9,424.4,382.9,380.5,383.7
+16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,18,8,22,70,23.3,-57.1,-47.6,22.2,-6,102.4,61,65.9,43.9,53.7,56.8
+16,41000,"Powelton, Mantua and Parkside",Theft,1039,927,1029,1371,226,1390,3327,1109,32,33.8,1.4,25,2534.1,2261,2509.8,3343.9,3390.2,2704.9
+17,50000,South Philadelphia and Grays Ferry,Aggravated Assault,188,179,153,164,25,150,496,165.3,-12.8,-20.2,-8.5,-9,376,358,306,328,300,330.6
+17,50000,South Philadelphia and Grays Ferry,Burglary,254,173,160,141,38,160,474,158,-44.5,-37,13.5,1,508,346,320,282,320,316
+17,50000,South Philadelphia and Grays Ferry,Motor Vehicle Theft,49,57,178,204,95,265,439,146.3,316.3,440.8,29.9,81,98,114,356,408,530,292.6
 17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,7,1,7,34,11.3,40,40,0,-38,10,34,20,14,14,22.6
-17,50000,South Philadelphia and Grays Ferry,Other,2662,1640,1577,1637,262,1633,4854,1618,-38.5,-38.7,-0.2,1,5324,3280,3154,3274,3266,3236
-17,50000,South Philadelphia and Grays Ferry,Robbery,121,102,71,112,16,99,285,95,-7.4,-18.2,-11.6,4,242,204,142,224,198,190
-17,50000,South Philadelphia and Grays Ferry,Sexual Assault,20,10,19,15,2,16,44,14.7,-25,-20,6.7,9,40,20,38,30,32,29.4
-17,50000,South Philadelphia and Grays Ferry,Theft,1356,1310,1134,1470,203,1485,3914,1304.7,8.4,9.5,1,14,2712,2620,2268,2940,2970,2609.4
-18,80000,University City and Cobbs Creek,Aggravated Assault,464,522,443,446,73,458,1411,470.3,-3.9,-1.3,2.7,-3,580,652.5,553.8,557.5,572.5,587.9
-18,80000,University City and Cobbs Creek,Burglary,318,362,289,302,43,296,953,317.7,-5,-6.9,-2,-7,397.5,452.5,361.2,377.5,370,397.1
-18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,584,123,612,1103,367.7,784.8,827.3,4.8,66,82.5,163.8,485,730,765,459.6
+17,50000,South Philadelphia and Grays Ferry,Other,2662,1640,1577,1637,273,1639,4854,1618,-38.5,-38.4,0.1,1,5324,3280,3154,3274,3278,3236
+17,50000,South Philadelphia and Grays Ferry,Robbery,121,102,71,112,17,100,285,95,-7.4,-17.4,-10.7,5,242,204,142,224,200,190
+17,50000,South Philadelphia and Grays Ferry,Sexual Assault,20,10,19,15,3,17,44,14.7,-25,-15,13.3,16,40,20,38,30,34,29.4
+17,50000,South Philadelphia and Grays Ferry,Theft,1356,1310,1134,1470,211,1486,3914,1304.7,8.4,9.6,1.1,14,2712,2620,2268,2940,2972,2609.4
+18,80000,University City and Cobbs Creek,Aggravated Assault,464,522,443,446,76,458,1411,470.3,-3.9,-1.3,2.7,-3,580,652.5,553.8,557.5,572.5,587.9
+18,80000,University City and Cobbs Creek,Burglary,318,362,289,302,46,298,953,317.7,-5,-6.3,-1.3,-6,397.5,452.5,361.2,377.5,372.5,397.1
+18,80000,University City and Cobbs Creek,Motor Vehicle Theft,66,131,388,584,125,612,1103,367.7,784.8,827.3,4.8,66,82.5,163.8,485,730,765,459.6
 18,80000,University City and Cobbs Creek,Murder,19,24,18,24,5,24,66,22,26.3,26.3,0,9,23.8,30,22.5,30,30,27.5
-18,80000,University City and Cobbs Creek,Other,5760,3988,3333,3615,673,3720,10936,3645.3,-37.2,-35.4,2.9,2,7200,4985,4166.2,4518.8,4650,4556.6
-18,80000,University City and Cobbs Creek,Robbery,277,288,257,251,33,236,796,265.3,-9.4,-14.8,-6,-11,346.2,360,321.2,313.8,295,331.6
+18,80000,University City and Cobbs Creek,Other,5760,3988,3333,3615,700,3726,10936,3645.3,-37.2,-35.3,3.1,2,7200,4985,4166.2,4518.8,4657.5,4556.6
+18,80000,University City and Cobbs Creek,Robbery,277,288,257,251,34,235,796,265.3,-9.4,-15.2,-6.4,-11,346.2,360,321.2,313.8,293.8,331.6
 18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,32,5,34,123,41,-30.4,-26.1,6.2,-17,57.5,56.2,57.5,40,42.5,51.3
-18,80000,University City and Cobbs Creek,Theft,2177,1701,1645,2414,353,2412,5760,1920,10.9,10.8,-0.1,26,2721.2,2126.2,2056.2,3017.5,3015,2400
-35,100000,Olney and Logan,Aggravated Assault,634,670,676,646,132,667,1992,664,1.9,5.2,3.3,0,634,670,676,646,667,664
-35,100000,Olney and Logan,Burglary,343,385,286,257,41,252,928,309.3,-25.1,-26.5,-1.9,-19,343,385,286,257,252,309.3
-35,100000,Olney and Logan,Motor Vehicle Theft,115,143,477,951,355,1163,1571,523.7,727,911.3,22.3,122,115,143,477,951,1163,523.7
+18,80000,University City and Cobbs Creek,Theft,2177,1701,1645,2414,362,2412,5760,1920,10.9,10.8,-0.1,26,2721.2,2126.2,2056.2,3017.5,3015,2400
+35,100000,Olney and Logan,Aggravated Assault,634,670,676,646,135,663,1992,664,1.9,4.6,2.6,-0,634,670,676,646,663,664
+35,100000,Olney and Logan,Burglary,343,385,286,257,43,254,928,309.3,-25.1,-25.9,-1.2,-18,343,385,286,257,254,309.3
+35,100000,Olney and Logan,Motor Vehicle Theft,115,143,477,951,360,1165,1571,523.7,727,913,22.5,122,115,143,477,951,1165,523.7
 35,100000,Olney and Logan,Murder,28,30,54,33,5,34,117,39,17.9,21.4,3,-13,28,30,54,33,34,39
-35,100000,Olney and Logan,Other,7315,5755,4770,4425,798,4490,14950,4983.3,-39.5,-38.6,1.5,-10,7315,5755,4770,4425,4490,4983.3
-35,100000,Olney and Logan,Robbery,433,358,352,355,80,354,1065,355,-18,-18.2,-0.3,-0,433,358,352,355,354,355
-35,100000,Olney and Logan,Sexual Assault,75,63,49,44,8,42,156,52,-41.3,-44,-4.5,-19,75,63,49,44,42,52
-35,100000,Olney and Logan,Theft,1878,1646,1600,2406,396,2462,5652,1884,28.1,31.1,2.3,31,1878,1646,1600,2406,2462,1884
-39,61000,"East Falls, Tioga and Nicetown",Aggravated Assault,671,618,640,618,114,630,1876,625.3,-7.9,-6.1,1.9,1,1100,1013.1,1049.2,1013.1,1032.8,1025.1
-39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,325,49,335,1160,386.7,-23.5,-21.2,3.1,-13,696.7,819.7,549.2,532.8,549.2,633.9
-39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,627,214,739,1219,406.3,508.7,617.5,17.9,82,168.9,191.8,778.7,1027.9,1211.5,666.1
+35,100000,Olney and Logan,Other,7315,5755,4770,4425,819,4492,14950,4983.3,-39.5,-38.6,1.5,-10,7315,5755,4770,4425,4492,4983.3
+35,100000,Olney and Logan,Robbery,433,358,352,355,80,353,1065,355,-18,-18.5,-0.6,-1,433,358,352,355,353,355
+35,100000,Olney and Logan,Sexual Assault,75,63,49,44,9,43,156,52,-41.3,-42.7,-2.3,-17,75,63,49,44,43,52
+35,100000,Olney and Logan,Theft,1878,1646,1600,2406,412,2465,5652,1884,28.1,31.3,2.5,31,1878,1646,1600,2406,2465,1884
+39,61000,"East Falls, Tioga and Nicetown",Aggravated Assault,671,618,640,618,117,629,1876,625.3,-7.9,-6.3,1.8,1,1100,1013.1,1049.2,1013.1,1031.1,1025.1
+39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,325,50,334,1160,386.7,-23.5,-21.4,2.8,-14,696.7,819.7,549.2,532.8,547.5,633.9
+39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,627,222,744,1219,406.3,508.7,622.3,18.7,83,168.9,191.8,778.7,1027.9,1219.7,666.1
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,35,6,34,124,41.3,25,21.4,-2.9,-18,45.9,70.5,75.4,57.4,55.7,67.7
-39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4351,787,4470,13168,4389.3,-24.6,-22.5,2.7,2,9454.1,7183.6,7270.5,7132.8,7327.9,7195.6
-39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,311,61,319,849,283,7.6,10.4,2.6,13,473.8,441,441,509.8,523,463.9
-39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,40,5,33,140,46.7,-36.5,-47.6,-17.5,-29,103.3,68.9,95.1,65.6,54.1,76.6
-39,61000,"East Falls, Tioga and Nicetown",Theft,1677,1451,1577,1851,337,1974,4879,1626.3,10.4,17.7,6.6,21,2749.2,2378.7,2585.2,3034.4,3236.1,2666.1
-01,37000,Girard Estates and Navy Yard,Aggravated Assault,118,141,138,140,13,125,419,139.7,18.6,5.9,-10.7,-11,318.9,381.1,373,378.4,337.8,377.6
-01,37000,Girard Estates and Navy Yard,Burglary,77,72,136,157,12,130,365,121.7,103.9,68.8,-17.2,7,208.1,194.6,367.6,424.3,351.4,328.9
-01,37000,Girard Estates and Navy Yard,Motor Vehicle Theft,34,27,109,198,65,232,334,111.3,482.4,582.4,17.2,108,91.9,73,294.6,535.1,627,300.8
+39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4351,823,4484,13168,4389.3,-24.6,-22.2,3.1,2,9454.1,7183.6,7270.5,7132.8,7350.8,7195.6
+39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,311,62,319,849,283,7.6,10.4,2.6,13,473.8,441,441,509.8,523,463.9
+39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,40,5,32,140,46.7,-36.5,-49.2,-20,-31,103.3,68.9,95.1,65.6,52.5,76.6
+39,61000,"East Falls, Tioga and Nicetown",Theft,1677,1451,1577,1851,348,1977,4879,1626.3,10.4,17.9,6.8,22,2749.2,2378.7,2585.2,3034.4,3241,2666.1
+01,37000,Girard Estates and Navy Yard,Aggravated Assault,118,141,138,140,15,125,419,139.7,18.6,5.9,-10.7,-11,318.9,381.1,373,378.4,337.8,377.6
+01,37000,Girard Estates and Navy Yard,Burglary,77,72,136,157,12,128,365,121.7,103.9,66.2,-18.5,5,208.1,194.6,367.6,424.3,345.9,328.9
+01,37000,Girard Estates and Navy Yard,Motor Vehicle Theft,34,27,109,198,66,232,334,111.3,482.4,582.4,17.2,108,91.9,73,294.6,535.1,627,300.8
 01,37000,Girard Estates and Navy Yard,Murder,9,5,8,13,1,12,26,8.7,44.4,33.3,-7.7,38,24.3,13.5,21.6,35.1,32.4,23.5
-01,37000,Girard Estates and Navy Yard,Other,1479,1029,1193,1271,237,1296,3493,1164.3,-14.1,-12.4,2,11,3997.3,2781.1,3224.3,3435.1,3502.7,3146.8
+01,37000,Girard Estates and Navy Yard,Other,1479,1029,1193,1271,242,1292,3493,1164.3,-14.1,-12.6,1.7,11,3997.3,2781.1,3224.3,3435.1,3491.9,3146.8
 01,37000,Girard Estates and Navy Yard,Robbery,98,85,79,146,23,133,310,103.3,49,35.7,-8.9,29,264.9,229.7,213.5,394.6,359.5,279.2
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,8,2,9,21,7,-55.6,-50,12.5,29,48.6,24.3,10.8,21.6,24.3,18.9
-01,37000,Girard Estates and Navy Yard,Theft,733,648,735,1316,260,1385,2699,899.7,79.5,88.9,5.2,54,1981.1,1751.4,1986.5,3556.8,3743.2,2431.6
-02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,313,54,305,1006,335.3,7.2,4.5,-2.6,-9,253.9,306.1,296.5,272.2,265.2,291.6
-02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,219,39,205,763,254.3,0,-6.4,-6.4,-19,190.4,273,200,190.4,178.3,221.1
-02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,862,294,1028,1389,463,817,993.6,19.3,122,81.7,82.6,375.7,749.6,893.9,402.6
-02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,4,21,48,16,228.6,200,-8.7,31,6.1,11.3,10.4,20,18.3,13.9
-02,115000,Oxford Circle and Lawncrest,Other,3589,3118,3278,3367,615,3380,9763,3254.3,-6.2,-5.8,0.4,4,3120.9,2711.3,2850.4,2927.8,2939.1,2829.8
-02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,401,62,388,946,315.3,65,59.7,-3.2,23,211.3,198.3,275.7,348.7,337.4,274.2
-02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,38,5,39,122,40.7,-33.3,-31.6,2.6,-4,49.6,46.1,27,33,33.9,35.4
-02,115000,Oxford Circle and Lawncrest,Theft,2128,1817,2104,2909,457,2962,6830,2276.7,36.7,39.2,1.8,30,1850.4,1580,1829.6,2529.6,2575.7,1979.7
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,249,40,262,711,237,-4.2,0.8,5.2,11,279.6,241.9,254.8,267.7,281.7,254.8
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,257,37,229,711,237,-16,-25.2,-10.9,-3,329,259.1,229,276.3,246.2,254.8
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,427,101,448,790,263.3,527.9,558.8,4.9,70,73.1,86,304.3,459.1,481.7,283.1
+01,37000,Girard Estates and Navy Yard,Theft,733,648,735,1316,265,1383,2699,899.7,79.5,88.7,5.1,54,1981.1,1751.4,1986.5,3556.8,3737.8,2431.6
+02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,313,55,306,1006,335.3,7.2,4.8,-2.2,-9,253.9,306.1,296.5,272.2,266.1,291.6
+02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,219,44,206,763,254.3,0,-5.9,-5.9,-19,190.4,273,200,190.4,179.1,221.1
+02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,862,299,1031,1389,463,817,996.8,19.6,123,81.7,82.6,375.7,749.6,896.5,402.6
+02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,4,20,48,16,228.6,185.7,-13,25,6.1,11.3,10.4,20,17.4,13.9
+02,115000,Oxford Circle and Lawncrest,Other,3589,3118,3278,3367,631,3377,9763,3254.3,-6.2,-5.9,0.3,4,3120.9,2711.3,2850.4,2927.8,2936.5,2829.8
+02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,401,64,390,946,315.3,65,60.5,-2.7,24,211.3,198.3,275.7,348.7,339.1,274.2
+02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,38,6,40,122,40.7,-33.3,-29.8,5.3,-2,49.6,46.1,27,33,34.8,35.4
+02,115000,Oxford Circle and Lawncrest,Theft,2128,1817,2104,2909,472,2963,6830,2276.7,36.7,39.2,1.9,30,1850.4,1580,1829.6,2529.6,2576.5,1979.7
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,249,41,261,711,237,-4.2,0.4,4.8,10,279.6,241.9,254.8,267.7,280.6,254.8
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,257,38,227,711,237,-16,-25.8,-11.7,-4,329,259.1,229,276.3,244.1,254.8
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,427,103,448,790,263.3,527.9,558.8,4.9,70,73.1,86,304.3,459.1,481.7,283.1
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,15,0,14,34,11.3,275,250,-6.7,24,4.3,5.4,15.1,16.1,15.1,12.2
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,4138,3234,2642,2611,439,2624,8487,2829,-36.9,-36.6,0.5,-7,4449.5,3477.4,2840.9,2807.5,2821.5,3041.9
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,260,170,196,233,39,232,599,199.7,-10.4,-10.8,-0.4,16,279.6,182.8,210.8,250.5,249.5,214.7
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Other,4138,3234,2642,2611,450,2628,8487,2829,-36.9,-36.5,0.7,-7,4449.5,3477.4,2840.9,2807.5,2825.8,3041.9
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,260,170,196,233,40,233,599,199.7,-10.4,-10.4,0,17,279.6,182.8,210.8,250.5,250.5,214.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,27,2,24,77,25.7,-10,-20,-11.1,-7,32.3,19.4,34.4,29,25.8,27.6
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,2103,1997,2225,3336,489,3368,7558,2519.3,58.6,60.2,1,34,2261.3,2147.3,2392.5,3587.1,3621.5,2708.9
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,599,128,632,1974,658,2.6,8.2,5.5,-4,679.1,838.4,760.5,696.5,734.9,765.1
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,318,48,322,1079,359.7,-15.2,-14.1,1.3,-10,436,524.4,360.5,369.8,374.4,418.3
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,193,779,1263,421,480,549.2,11.9,85,139.5,160.5,498.8,809.3,905.8,489.5
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,2103,1997,2225,3336,508,3364,7558,2519.3,58.6,60,0.8,34,2261.3,2147.3,2392.5,3587.1,3617.2,2708.9
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,599,130,632,1974,658,2.6,8.2,5.5,-4,679.1,838.4,760.5,696.5,734.9,765.1
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,318,50,320,1079,359.7,-15.2,-14.7,0.6,-11,436,524.4,360.5,369.8,372.1,418.3
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,696,194,778,1263,421,480,548.3,11.8,85,139.5,160.5,498.8,809.3,904.7,489.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,3,26,99,33,15.4,0,-13.3,-21,30.2,39.5,40.7,34.9,30.2,38.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4755,889,4822,15069,5023,-37.1,-36.3,1.4,-4,8795.3,6075.6,5917.4,5529.1,5607,5840.7
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4755,927,4840,15069,5023,-37.1,-36,1.8,-4,8795.3,6075.6,5917.4,5529.1,5627.9,5840.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,247,41,237,729,243,-18.8,-22,-4,-2,353.5,279.1,281.4,287.2,275.6,282.6
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,6,33,126,42,-49.3,-53.5,-8.3,-21,82.6,53.5,51.2,41.9,38.4,48.8
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2088,368,2128,5232,1744,20.4,22.7,1.9,22,2016.3,1766.3,1889.5,2427.9,2474.4,2027.9
-22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,774,129,789,2431,810.3,8.7,10.8,1.9,-3,924.7,1068.8,1083.1,1005.2,1024.7,1052.3
-22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,572,110,617,1840,613.3,-10.5,-3.4,7.9,1,829.9,916.9,729.9,742.9,801.3,796.5
-22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,1002,329,1169,1797,599,827.8,982.4,16.7,95,140.3,239,793.5,1301.3,1518.2,777.9
-22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,11,54,182,60.7,66.7,63.6,-1.8,-11,42.9,72.7,92.2,71.4,70.1,78.8
-22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5184,873,5229,15550,5183.3,-20.4,-19.7,0.9,1,8454.5,6553.2,6909.1,6732.5,6790.9,6731.6
-22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,491,66,475,1228,409.3,6.3,2.8,-3.3,16,600,476.6,480.5,637.7,616.9,531.6
-22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,65,6,63,213,71,-23.5,-25.9,-3.1,-11,110.4,90.9,101.3,84.4,81.8,92.2
-22,77000,Strawberry Mansion and Stanton,Theft,2412,1979,2287,2930,467,3038,7196,2398.7,21.5,26,3.7,27,3132.5,2570.1,2970.1,3805.2,3945.5,3115.2
-24,67000,Richmond and Port Richmond,Aggravated Assault,682,837,732,699,113,697,2268,756,2.5,2.2,-0.3,-8,1017.9,1249.3,1092.5,1043.3,1040.3,1128.4
-24,67000,Richmond and Port Richmond,Burglary,277,450,233,316,49,330,999,333,14.1,19.1,4.4,-1,413.4,671.6,347.8,471.6,492.5,497
-24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,688,153,734,1433,477.7,473.3,511.7,6.7,54,179.1,279.1,832.8,1026.9,1095.5,713
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,7,34,126,42,-49.3,-52.1,-5.6,-19,82.6,53.5,51.2,41.9,39.5,48.8
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2088,379,2131,5232,1744,20.4,22.9,2.1,22,2016.3,1766.3,1889.5,2427.9,2477.9,2027.9
+22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,774,135,789,2431,810.3,8.7,10.8,1.9,-3,924.7,1068.8,1083.1,1005.2,1024.7,1052.3
+22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,572,111,610,1840,613.3,-10.5,-4.5,6.6,-1,829.9,916.9,729.9,742.9,792.2,796.5
+22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,1002,334,1167,1797,599,827.8,980.6,16.5,95,140.3,239,793.5,1301.3,1515.6,777.9
+22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,11,52,182,60.7,66.7,57.6,-5.5,-14,42.9,72.7,92.2,71.4,67.5,78.8
+22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5184,905,5227,15550,5183.3,-20.4,-19.7,0.8,1,8454.5,6553.2,6909.1,6732.5,6788.3,6731.6
+22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,491,67,474,1228,409.3,6.3,2.6,-3.5,16,600,476.6,480.5,637.7,615.6,531.6
+22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,65,8,65,213,71,-23.5,-23.5,0,-8,110.4,90.9,101.3,84.4,84.4,92.2
+22,77000,Strawberry Mansion and Stanton,Theft,2412,1979,2287,2930,484,3041,7196,2398.7,21.5,26.1,3.8,27,3132.5,2570.1,2970.1,3805.2,3949.4,3115.2
+24,67000,Richmond and Port Richmond,Aggravated Assault,682,837,732,699,120,701,2268,756,2.5,2.8,0.3,-7,1017.9,1249.3,1092.5,1043.3,1046.3,1128.4
+24,67000,Richmond and Port Richmond,Burglary,277,450,233,316,50,330,999,333,14.1,19.1,4.4,-1,413.4,671.6,347.8,471.6,492.5,497
+24,67000,Richmond and Port Richmond,Motor Vehicle Theft,120,187,558,688,158,735,1433,477.7,473.3,512.5,6.8,54,179.1,279.1,832.8,1026.9,1097,713
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,5,53,191,63.7,103.7,96.3,-3.6,-17,40.3,89.6,113.4,82.1,79.1,95.1
-24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4542,945,4845,15499,5166.3,-55.5,-52.6,6.7,-6,15243.3,9155.2,7198.5,6779.1,7231.3,7710.9
-24,67000,Richmond and Port Richmond,Robbery,447,467,444,546,71,535,1457,485.7,22.1,19.7,-2,10,667.2,697,662.7,814.9,798.5,724.9
-24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,10,46,140,46.7,-40,-34.3,9.5,-1,104.5,88.1,58.2,62.7,68.7,69.7
-24,67000,Richmond and Port Richmond,Theft,1743,1768,2351,2432,322,2366,6551,2183.7,39.5,35.7,-2.7,8,2601.5,2638.8,3509,3629.9,3531.3,3259.3
-25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,839,144,868,2565,855,13.8,17.8,3.5,2,1083.8,1330.9,1207.4,1233.8,1276.5,1257.4
-25,68000,Kensington and Harrowgate,Burglary,293,397,219,242,55,258,858,286,-17.4,-11.9,6.6,-10,430.9,583.8,322.1,355.9,379.4,420.6
-25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,682,172,735,1432,477.3,424.6,465.4,7.8,54,191.2,310.3,792.6,1002.9,1080.9,701.9
+24,67000,Richmond and Port Richmond,Other,10213,6134,4823,4542,970,4843,15499,5166.3,-55.5,-52.6,6.6,-6,15243.3,9155.2,7198.5,6779.1,7228.4,7710.9
+24,67000,Richmond and Port Richmond,Robbery,447,467,444,546,71,533,1457,485.7,22.1,19.2,-2.4,10,667.2,697,662.7,814.9,795.5,724.9
+24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,11,47,140,46.7,-40,-32.9,11.9,1,104.5,88.1,58.2,62.7,70.1,69.7
+24,67000,Richmond and Port Richmond,Theft,1743,1768,2351,2432,332,2366,6551,2183.7,39.5,35.7,-2.7,8,2601.5,2638.8,3509,3629.9,3531.3,3259.3
+25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,839,151,867,2565,855,13.8,17.6,3.3,1,1083.8,1330.9,1207.4,1233.8,1275,1257.4
+25,68000,Kensington and Harrowgate,Burglary,293,397,219,242,57,259,858,286,-17.4,-11.6,7,-9,430.9,583.8,322.1,355.9,380.9,420.6
+25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,682,182,741,1432,477.3,424.6,470,8.7,55,191.2,310.3,792.6,1002.9,1089.7,701.9
 25,68000,Kensington and Harrowgate,Murder,41,42,52,54,9,54,148,49.3,31.7,31.7,0,10,60.3,61.8,76.5,79.4,79.4,72.5
-25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4823,919,5010,14167,4722.3,-22.4,-19.4,3.9,6,9138.2,7264.7,6476.5,7092.6,7367.6,6944.6
-25,68000,Kensington and Harrowgate,Robbery,559,420,468,504,85,514,1392,464,-9.8,-8.1,2,11,822.1,617.6,688.2,741.2,755.9,682.4
-25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,15,55,201,67,-30.9,-19.1,17,-18,100,117.6,108.8,69.1,80.9,98.5
-25,68000,Kensington and Harrowgate,Theft,1481,1505,1391,1609,227,1600,4505,1501.7,8.6,8,-0.6,7,2177.9,2213.2,2045.6,2366.2,2352.9,2208.4
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Aggravated Assault,268,307,323,311,63,328,941,313.7,16,22.4,5.5,5,470.2,538.6,566.7,545.6,575.4,550.4
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,539,61,536,1318,439.3,34.4,33.7,-0.6,22,703.5,691.2,675.4,945.6,940.4,770.7
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,105,164,424,719,293,909,1307,435.7,584.8,765.7,26.4,109,184.2,287.7,743.9,1261.4,1594.7,764.4
+25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4823,977,5035,14167,4722.3,-22.4,-19,4.4,7,9138.2,7264.7,6476.5,7092.6,7404.4,6944.6
+25,68000,Kensington and Harrowgate,Robbery,559,420,468,504,88,515,1392,464,-9.8,-7.9,2.2,11,822.1,617.6,688.2,741.2,757.4,682.4
+25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,18,58,201,67,-30.9,-14.7,23.4,-13,100,117.6,108.8,69.1,85.3,98.5
+25,68000,Kensington and Harrowgate,Theft,1481,1505,1391,1609,236,1596,4505,1501.7,8.6,7.8,-0.8,6,2177.9,2213.2,2045.6,2366.2,2347.1,2208.4
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Aggravated Assault,268,307,323,311,64,327,941,313.7,16,22,5.1,4,470.2,538.6,566.7,545.6,573.7,550.4
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,539,65,537,1318,439.3,34.4,33.9,-0.4,22,703.5,691.2,675.4,945.6,942.1,770.7
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,105,164,424,719,302,915,1307,435.7,584.8,771.4,27.3,110,184.2,287.7,743.9,1261.4,1605.3,764.4
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,4,14,39,13,40,40,0,8,17.5,24.6,19.3,24.6,24.6,22.8
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Other,2759,2460,2328,2440,459,2485,7228,2409.3,-11.6,-9.9,1.8,3,4840.4,4315.8,4084.2,4280.7,4359.6,4226.8
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Robbery,247,177,244,319,57,297,740,246.7,29.1,20.2,-6.9,20,433.3,310.5,428.1,559.6,521.1,432.8
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Sexual Assault,41,26,24,22,4,22,72,24,-46.3,-46.3,0,-8,71.9,45.6,42.1,38.6,38.6,42.1
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Theft,1878,1840,2071,2599,536,2822,6510,2170,38.4,50.3,8.6,30,3294.7,3228.1,3633.3,4559.6,4950.9,3807
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,625,651,655,675,112,681,1981,660.3,8,9,0.9,3,449.6,468.3,471.2,485.6,489.9,475
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,396,43,373,1082,360.7,1.3,-4.6,-5.8,3,281.3,266.2,227.3,284.9,268.3,259.5
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1258,357,1394,2328,776,761.6,854.8,10.8,80,105,210.1,559.7,905,1002.9,558.3
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Other,2759,2460,2328,2440,473,2481,7228,2409.3,-11.6,-10.1,1.7,3,4840.4,4315.8,4084.2,4280.7,4352.6,4226.8
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Robbery,247,177,244,319,59,299,740,246.7,29.1,21.1,-6.3,21,433.3,310.5,428.1,559.6,524.6,432.8
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Sexual Assault,41,26,24,22,4,21,72,24,-46.3,-48.8,-4.5,-12,71.9,45.6,42.1,38.6,36.8,42.1
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Theft,1878,1840,2071,2599,545,2823,6510,2170,38.4,50.3,8.6,30,3294.7,3228.1,3633.3,4559.6,4952.6,3807
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,625,651,655,675,115,683,1981,660.3,8,9.3,1.2,3,449.6,468.3,471.2,485.6,491.4,475
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,396,44,370,1082,360.7,1.3,-5.4,-6.6,3,281.3,266.2,227.3,284.9,266.2,259.5
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1258,362,1395,2328,776,761.6,855.5,10.9,80,105,210.1,559.7,905,1003.6,558.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,41,14,50,124,41.3,32.3,61.3,22,21,22.3,29.5,30.2,29.5,36,29.7
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4965,823,4997,15544,5181.3,-24.7,-24.2,0.6,-4,4742.4,3856.8,3754,3571.9,3595,3727.6
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,465,75,471,1227,409,-13.1,-12,1.3,15,384.9,278.4,269.8,334.5,338.8,294.2
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4965,852,5002,15544,5181.3,-24.7,-24.1,0.7,-3,4742.4,3856.8,3754,3571.9,3598.6,3727.6
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,465,79,473,1227,409,-13.1,-11.6,1.7,16,384.9,278.4,269.8,334.5,340.3,294.2
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,92,90,53,42,6,43,185,61.7,-54.3,-53.3,2.4,-30,66.2,64.7,38.1,30.2,30.9,44.4
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,2588,2256,2596,3661,709,3785,8513,2837.7,41.5,46.3,3.4,33,1861.9,1623,1867.6,2633.8,2723,2041.5
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,2588,2256,2596,3661,743,3802,8513,2837.7,41.5,46.9,3.9,34,1861.9,1623,1867.6,2633.8,2735.3,2041.5
 77,0,Philadelphia airport,Aggravated Assault,7,8,2,5,0,5,15,5,-28.6,-28.6,0,0,NA,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Burglary,1,6,3,0,0,0,9,3,-100,-100,NA,-100,NA,NA,NA,NA,NA,NA
-77,0,Philadelphia airport,Motor Vehicle Theft,2,14,13,43,24,54,70,23.3,2050,2600,25.6,132,NA,NA,NA,NA,NA,NA
+77,0,Philadelphia airport,Motor Vehicle Theft,2,14,13,43,26,55,70,23.3,2050,2650,27.9,136,NA,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Murder,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-77,0,Philadelphia airport,Other,276,268,268,252,77,301,788,262.7,-8.7,9.1,19.4,15,NA,NA,NA,NA,NA,NA
+77,0,Philadelphia airport,Other,276,268,268,252,78,302,788,262.7,-8.7,9.4,19.8,15,NA,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Robbery,2,2,4,3,0,2,9,3,50,0,-33.3,-33,NA,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Sexual Assault,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-77,0,Philadelphia airport,Theft,384,201,344,493,97,515,1038,346,28.4,34.1,4.5,49,NA,NA,NA,NA,NA,NA
-05,43000,"Andorra, Roxborough and Manayunk",Aggravated Assault,76,67,49,78,8,80,194,64.7,2.6,5.3,2.6,24,176.7,155.8,114,181.4,186,150.5
-05,43000,"Andorra, Roxborough and Manayunk",Burglary,121,116,128,136,18,139,380,126.7,12.4,14.9,2.2,10,281.4,269.8,297.7,316.3,323.3,294.7
+77,0,Philadelphia airport,Theft,384,201,344,493,102,519,1038,346,28.4,35.2,5.3,50,NA,NA,NA,NA,NA,NA
+05,43000,"Andorra, Roxborough and Manayunk",Aggravated Assault,76,67,49,78,8,79,194,64.7,2.6,3.9,1.3,22,176.7,155.8,114,181.4,183.7,150.5
+05,43000,"Andorra, Roxborough and Manayunk",Burglary,121,116,128,136,18,137,380,126.7,12.4,13.2,0.7,8,281.4,269.8,297.7,316.3,318.6,294.7
 05,43000,"Andorra, Roxborough and Manayunk",Motor Vehicle Theft,21,30,92,186,47,199,308,102.7,785.7,847.6,7,94,48.8,69.8,214,432.6,462.8,238.8
 05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,4,8,2.7,400,300,-20,48,2.3,2.3,4.7,11.6,9.3,6.3
-05,43000,"Andorra, Roxborough and Manayunk",Other,1238,921,920,1015,204,1078,2856,952,-18,-12.9,6.2,13,2879.1,2141.9,2139.5,2360.5,2507,2214
-05,43000,"Andorra, Roxborough and Manayunk",Robbery,26,25,33,44,6,43,102,34,69.2,65.4,-2.3,26,60.5,58.1,76.7,102.3,100,79.1
+05,43000,"Andorra, Roxborough and Manayunk",Other,1238,921,920,1015,213,1074,2856,952,-18,-13.2,5.8,13,2879.1,2141.9,2139.5,2360.5,2497.7,2214
+05,43000,"Andorra, Roxborough and Manayunk",Robbery,26,25,33,44,6,41,102,34,69.2,57.7,-6.8,21,60.5,58.1,76.7,102.3,95.3,79.1
 05,43000,"Andorra, Roxborough and Manayunk",Sexual Assault,10,10,10,13,1,13,33,11,30,30,0,18,23.3,23.3,23.3,30.2,30.2,25.6
-05,43000,"Andorra, Roxborough and Manayunk",Theft,770,643,873,1059,196,1128,2575,858.3,37.5,46.5,6.5,31,1790.7,1495.3,2030.2,2462.8,2623.3,1996
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Aggravated Assault,248,255,253,324,61,340,832,277.3,30.6,37.1,4.9,23,539.1,554.3,550,704.3,739.1,602.8
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,303,330,282,378,38,370,990,330,24.8,22.1,-2.1,12,658.7,717.4,613,821.7,804.3,717.4
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Motor Vehicle Theft,45,61,228,281,85,326,570,190,524.4,624.4,16,72,97.8,132.6,495.7,610.9,708.7,413
+05,43000,"Andorra, Roxborough and Manayunk",Theft,770,643,873,1059,202,1125,2575,858.3,37.5,46.1,6.2,31,1790.7,1495.3,2030.2,2462.8,2616.3,1996
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Aggravated Assault,248,255,253,324,61,337,832,277.3,30.6,35.9,4,22,539.1,554.3,550,704.3,732.6,602.8
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,303,330,282,378,38,365,990,330,24.8,20.5,-3.4,11,658.7,717.4,613,821.7,793.5,717.4
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Motor Vehicle Theft,45,61,228,281,87,327,570,190,524.4,626.7,16.4,72,97.8,132.6,495.7,610.9,710.9,413
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,2,5,12,4,-16.7,-16.7,0,25,13,0,15.2,10.9,10.9,8.7
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2821,522,2906,7541,2513.7,-32.2,-30.1,3,16,9039.1,5354.3,4906.5,6132.6,6317.4,5464.6
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,299,42,295,771,257,1.4,0,-1.3,15,641.3,410.9,615.2,650,641.3,558.7
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,4158,2463,2257,2821,535,2909,7541,2513.7,-32.2,-30,3.1,16,9039.1,5354.3,4906.5,6132.6,6323.9,5464.6
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,299,43,294,771,257,1.4,-0.3,-1.7,14,641.3,410.9,615.2,650,639.1,558.7
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,31,21,27,19,8,25,67,22.3,-38.7,-19.4,31.6,12,67.4,45.7,58.7,41.3,54.3,48.5
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,3423,2615,2807,3617,639,3756,9039,3013,5.7,9.7,3.8,25,7441.3,5684.8,6102.2,7863,8165.2,6550
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,3423,2615,2807,3617,646,3746,9039,3013,5.7,9.4,3.6,24,7441.3,5684.8,6102.2,7863,8143.5,6550
 07,95000,Somerton and Bustleton,Aggravated Assault,80,70,97,93,29,107,260,86.7,16.3,33.8,15.1,23,84.2,73.7,102.1,97.9,112.6,91.3
 07,95000,Somerton and Bustleton,Burglary,109,117,94,157,24,153,368,122.7,44,40.4,-2.5,25,114.7,123.2,98.9,165.3,161.1,129.2
-07,95000,Somerton and Bustleton,Motor Vehicle Theft,22,43,107,207,112,297,357,119,840.9,1250,43.5,150,23.2,45.3,112.6,217.9,312.6,125.3
+07,95000,Somerton and Bustleton,Motor Vehicle Theft,22,43,107,207,113,298,357,119,840.9,1254.5,44,150,23.2,45.3,112.6,217.9,313.7,125.3
 07,95000,Somerton and Bustleton,Murder,5,3,4,1,1,2,8,2.7,-80,-60,100,-26,5.3,3.2,4.2,1.1,2.1,2.8
-07,95000,Somerton and Bustleton,Other,1468,1260,1383,1367,283,1430,4010,1336.7,-6.9,-2.6,4.6,7,1545.3,1326.3,1455.8,1438.9,1505.3,1407.1
+07,95000,Somerton and Bustleton,Other,1468,1260,1383,1367,290,1429,4010,1336.7,-6.9,-2.7,4.5,7,1545.3,1326.3,1455.8,1438.9,1504.2,1407.1
 07,95000,Somerton and Bustleton,Robbery,48,35,53,58,7,48,146,48.7,20.8,0,-17.2,-1,50.5,36.8,55.8,61.1,50.5,51.3
 07,95000,Somerton and Bustleton,Sexual Assault,15,22,10,3,4,7,35,11.7,-80,-53.3,133.3,-40,15.8,23.2,10.5,3.2,7.4,12.3
-07,95000,Somerton and Bustleton,Theft,758,886,1059,1709,313,1839,3654,1218,125.5,142.6,7.6,51,797.9,932.6,1114.7,1798.9,1935.8,1282.1
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,155,212,233,252,39,255,697,232.3,62.6,64.5,1.2,10,159.8,218.6,240.2,259.8,262.9,239.5
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Burglary,121,179,155,183,28,185,517,172.3,51.2,52.9,1.1,7,124.7,184.5,159.8,188.7,190.7,177.6
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Motor Vehicle Theft,65,59,192,360,158,474,611,203.7,453.8,629.2,31.7,133,67,60.8,197.9,371.1,488.7,210
+07,95000,Somerton and Bustleton,Theft,758,886,1059,1709,323,1841,3654,1218,125.5,142.9,7.7,51,797.9,932.6,1114.7,1798.9,1937.9,1282.1
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,155,212,233,252,42,258,697,232.3,62.6,66.5,2.4,11,159.8,218.6,240.2,259.8,266,239.5
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Burglary,121,179,155,183,30,184,517,172.3,51.2,52.1,0.5,7,124.7,184.5,159.8,188.7,189.7,177.6
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Motor Vehicle Theft,65,59,192,360,161,475,611,203.7,453.8,630.8,31.9,133,67,60.8,197.9,371.1,489.7,210
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,1,4,18,6,100,100,0,-33,2.1,4.1,10.3,4.1,4.1,6.2
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,2458,2430,2212,2200,478,2314,6842,2280.7,-10.5,-5.9,5.2,1,2534,2505.2,2280.4,2268,2385.6,2351.2
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,2458,2430,2212,2200,491,2312,6842,2280.7,-10.5,-5.9,5.1,1,2534,2505.2,2280.4,2268,2383.5,2351.2
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Robbery,94,70,87,122,24,132,279,93,29.8,40.4,8.2,42,96.9,72.2,89.7,125.8,136.1,95.9
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Sexual Assault,44,27,23,10,1,7,60,20,-77.3,-84.1,-30,-65,45.4,27.8,23.7,10.3,7.2,20.6
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Theft,1383,1217,1490,2355,422,2457,5062,1687.3,70.3,77.7,4.3,46,1425.8,1254.6,1536.1,2427.8,2533,1739.5
-09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,207,24,205,563,187.7,12.5,11.4,-1,9,278.8,236.4,303,313.6,310.6,284.4
-09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,308,367,309,301,41,287,977,325.7,-2.3,-6.8,-4.7,-12,466.7,556.1,468.2,456.1,434.8,493.5
-09,66000,"Center City West, Logan Circle and North Philadelphia",Motor Vehicle Theft,35,36,202,276,123,359,514,171.3,688.6,925.7,30.1,110,53,54.5,306.1,418.2,543.9,259.5
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Sexual Assault,44,27,23,10,1,6,60,20,-77.3,-86.4,-40,-70,45.4,27.8,23.7,10.3,6.2,20.6
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Theft,1383,1217,1490,2355,446,2475,5062,1687.3,70.3,79,5.1,47,1425.8,1254.6,1536.1,2427.8,2551.5,1739.5
+09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,207,29,208,563,187.7,12.5,13,0.5,11,278.8,236.4,303,313.6,315.2,284.4
+09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,308,367,309,301,43,289,977,325.7,-2.3,-6.2,-4,-11,466.7,556.1,468.2,456.1,437.9,493.5
+09,66000,"Center City West, Logan Circle and North Philadelphia",Motor Vehicle Theft,35,36,202,276,128,359,514,171.3,688.6,925.7,30.1,110,53,54.5,306.1,418.2,543.9,259.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,7,17,5.7,133.3,133.3,0,23,4.5,6.1,9.1,10.6,10.6,8.6
-09,66000,"Center City West, Logan Circle and North Philadelphia",Other,3559,2604,2305,2552,427,2619,7461,2487,-28.3,-26.4,2.6,5,5392.4,3945.5,3492.4,3866.7,3968.2,3768.2
-09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,238,38,243,655,218.3,-16.5,-14.7,2.1,11,431.8,324.2,307.6,360.6,368.2,330.8
+09,66000,"Center City West, Logan Circle and North Philadelphia",Other,3559,2604,2305,2552,441,2604,7461,2487,-28.3,-26.8,2,5,5392.4,3945.5,3492.4,3866.7,3945.5,3768.2
+09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,238,39,244,655,218.3,-16.5,-14.4,2.5,12,431.8,324.2,307.6,360.6,369.7,330.8
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,19,4,21,60,20,-17.4,-8.7,10.5,5,34.8,30.3,31.8,28.8,31.8,30.3
-09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,3426,2583,2729,3305,619,3476,8617,2872.3,-3.5,1.5,5.2,21,5190.9,3913.6,4134.8,5007.6,5266.7,4352
-12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,504,107,539,1796,598.7,-5.8,0.7,6.9,-10,743.1,1019.4,775,700,748.6,831.5
-12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,335,55,337,991,330.3,-8,-7.4,0.6,2,505.6,554.2,356.9,465.3,468.1,458.8
-12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,175,878,1746,582,401.7,407.5,1.2,51,240.3,334.7,884.7,1205.6,1219.4,808.3
+09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,3426,2583,2729,3305,638,3483,8617,2872.3,-3.5,1.7,5.4,21,5190.9,3913.6,4134.8,5007.6,5277.3,4352
+12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,504,109,538,1796,598.7,-5.8,0.6,6.7,-10,743.1,1019.4,775,700,747.2,831.5
+12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,335,58,335,991,330.3,-8,-8,0,1,505.6,554.2,356.9,465.3,465.3,458.8
+12,72000,"Kingsessing, Eastwick and Elmwood",Motor Vehicle Theft,173,241,637,868,187,889,1746,582,401.7,413.9,2.4,53,240.3,334.7,884.7,1205.6,1234.7,808.3
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,4,35,115,38.3,34.5,20.7,-10.3,-9,40.3,59.7,45.8,54.2,48.6,53.2
-12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4749,803,4846,14587,4862.3,-14,-12.3,2,-0,7670.8,7140.3,6523.6,6595.8,6730.6,6753.2
-12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,289,39,267,797,265.7,7.4,-0.7,-7.6,0,373.6,372.2,333.3,401.4,370.8,369
+12,72000,"Kingsessing, Eastwick and Elmwood",Other,5523,5141,4697,4749,826,4847,14587,4862.3,-14,-12.2,2.1,-0,7670.8,7140.3,6523.6,6595.8,6731.9,6753.2
+12,72000,"Kingsessing, Eastwick and Elmwood",Robbery,269,268,240,289,40,267,797,265.7,7.4,-0.7,-7.6,0,373.6,372.2,333.3,401.4,370.8,369
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,8,36,146,48.7,-49.2,-39,20,-26,81.9,81.9,79.2,41.7,50,67.6
-12,72000,"Kingsessing, Eastwick and Elmwood",Theft,1432,1470,1668,1858,296,1853,4996,1665.3,29.7,29.4,-0.3,11,1988.9,2041.7,2316.7,2580.6,2573.6,2312.9
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,454,93,459,1441,480.3,10.5,11.7,1.1,-4,367,469.6,411.6,405.4,409.8,428.8
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,288,396,243,272,47,263,911,303.7,-5.6,-8.7,-3.3,-13,257.1,353.6,217,242.9,234.8,271.2
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,695,271,874,1171,390.3,509.6,666.7,25.8,124,101.8,125.9,299.1,620.5,780.4,348.5
+12,72000,"Kingsessing, Eastwick and Elmwood",Theft,1432,1470,1668,1858,314,1869,4996,1665.3,29.7,30.5,0.6,12,1988.9,2041.7,2316.7,2580.6,2595.8,2312.9
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,454,98,461,1441,480.3,10.5,12.2,1.5,-4,367,469.6,411.6,405.4,411.6,428.8
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,288,396,243,272,48,262,911,303.7,-5.6,-9,-3.7,-14,257.1,353.6,217,242.9,233.9,271.2
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Motor Vehicle Theft,114,141,335,695,284,885,1171,390.3,509.6,676.3,27.3,127,101.8,125.9,299.1,620.5,790.2,348.5
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,1,28,94,31.3,42.3,7.7,-24.3,-11,23.2,31.2,19.6,33,25,27.9
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,5736,5081,4671,4741,942,4955,14493,4831,-17.3,-13.6,4.5,3,5121.4,4536.6,4170.5,4233,4424.1,4313.4
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Other,5736,5081,4671,4741,976,4952,14493,4831,-17.3,-13.7,4.5,3,5121.4,4536.6,4170.5,4233,4421.4,4313.4
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Robbery,226,180,181,247,45,244,608,202.7,9.3,8,-1.2,20,201.8,160.7,161.6,220.5,217.9,181
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,27,6,26,117,39,-48.1,-50,-3.7,-33,46.4,52.7,27.7,24.1,23.2,34.8
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,1784,1754,1769,2098,387,2221,5621,1873.7,17.6,24.5,5.9,19,1592.9,1566.1,1579.5,1873.2,1983,1672.9
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,1784,1754,1769,2098,400,2220,5621,1873.7,17.6,24.4,5.8,18,1592.9,1566.1,1579.5,1873.2,1982.1,1672.9
