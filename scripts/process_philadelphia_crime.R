@@ -9,7 +9,7 @@ past_philly_crime <- readRDS("data/source/annual/past_philly_crime.RDS")
 # download the latest data for the current year to date
 download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272022-01-01%27%20AND%20dispatch_date_time%20%3C%20%272024-01-01%27","data/source/recent/phillycrime22.csv")
 # read in the latest data for the current year to date
-philly_crime22 <- read_csv("data/source/recent/phillycrime22.csv") %>% janitor::clean_names()
+philly_crime22 <- read_csv("data/source/recent/phillycrime22.csv") %>% janitor::clean_names() %>% select(4:18)
 
 # Combine past years + recent year file into single df
 philly_crime <- rbind(past_philly_crime,philly_crime22)
@@ -172,7 +172,7 @@ citywide_category_monthly %>% filter(category=="Theft") %>% write_csv("data/outp
 citywide_category_monthly %>% filter(category=="Burglary") %>% write_csv("data/output/monthly/burglaries_monthly.csv")
 citywide_category_monthly %>% filter(category=="Robbery") %>% write_csv("data/output/monthly/robberies_monthly.csv")
 citywide_category_monthly %>% filter(category=="Aggravated Assault") %>% write_csv("data/output/monthly/assaults_monthly.csv")
-citywide_category_monthly %>% filter(category=="Murder") %>% write_csv("data/output/monthly/murders_monthly.csv")
+#citywide_category_monthly %>% filter(category=="Murder") %>% write_csv("data/output/monthly/murders_monthly.csv")
 
 # Calculate of each type of crime CITYWIDE
 citywide_type <- philly_crime %>%
@@ -368,7 +368,7 @@ citywide_category %>% write_csv("data/output/city/citywide_category.csv")
 citywide_type %>% write_csv("data/output/city/citywide_type.csv")
 
 # Create individual spatial tables of crimes by major categories and types
-murders_district <- district_category %>% filter(category=="Murder")
+#murders_district <- district_category %>% filter(category=="Murder")
 sexassaults_district <- district_category %>% filter(category=="Sexual Assault")
 autothefts_district <- district_category %>% filter(category=="Motor Vehicle Theft")
 thefts_district <- district_category %>% filter(category=="Theft")
@@ -379,7 +379,7 @@ violence_district <- district_type %>% filter(type=="Violent")
 property_district <- district_type %>% filter(type=="Property")
 
 # Create same set of tables for citywide figures
-murders_city <- citywide_category %>% filter(category=="Murder")
+#murders_city <- citywide_category %>% filter(category=="Murder")
 sexassaults_city <- citywide_category %>% filter(category=="Sexual Assault")
 autothefts_city <- citywide_category %>% filter(category=="Motor Vehicle Theft")
 thefts_city <- citywide_category %>% filter(category=="Theft")
@@ -390,26 +390,26 @@ violence_city <- citywide_type %>% filter(type=="Violent")
 property_city <- citywide_type %>% filter(type=="Property")
 
 # Using hour to identify the hours of day when murders happen
-when_murders_happen <- philly_crime %>%
-  filter(category=="Murder") %>%
-  group_by(hour) %>%
-  summarise(count=n()) %>% 
-  arrange(hour)
-when_murders_happen$time <- case_when(when_murders_happen$hour == "0" ~ "12 a.m.",
-                                      when_murders_happen$hour %in% c("1","2","3","4","5","6","7","8","9","10","11") ~ paste0(when_murders_happen$hour," a.m."),
-                                      when_murders_happen$hour %in% c("12") ~ paste0(when_murders_happen$hour," p.m."),
-                                      when_murders_happen$hour %in% c("13","14","15","16","17","18","19","20","21","22","23") ~ paste0((as.numeric(when_murders_happen$hour)-12)," p.m."),
-                                      TRUE ~ "Other")
-when_murders_happen$timeframe <- case_when(when_murders_happen$hour %in% c("0","1","2","3","4","21","22","23") ~ "Overnight from 9 p.m. to 5 a.m.",
-                                           when_murders_happen$hour %in% c("5","6","7","8","9","10","11") ~ "Morning from 5 a.m. to 12 p.m.",
-                                           when_murders_happen$hour %in% c("12","13","14","15","16","17","18","19","20")  ~ "Afternoon/Evening from 12 p.m. to 9 p.m.",
-                                           TRUE ~ "Other")
-when_murders_happen <- when_murders_happen %>%
-  group_by(timeframe) %>%
-  summarise(total=sum(count))
+#when_murders_happen <- philly_crime %>%
+#  filter(category=="Murder") %>%
+#  group_by(hour) %>%
+#  summarise(count=n()) %>% 
+#  arrange(hour)
+#when_murders_happen$time <- case_when(when_murders_happen$hour == "0" ~ "12 a.m.",
+#                                      when_murders_happen$hour %in% c("1","2","3","4","5","6","7","8","9","10","11") ~ paste0(when_murders_happen$hour," a.m."),
+#                                      when_murders_happen$hour %in% c("12") ~ paste0(when_murders_happen$hour," p.m."),
+#                                      when_murders_happen$hour %in% c("13","14","15","16","17","18","19","20","21","22","23") ~ paste0((as.numeric(when_murders_happen$hour)-12)," p.m."),
+#                                      TRUE ~ "Other")
+#when_murders_happen$timeframe <- case_when(when_murders_happen$hour %in% c("0","1","2","3","4","21","22","23") ~ "Overnight from 9 p.m. to 5 a.m.",
+#                                           when_murders_happen$hour %in% c("5","6","7","8","9","10","11") ~ "Morning from 5 a.m. to 12 p.m.",
+#                                           when_murders_happen$hour %in% c("12","13","14","15","16","17","18","19","20")  ~ "Afternoon/Evening from 12 p.m. to 9 p.m.",
+#                                           TRUE ~ "Other")
+#when_murders_happen <- when_murders_happen %>%
+#  group_by(timeframe) %>%
+#  summarise(total=sum(count))
 
 # Create individual spatial tables of crimes by major categories and types
-murders_district %>% st_drop_geometry() %>% write_csv("data/output/districts/murders_district.csv")
+#murders_district %>% st_drop_geometry() %>% write_csv("data/output/districts/murders_district.csv")
 sexassaults_district %>% st_drop_geometry() %>% write_csv("data/output/districts/sexassaults_district.csv")
 autothefts_district %>% st_drop_geometry() %>% write_csv("data/output/districts/autothefts_district.csv")
 thefts_district %>% st_drop_geometry() %>% write_csv("data/output/districts/thefts_district.csv")
@@ -420,7 +420,7 @@ violence_district %>% st_drop_geometry() %>% write_csv("data/output/districts/vi
 property_district %>% st_drop_geometry() %>% write_csv("data/output/districts/property_district.csv")
 
 # TEST TEST TEST OF WHETHER RDS WILL WORK FOR TRACKERS IN AUTOMATION
-saveRDS(murders_city,"scripts/rds/murders_city.rds")
+#saveRDS(murders_city,"scripts/rds/murders_city.rds")
 saveRDS(assaults_city,"scripts/rds/assaults_city.rds")
 saveRDS(sexassaults_city,"scripts/rds/sexassaults_city.rds")
 saveRDS(autothefts_city,"scripts/rds/autothefts_city.rds")
@@ -429,7 +429,7 @@ saveRDS(burglaries_city,"scripts/rds/burglaries_city.rds")
 saveRDS(robberies_city,"scripts/rds/robberies_city.rds")
 saveRDS(robberies_city,"scripts/rds/retailthefts_city.rds")
 
-saveRDS(murders_district,"scripts/rds/murders_district.rds")
+#saveRDS(murders_district,"scripts/rds/murders_district.rds")
 saveRDS(assaults_district,"scripts/rds/assaults_district.rds")
 saveRDS(sexassaults_district,"scripts/rds/sexassaults_district.rds")
 saveRDS(autothefts_district,"scripts/rds/autothefts_district.rds")
@@ -443,10 +443,10 @@ asofdate <- max(philly_crime$date)
 saveRDS(asofdate,"scripts/rds/asofdate.rds")
 
 # additional table exports for specific charts
-when_murders_happen %>% write_csv("data/output/city/when_murders_happen.csv")
+# when_murders_happen %>% write_csv("data/output/city/when_murders_happen.csv")
 
 # deaths cause data update for TX specific table
-deaths <- read_excel("data/source/health/deaths.xlsx") 
-deaths <- deaths %>% filter(state=="PA")
-deaths$Homicide <- murders_city$rate_last12
-write_csv(deaths,"data/source/health/death_rates.csv")
+#deaths <- read_excel("data/source/health/deaths.xlsx") 
+#deaths <- deaths %>% filter(state=="PA")
+#deaths$Homicide <- murders_city$rate_last12
+#write_csv(deaths,"data/source/health/death_rates.csv")
