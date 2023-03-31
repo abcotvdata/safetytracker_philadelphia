@@ -49,7 +49,11 @@ Aggravated Assault,2022-11-01,764,739
 Aggravated Assault,2022-12-01,728,741
 Aggravated Assault,2023-01-01,740,744
 Aggravated Assault,2023-02-01,704,724
+<<<<<<< HEAD
 Aggravated Assault,2023-03-01,715,720
+=======
+Aggravated Assault,2023-03-01,686,710
+>>>>>>> 51d288ad9862f338fbf68e7218f8b9a3b23dae27
 Burglary,2019-01-01,533,NA
 Burglary,2019-02-01,431,NA
 Burglary,2019-03-01,394,453
@@ -100,7 +104,11 @@ Burglary,2022-11-01,511,513
 Burglary,2022-12-01,468,491
 Burglary,2023-01-01,446,475
 Burglary,2023-02-01,380,431
+<<<<<<< HEAD
 Burglary,2023-03-01,438,421
+=======
+Burglary,2023-03-01,417,414
+>>>>>>> 51d288ad9862f338fbf68e7218f8b9a3b23dae27
 Motor Vehicle Theft,2019-01-01,171,NA
 Motor Vehicle Theft,2019-02-01,105,NA
 Motor Vehicle Theft,2019-03-01,129,135
@@ -151,7 +159,11 @@ Motor Vehicle Theft,2022-11-01,1281,1124
 Motor Vehicle Theft,2022-12-01,1681,1347
 Motor Vehicle Theft,2023-01-01,1804,1589
 Motor Vehicle Theft,2023-02-01,1708,1731
+<<<<<<< HEAD
 Motor Vehicle Theft,2023-03-01,1621,1711
+=======
+Motor Vehicle Theft,2023-03-01,1577,1696
+>>>>>>> 51d288ad9862f338fbf68e7218f8b9a3b23dae27
 Murder,2019-01-01,26,NA
 Murder,2019-02-01,21,NA
 Murder,2019-03-01,32,26
@@ -253,7 +265,11 @@ Other,2022-11-01,5732,5910
 Other,2022-12-01,5536,5725
 Other,2023-01-01,6195,5821
 Other,2023-02-01,5666,5799
+<<<<<<< HEAD
 Other,2023-03-01,6276,6046
+=======
+Other,2023-03-01,6051,5971
+>>>>>>> 51d288ad9862f338fbf68e7218f8b9a3b23dae27
 Robbery,2019-01-01,412,NA
 Robbery,2019-02-01,369,NA
 Robbery,2019-03-01,428,403
@@ -304,7 +320,11 @@ Robbery,2022-11-01,483,502
 Robbery,2022-12-01,428,475
 Robbery,2023-01-01,495,469
 Robbery,2023-02-01,395,439
+<<<<<<< HEAD
 Robbery,2023-03-01,364,418
+=======
+Robbery,2023-03-01,354,415
+>>>>>>> 51d288ad9862f338fbf68e7218f8b9a3b23dae27
 Sexual Assault,2019-01-01,86,NA
 Sexual Assault,2019-02-01,64,NA
 Sexual Assault,2019-03-01,102,84
@@ -355,7 +375,11 @@ Sexual Assault,2022-11-01,57,55
 Sexual Assault,2022-12-01,43,48
 Sexual Assault,2023-01-01,63,54
 Sexual Assault,2023-02-01,49,52
+<<<<<<< HEAD
 Sexual Assault,2023-03-01,59,57
+=======
+Sexual Assault,2023-03-01,58,57
+>>>>>>> 51d288ad9862f338fbf68e7218f8b9a3b23dae27
 Theft,2019-01-01,2780,NA
 Theft,2019-02-01,2656,NA
 Theft,2019-03-01,2720,2719
@@ -406,4 +430,8 @@ Theft,2022-11-01,4168,4477
 Theft,2022-12-01,4110,4326
 Theft,2023-01-01,4021,4100
 Theft,2023-02-01,3605,3912
+<<<<<<< HEAD
 Theft,2023-03-01,3888,3838
+=======
+Theft,2023-03-01,3753,3793
+>>>>>>> 51d288ad9862f338fbf68e7218f8b9a3b23dae27
