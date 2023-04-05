@@ -14,7 +14,6 @@ philly_crime22 <- read_csv("data/source/recent/phillycrime22.csv") %>% janitor::
 # Combine past years + recent year file into single df
 philly_crime <- rbind(past_philly_crime,philly_crime22)
 
-
 # Remove duplicate entries and standardize key column names
 philly_crime <- philly_crime %>% unique
 philly_crime <- philly_crime %>% rename("district"="dc_dist","description"="text_general_code")
