@@ -50,7 +50,7 @@ Aggravated Assault,2022-12-01,728,741
 Aggravated Assault,2023-01-01,740,744
 Aggravated Assault,2023-02-01,705,724
 Aggravated Assault,2023-03-01,750,732
-Aggravated Assault,2023-04-01,308,588
+Aggravated Assault,2023-04-01,339,598
 Burglary,2019-01-01,533,NA
 Burglary,2019-02-01,431,NA
 Burglary,2019-03-01,394,453
@@ -102,7 +102,7 @@ Burglary,2022-12-01,468,491
 Burglary,2023-01-01,446,475
 Burglary,2023-02-01,380,431
 Burglary,2023-03-01,467,431
-Burglary,2023-04-01,205,351
+Burglary,2023-04-01,221,356
 Motor Vehicle Theft,2019-01-01,171,NA
 Motor Vehicle Theft,2019-02-01,105,NA
 Motor Vehicle Theft,2019-03-01,129,135
@@ -154,7 +154,7 @@ Motor Vehicle Theft,2022-12-01,1681,1347
 Motor Vehicle Theft,2023-01-01,1804,1589
 Motor Vehicle Theft,2023-02-01,1708,1731
 Motor Vehicle Theft,2023-03-01,1687,1733
-Motor Vehicle Theft,2023-04-01,848,1414
+Motor Vehicle Theft,2023-04-01,901,1432
 Murder,2019-01-01,26,NA
 Murder,2019-02-01,21,NA
 Murder,2019-03-01,32,26
@@ -258,7 +258,7 @@ Other,2022-12-01,5536,5725
 Other,2023-01-01,6195,5821
 Other,2023-02-01,5669,5800
 Other,2023-03-01,6561,6142
-Other,2023-04-01,2915,5048
+Other,2023-04-01,3123,5118
 Robbery,2019-01-01,412,NA
 Robbery,2019-02-01,369,NA
 Robbery,2019-03-01,428,403
@@ -309,8 +309,8 @@ Robbery,2022-11-01,483,502
 Robbery,2022-12-01,428,475
 Robbery,2023-01-01,495,469
 Robbery,2023-02-01,395,439
-Robbery,2023-03-01,388,426
-Robbery,2023-04-01,183,322
+Robbery,2023-03-01,389,426
+Robbery,2023-04-01,193,326
 Sexual Assault,2019-01-01,86,NA
 Sexual Assault,2019-02-01,64,NA
 Sexual Assault,2019-03-01,102,84
@@ -362,7 +362,7 @@ Sexual Assault,2022-12-01,43,48
 Sexual Assault,2023-01-01,63,54
 Sexual Assault,2023-02-01,49,52
 Sexual Assault,2023-03-01,66,59
-Sexual Assault,2023-04-01,19,45
+Sexual Assault,2023-04-01,21,45
 Theft,2019-01-01,2780,NA
 Theft,2019-02-01,2656,NA
 Theft,2019-03-01,2720,2719
@@ -414,4 +414,4 @@ Theft,2022-12-01,4110,4326
 Theft,2023-01-01,4021,4100
 Theft,2023-02-01,3606,3912
 Theft,2023-03-01,4043,3890
-Theft,2023-04-01,1739,3129
+Theft,2023-04-01,1856,3168
