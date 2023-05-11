@@ -2,7 +2,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,6,20,74,24.7,26.7,33.3,5.3,-19,36.6,63.4,70.7,46.3,48.8,60.2
 17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,6,3,7,33,11,20,40,16.7,-36,10,34,20,12,14,22
 18,80000,University City and Cobbs Creek,Murder,19,24,18,23,5,20,65,21.7,21.1,5.3,-13,-8,23.8,30,22.5,28.8,25,27.1
-35,100000,Olney and Logan,Murder,28,30,54,31,10,31,115,38.3,10.7,10.7,0,-19,28,30,54,31,31,38.3
+35,100000,Olney and Logan,Murder,28,30,54,31,10,30,115,38.3,10.7,7.1,-3.2,-22,28,30,54,31,30,38.3
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,34,11,36,123,41,21.4,28.6,5.9,-12,45.9,70.5,75.4,55.7,59,67.2
 01,37000,Girard Estates and Navy Yard,Murder,9,5,8,12,2,9,25,8.3,33.3,0,-25,8,24.3,13.5,21.6,32.4,24.3,22.4
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,5,18,48,16,228.6,157.1,-21.7,12,6.1,11.3,10.4,20,15.7,13.9
@@ -10,7 +10,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,27,8,27,96,32,3.8,3.8,0,-16,30.2,39.5,40.7,31.4,31.4,37.2
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,52,19,50,179,59.7,57.6,51.5,-3.8,-16,42.9,72.7,92.2,67.5,64.9,77.5
 24,67000,Richmond and Port Richmond,Murder,27,60,76,47,8,44,183,61,74.1,63,-6.4,-28,40.3,89.6,113.4,70.1,65.7,91
-25,68000,Kensington and Harrowgate,Murder,41,42,52,49,12,47,143,47.7,19.5,14.6,-4.1,-1,60.3,61.8,76.5,72.1,69.1,70.1
+25,68000,Kensington and Harrowgate,Murder,41,42,52,48,12,47,142,47.3,17.1,14.6,-2.1,-1,60.3,61.8,76.5,70.6,69.1,69.6
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,5,11,39,13,40,10,-21.4,-15,17.5,24.6,19.3,24.6,19.3,22.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,20,48,123,41,29,54.8,20,17,22.3,29.5,30.2,28.8,34.5,29.5
 77,0,Philadelphia airport,Murder,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
