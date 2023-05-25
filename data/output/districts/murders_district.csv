@@ -6,11 +6,11 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,34,11,34,123,41,21.4,21.4,0,-17,45.9,70.5,75.4,55.7,55.7,67.2
 01,37000,Girard Estates and Navy Yard,Murder,9,5,8,12,2,8,25,8.3,33.3,-11.1,-33.3,-4,24.3,13.5,21.6,32.4,21.6,22.4
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,6,18,48,16,228.6,157.1,-21.7,12,6.1,11.3,10.4,20,15.7,13.9
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,13,0,10,32,10.7,225,150,-23.1,-7,4.3,5.4,15.1,14,10.8,11.5
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,13,1,11,32,10.7,225,175,-15.4,3,4.3,5.4,15.1,14,11.8,11.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,27,10,27,96,32,3.8,3.8,0,-16,30.2,39.5,40.7,31.4,31.4,37.2
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,52,22,51,179,59.7,57.6,54.5,-1.9,-15,42.9,72.7,92.2,67.5,66.2,77.5
-24,67000,Richmond and Port Richmond,Murder,27,60,76,47,11,46,183,61,74.1,70.4,-2.1,-25,40.3,89.6,113.4,70.1,68.7,91
-25,68000,Kensington and Harrowgate,Murder,41,42,52,49,12,45,143,47.7,19.5,9.8,-8.2,-6,60.3,61.8,76.5,72.1,66.2,70.1
+24,67000,Richmond and Port Richmond,Murder,27,60,76,47,11,45,183,61,74.1,66.7,-4.3,-26,40.3,89.6,113.4,70.1,67.2,91
+25,68000,Kensington and Harrowgate,Murder,41,42,52,48,12,45,142,47.3,17.1,9.8,-6.2,-5,60.3,61.8,76.5,70.6,66.2,69.6
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,5,11,39,13,40,10,-21.4,-15,17.5,24.6,19.3,24.6,19.3,22.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,21,48,123,41,29,54.8,20,17,22.3,29.5,30.2,28.8,34.5,29.5
 77,0,Philadelphia airport,Murder,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
