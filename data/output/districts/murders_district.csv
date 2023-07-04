@@ -11,12 +11,12 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,52,27,52,179,59.7,57.6,57.6,0,-13,42.9,72.7,92.2,67.5,67.5,77.5
 24,67000,Richmond and Port Richmond,Murder,27,60,76,47,12,39,183,61,74.1,44.4,-17,-36,40.3,89.6,113.4,70.1,58.2,91
 25,68000,Kensington and Harrowgate,Murder,41,42,52,49,17,40,143,47.7,19.5,-2.4,-18.4,-16,60.3,61.8,76.5,72.1,58.8,70.1
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,6,12,39,13,40,20,-14.3,-8,17.5,24.6,19.3,24.6,21.1,22.8
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,25,49,123,41,29,58.1,22.5,20,22.3,29.5,30.2,28.8,35.3,29.5
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,6,11,39,13,40,10,-21.4,-15,17.5,24.6,19.3,24.6,19.3,22.8
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,25,47,123,41,29,51.6,17.5,15,22.3,29.5,30.2,28.8,33.8,29.5
 77,0,Philadelphia airport,Murder,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,3,8,2.7,400,200,-40,11,2.3,2.3,4.7,11.6,7,6.3
+05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,2,8,2.7,400,100,-60,-26,2.3,2.3,4.7,11.6,4.7,6.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,1,3,12,4,-16.7,-50,-40,-25,13,0,15.2,10.9,6.5,8.7
-07,95000,Somerton and Bustleton,Murder,5,3,4,1,1,2,8,2.7,-80,-60,100,-26,5.3,3.2,4.2,1.1,2.1,2.8
+07,95000,Somerton and Bustleton,Murder,5,3,4,1,1,1,8,2.7,-80,-80,0,-63,5.3,3.2,4.2,1.1,1.1,2.8
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,2,4,18,6,100,100,0,-33,2.1,4.1,10.3,4.1,4.1,6.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,5,17,5.7,133.3,66.7,-28.6,-12,4.5,6.1,9.1,10.6,7.6,8.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,35,14,37,111,37,20.7,27.6,5.7,0,40.3,59.7,45.8,48.6,51.4,51.4
