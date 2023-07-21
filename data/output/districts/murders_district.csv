@@ -2,7 +2,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,11,20,74,24.7,26.7,33.3,5.3,-19,36.6,63.4,70.7,46.3,48.8,60.2
 17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,6,5,8,33,11,20,60,33.3,-27,10,34,20,12,16,22
 18,80000,University City and Cobbs Creek,Murder,19,24,18,23,10,20,65,21.7,21.1,5.3,-13,-8,23.8,30,22.5,28.8,25,27.1
-35,100000,Olney and Logan,Murder,28,30,54,31,13,26,115,38.3,10.7,-7.1,-16.1,-32,28,30,54,31,26,38.3
+35,100000,Olney and Logan,Murder,28,30,54,31,13,25,115,38.3,10.7,-10.7,-19.4,-35,28,30,54,31,25,38.3
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,34,12,29,123,41,21.4,3.6,-14.7,-29,45.9,70.5,75.4,55.7,47.5,67.2
 01,37000,Girard Estates and Navy Yard,Murder,9,5,8,12,2,6,25,8.3,33.3,-33.3,-50,-28,24.3,13.5,21.6,32.4,16.2,22.4
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,6,14,48,16,228.6,100,-39.1,-12,6.1,11.3,10.4,20,12.2,13.9
@@ -19,6 +19,6 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 07,95000,Somerton and Bustleton,Murder,5,3,4,1,1,1,8,2.7,-80,-80,0,-63,5.3,3.2,4.2,1.1,1.1,2.8
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,2,3,18,6,100,50,-25,-50,2.1,4.1,10.3,4.1,3.1,6.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,5,17,5.7,133.3,66.7,-28.6,-12,4.5,6.1,9.1,10.6,7.6,8.6
-12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,35,15,33,111,37,20.7,13.8,-5.7,-11,40.3,59.7,45.8,48.6,45.8,51.4
+12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,35,15,32,111,37,20.7,10.3,-8.6,-14,40.3,59.7,45.8,48.6,44.4,51.4
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,34,8,20,91,30.3,30.8,-23.1,-41.2,-34,23.2,31.2,19.6,30.4,17.9,27.1
 04,NA,NA,Murder,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
