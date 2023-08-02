@@ -3,16 +3,16 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,6,6,8,33,11,20,60,33.3,-27,10,34,20,12,16,22
 18,80000,University City and Cobbs Creek,Murder,19,24,18,23,10,20,65,21.7,21.1,5.3,-13,-8,23.8,30,22.5,28.8,25,27.1
 35,100000,Olney and Logan,Murder,28,30,54,31,14,25,115,38.3,10.7,-10.7,-19.4,-35,28,30,54,31,25,38.3
-39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,34,13,29,123,41,21.4,3.6,-14.7,-29,45.9,70.5,75.4,55.7,47.5,67.2
+39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,34,13,28,123,41,21.4,0,-17.6,-32,45.9,70.5,75.4,55.7,45.9,67.2
 01,37000,Girard Estates and Navy Yard,Murder,9,5,8,12,2,5,25,8.3,33.3,-44.4,-58.3,-40,24.3,13.5,21.6,32.4,13.5,22.4
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,6,14,48,16,228.6,100,-39.1,-12,6.1,11.3,10.4,20,12.2,13.9
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,13,3,9,32,10.7,225,125,-30.8,-16,4.3,5.4,15.1,14,9.7,11.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,27,18,31,96,32,3.8,19.2,14.8,-3,30.2,39.5,40.7,31.4,36,37.2
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,52,32,53,179,59.7,57.6,60.6,1.9,-11,42.9,72.7,92.2,67.5,68.8,77.5
-24,67000,Richmond and Port Richmond,Murder,27,60,76,47,14,33,183,61,74.1,22.2,-29.8,-46,40.3,89.6,113.4,70.1,49.3,91
-25,68000,Kensington and Harrowgate,Murder,41,42,52,49,20,36,143,47.7,19.5,-12.2,-26.5,-25,60.3,61.8,76.5,72.1,52.9,70.1
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,6,9,39,13,40,-10,-35.7,-31,17.5,24.6,19.3,24.6,15.8,22.8
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,26,44,123,41,29,41.9,10,7,22.3,29.5,30.2,28.8,31.7,29.5
+24,67000,Richmond and Port Richmond,Murder,27,60,76,47,15,34,183,61,74.1,25.9,-27.7,-44,40.3,89.6,113.4,70.1,50.7,91
+25,68000,Kensington and Harrowgate,Murder,41,42,52,48,20,36,142,47.3,17.1,-12.2,-25,-24,60.3,61.8,76.5,70.6,52.9,69.6
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,7,10,39,13,40,0,-28.6,-23,17.5,24.6,19.3,24.6,17.5,22.8
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,26,43,123,41,29,38.7,7.5,5,22.3,29.5,30.2,28.8,30.9,29.5
 77,0,Philadelphia airport,Murder,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,1,8,2.7,400,0,-80,-63,2.3,2.3,4.7,11.6,2.3,6.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,3,5,12,4,-16.7,-16.7,0,25,13,0,15.2,10.9,10.9,8.7
