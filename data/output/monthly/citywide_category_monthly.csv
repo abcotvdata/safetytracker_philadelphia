@@ -52,9 +52,9 @@ Aggravated Assault,2023-02-01,602,614
 Aggravated Assault,2023-03-01,648,624
 Aggravated Assault,2023-04-01,702,651
 Aggravated Assault,2023-05-01,834,728
-Aggravated Assault,2023-06-01,1316,951
-Aggravated Assault,2023-07-01,1601,1250
-Aggravated Assault,2023-08-01,239,1052
+Aggravated Assault,2023-06-01,727,754
+Aggravated Assault,2023-07-01,816,792
+Aggravated Assault,2023-08-01,248,597
 Burglary,2019-01-01,533,NA
 Burglary,2019-02-01,431,NA
 Burglary,2019-03-01,394,453
@@ -108,9 +108,9 @@ Burglary,2023-02-01,353,404
 Burglary,2023-03-01,449,408
 Burglary,2023-04-01,426,409
 Burglary,2023-05-01,454,443
-Burglary,2023-06-01,955,612
-Burglary,2023-07-01,1044,818
-Burglary,2023-08-01,143,714
+Burglary,2023-06-01,514,465
+Burglary,2023-07-01,531,500
+Burglary,2023-08-01,141,395
 Motor Vehicle Theft,2019-01-01,171,NA
 Motor Vehicle Theft,2019-02-01,105,NA
 Motor Vehicle Theft,2019-03-01,129,135
@@ -164,9 +164,9 @@ Motor Vehicle Theft,2023-02-01,1674,1694
 Motor Vehicle Theft,2023-03-01,1665,1698
 Motor Vehicle Theft,2023-04-01,1834,1724
 Motor Vehicle Theft,2023-05-01,2091,1863
-Motor Vehicle Theft,2023-06-01,4250,2725
-Motor Vehicle Theft,2023-07-01,5179,3840
-Motor Vehicle Theft,2023-08-01,731,3387
+Motor Vehicle Theft,2023-06-01,2299,2075
+Motor Vehicle Theft,2023-07-01,2604,2331
+Motor Vehicle Theft,2023-08-01,783,1895
 Murder,2019-01-01,26,NA
 Murder,2019-02-01,21,NA
 Murder,2019-03-01,32,26
@@ -222,7 +222,7 @@ Murder,2023-04-01,27,32
 Murder,2023-05-01,37,33
 Murder,2023-06-01,27,30
 Murder,2023-07-01,27,30
-Murder,2023-08-01,3,19
+Murder,2023-08-01,6,20
 Other,2019-01-01,7435,NA
 Other,2019-02-01,6681,NA
 Other,2019-03-01,7794,7303
@@ -276,9 +276,9 @@ Other,2023-02-01,5588,5721
 Other,2023-03-01,6537,6072
 Other,2023-04-01,6519,6215
 Other,2023-05-01,7064,6707
-Other,2023-06-01,12487,8690
-Other,2023-07-01,13131,10894
-Other,2023-08-01,1910,9176
+Other,2023-06-01,6759,6781
+Other,2023-07-01,6679,6834
+Other,2023-08-01,1906,5115
 Robbery,2019-01-01,412,NA
 Robbery,2019-02-01,369,NA
 Robbery,2019-03-01,428,403
@@ -332,9 +332,9 @@ Robbery,2023-02-01,376,428
 Robbery,2023-03-01,380,416
 Robbery,2023-04-01,390,382
 Robbery,2023-05-01,502,424
-Robbery,2023-06-01,850,581
-Robbery,2023-07-01,976,776
-Robbery,2023-08-01,141,656
+Robbery,2023-06-01,460,451
+Robbery,2023-07-01,490,484
+Robbery,2023-08-01,133,361
 Sexual Assault,2019-01-01,86,NA
 Sexual Assault,2019-02-01,64,NA
 Sexual Assault,2019-03-01,102,84
@@ -388,9 +388,9 @@ Sexual Assault,2023-02-01,43,45
 Sexual Assault,2023-03-01,59,51
 Sexual Assault,2023-04-01,54,52
 Sexual Assault,2023-05-01,46,53
-Sexual Assault,2023-06-01,74,58
-Sexual Assault,2023-07-01,77,66
-Sexual Assault,2023-08-01,8,53
+Sexual Assault,2023-06-01,41,47
+Sexual Assault,2023-07-01,41,43
+Sexual Assault,2023-08-01,8,30
 Theft,2019-01-01,2780,NA
 Theft,2019-02-01,2656,NA
 Theft,2019-03-01,2720,2719
@@ -444,6 +444,6 @@ Theft,2023-02-01,3547,3855
 Theft,2023-03-01,3973,3829
 Theft,2023-04-01,3775,3765
 Theft,2023-05-01,4376,4041
-Theft,2023-06-01,8069,5407
-Theft,2023-07-01,8961,7135
-Theft,2023-08-01,1269,6100
+Theft,2023-06-01,4320,4157
+Theft,2023-07-01,4505,4400
+Theft,2023-08-01,1328,3384
