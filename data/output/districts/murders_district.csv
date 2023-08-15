@@ -1,18 +1,18 @@
 district,population,placename,category,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,11,18,74,24.7,26.7,20,-5.3,-27,36.6,63.4,70.7,46.3,43.9,60.2
+16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,12,19,74,24.7,26.7,26.7,0,-23,36.6,63.4,70.7,46.3,46.3,60.2
 17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,6,6,8,33,11,20,60,33.3,-27,10,34,20,12,16,22
 18,80000,University City and Cobbs Creek,Murder,19,24,18,23,10,19,65,21.7,21.1,0,-17.4,-12,23.8,30,22.5,28.8,23.8,27.1
-35,100000,Olney and Logan,Murder,28,30,54,31,14,25,115,38.3,10.7,-10.7,-19.4,-35,28,30,54,31,25,38.3
+35,100000,Olney and Logan,Murder,28,30,54,31,15,25,115,38.3,10.7,-10.7,-19.4,-35,28,30,54,31,25,38.3
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,34,13,27,123,41,21.4,-3.6,-20.6,-34,45.9,70.5,75.4,55.7,44.3,67.2
-01,37000,Girard Estates and Navy Yard,Murder,9,5,8,12,2,5,25,8.3,33.3,-44.4,-58.3,-40,24.3,13.5,21.6,32.4,13.5,22.4
+01,37000,Girard Estates and Navy Yard,Murder,9,5,8,12,2,4,25,8.3,33.3,-55.6,-66.7,-52,24.3,13.5,21.6,32.4,10.8,22.4
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,8,16,48,16,228.6,128.6,-30.4,0,6.1,11.3,10.4,20,13.9,13.9
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,13,3,9,32,10.7,225,125,-30.8,-16,4.3,5.4,15.1,14,9.7,11.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,27,19,29,96,32,3.8,11.5,7.4,-9,30.2,39.5,40.7,31.4,33.7,37.2
-22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,52,33,53,179,59.7,57.6,60.6,1.9,-11,42.9,72.7,92.2,67.5,68.8,77.5
-24,67000,Richmond and Port Richmond,Murder,27,60,76,47,18,35,183,61,74.1,29.6,-25.5,-43,40.3,89.6,113.4,70.1,52.2,91
-25,68000,Kensington and Harrowgate,Murder,41,42,52,49,20,34,143,47.7,19.5,-17.1,-30.6,-29,60.3,61.8,76.5,72.1,50,70.1
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,7,9,39,13,40,-10,-35.7,-31,17.5,24.6,19.3,24.6,15.8,22.8
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,26,39,123,41,29,25.8,-2.5,-5,22.3,29.5,30.2,28.8,28.1,29.5
+22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,52,33,51,179,59.7,57.6,54.5,-1.9,-15,42.9,72.7,92.2,67.5,66.2,77.5
+24,67000,Richmond and Port Richmond,Murder,27,60,76,47,19,36,183,61,74.1,33.3,-23.4,-41,40.3,89.6,113.4,70.1,53.7,91
+25,68000,Kensington and Harrowgate,Murder,41,42,52,49,21,34,143,47.7,19.5,-17.1,-30.6,-29,60.3,61.8,76.5,72.1,50,70.1
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,8,10,39,13,40,0,-28.6,-23,17.5,24.6,19.3,24.6,17.5,22.8
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,26,38,123,41,29,22.6,-5,-7,22.3,29.5,30.2,28.8,27.3,29.5
 77,0,Philadelphia airport,Murder,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,1,8,2.7,400,0,-80,-63,2.3,2.3,4.7,11.6,2.3,6.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,3,4,12,4,-16.7,-33.3,-20,0,13,0,15.2,10.9,8.7,8.7
@@ -20,5 +20,5 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,2,3,18,6,100,50,-25,-50,2.1,4.1,10.3,4.1,3.1,6.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,5,17,5.7,133.3,66.7,-28.6,-12,4.5,6.1,9.1,10.6,7.6,8.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,35,15,29,111,37,20.7,0,-17.1,-22,40.3,59.7,45.8,48.6,40.3,51.4
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,34,8,20,91,30.3,30.8,-23.1,-41.2,-34,23.2,31.2,19.6,30.4,17.9,27.1
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,34,9,21,91,30.3,30.8,-19.2,-38.2,-31,23.2,31.2,19.6,30.4,18.8,27.1
 04,NA,NA,Murder,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
