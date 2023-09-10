@@ -1,5 +1,5 @@
 district,population,placename,category,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,15,20,74,24.7,26.7,33.3,5.3,-19,36.6,63.4,70.7,46.3,48.8,60.2
+16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,15,19,74,24.7,26.7,26.7,0,-23,36.6,63.4,70.7,46.3,46.3,60.2
 17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,6,8,10,33,11,20,100,66.7,-9,10,34,20,12,20,22
 18,80000,University City and Cobbs Creek,Murder,19,24,18,23,11,20,65,21.7,21.1,5.3,-13,-8,23.8,30,22.5,28.8,25,27.1
 35,100000,Olney and Logan,Murder,28,30,54,31,17,24,115,38.3,10.7,-14.3,-22.6,-37,28,30,54,31,24,38.3
@@ -9,8 +9,8 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,13,5,10,32,10.7,225,150,-23.1,-7,4.3,5.4,15.1,14,10.8,11.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,27,23,28,96,32,3.8,7.7,3.7,-12,30.2,39.5,40.7,31.4,32.6,37.2
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,52,34,49,179,59.7,57.6,48.5,-5.8,-18,42.9,72.7,92.2,67.5,63.6,77.5
-24,67000,Richmond and Port Richmond,Murder,27,60,76,47,20,33,183,61,74.1,22.2,-29.8,-46,40.3,89.6,113.4,70.1,49.3,91
-25,68000,Kensington and Harrowgate,Murder,41,42,52,48,23,33,142,47.3,17.1,-19.5,-31.2,-30,60.3,61.8,76.5,70.6,48.5,69.6
+24,67000,Richmond and Port Richmond,Murder,27,60,76,47,20,31,183,61,74.1,14.8,-34,-49,40.3,89.6,113.4,70.1,46.3,91
+25,68000,Kensington and Harrowgate,Murder,41,42,52,49,23,33,143,47.7,19.5,-19.5,-32.7,-31,60.3,61.8,76.5,72.1,48.5,70.1
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,9,11,39,13,40,10,-21.4,-15,17.5,24.6,19.3,24.6,19.3,22.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,27,38,123,41,29,22.6,-5,-7,22.3,29.5,30.2,28.8,27.3,29.5
 77,0,Philadelphia airport,Murder,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
