@@ -9,10 +9,10 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,13,5,10,32,10.7,225,150,-23.1,-7,4.3,5.4,15.1,14,10.8,11.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,27,25,29,96,32,3.8,11.5,7.4,-9,30.2,39.5,40.7,31.4,33.7,37.2
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,52,34,49,179,59.7,57.6,48.5,-5.8,-18,42.9,72.7,92.2,67.5,63.6,77.5
-24,67000,Richmond and Port Richmond,Murder,27,60,76,47,20,31,183,61,74.1,14.8,-34,-49,40.3,89.6,113.4,70.1,46.3,91
+24,67000,Richmond and Port Richmond,Murder,27,60,76,47,21,32,183,61,74.1,18.5,-31.9,-48,40.3,89.6,113.4,70.1,47.8,91
 25,68000,Kensington and Harrowgate,Murder,41,42,52,49,23,33,143,47.7,19.5,-19.5,-32.7,-31,60.3,61.8,76.5,72.1,48.5,70.1
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,10,12,39,13,40,20,-14.3,-8,17.5,24.6,19.3,24.6,21.1,22.8
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,27,37,123,41,29,19.4,-7.5,-10,22.3,29.5,30.2,28.8,26.6,29.5
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,40,28,38,123,41,29,22.6,-5,-7,22.3,29.5,30.2,28.8,27.3,29.5
 77,0,Philadelphia airport,Murder,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,1,8,2.7,400,0,-80,-63,2.3,2.3,4.7,11.6,2.3,6.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,4,5,12,4,-16.7,-16.7,0,25,13,0,15.2,10.9,10.9,8.7
