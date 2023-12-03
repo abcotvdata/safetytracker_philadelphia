@@ -18,7 +18,7 @@ library(sf)
 ```
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-![<popupchatter>Updated November 17, 2023 by the Action News Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_philadelphia/raw/main/docs/banner_6abc.jpg)
+![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the Action News Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_philadelphia/raw/main/docs/banner_6abc.jpg)
 
 ```{css, echo=FALSE}
 
