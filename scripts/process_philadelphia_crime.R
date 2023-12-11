@@ -46,6 +46,14 @@ philly_crime$type <- case_when(philly_crime$ucr_general == "100" ~ "Violent",
 
 # create separate table of crimes from the last full 12 months
 philly_crime_last12 <- philly_crime %>% filter(philly_crime$date > max(philly_crime$date)-365)
+
+# TEMP FIX FOR HOMICIDES: filter homicides out of crime data and pull last 12 months
+philly_murder <- philly_crime %>% filter(philly_crime$category = "Murder")
+philly_murder_last12 <- philly_murder %>% filter(philly_murder$date > max(philly_murder$date)-365)
+
+# TEMP FIX FOR HOMICIDES: remove homicides from original crimes over last 12 months & add it back in
+philly_crime_last12 <- philly_crime_last12 %>% filter(philly_crime_last12$category != "Murder")
+philly_crime_last12 <- rbind(philly_crime_last12,philly_murder_last12)
   
 ### CITYWIDE CRIME 
 ### TOTALS AND OUTPUT
