@@ -199,7 +199,7 @@ th {
 <div class="card" style="background-color:#99a0a5;">
 <p>Homicides<br>Last 12 months<br>
 <bignumber>`r prettyNum(murders_city$last12mos, big.mark=",")`<br></bignumber>
-Through December 4</p>
+`r format(asofdate, "%B %d")`</p>
 </div>
 <div class="card" style="background-color:#99a0a5;">
 <p>Average Homicides<br>2020 to 2022<br>
