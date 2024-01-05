@@ -12,10 +12,10 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 24,67000,Richmond and Port Richmond,Robbery,447,467,444,542,428,428,1453,484.3,21.3,-4.3,-21,-12,667.2,697,662.7,809,638.8,722.8
 25,68000,Kensington and Harrowgate,Robbery,559,420,468,500,413,413,1388,462.7,-10.6,-26.1,-17.4,-11,822.1,617.6,688.2,735.3,607.4,680.4
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Robbery,247,177,244,318,262,262,739,246.3,28.7,6.1,-17.6,6,433.3,310.5,428.1,557.9,459.6,432.1
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,461,460,460,1223,407.7,-13.8,-14,-0.2,13,384.9,278.4,269.8,331.7,330.9,293.3
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,461,461,461,1223,407.7,-13.8,-13.8,0,13,384.9,278.4,269.8,331.7,331.7,293.3
 77,0,Philadelphia airport,Robbery,2,2,4,3,9,9,9,3,50,350,200,200,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Robbery,26,25,33,45,35,35,103,34.3,73.1,34.6,-22.2,2,60.5,58.1,76.7,104.7,81.4,79.8
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,293,244,244,765,255,-0.7,-17.3,-16.7,-4,641.3,410.9,615.2,637,530.4,554.3
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Robbery,295,189,283,293,245,245,765,255,-0.7,-16.9,-16.4,-4,641.3,410.9,615.2,637,532.6,554.3
 07,95000,Somerton and Bustleton,Robbery,48,35,53,58,71,71,146,48.7,20.8,47.9,22.4,46,50.5,36.8,55.8,61.1,74.7,51.3
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Robbery,94,70,87,118,134,134,275,91.7,25.5,42.6,13.6,46,96.9,72.2,89.7,121.6,138.1,94.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,285,214,203,234,210,210,651,217,-17.9,-26.3,-10.3,-3,431.8,324.2,307.6,354.5,318.2,328.8
