@@ -35,7 +35,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,312,342,342,1147,382.3,-26.6,-19.5,9.6,-11,696.7,819.7,549.2,511.5,560.7,626.7
 39,61000,"East Falls, Tioga and Nicetown",Motor Vehicle Theft,103,117,475,612,1129,1129,1204,401.3,494.2,996.1,84.5,181,168.9,191.8,778.7,1003.3,1850.8,657.9
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,35,23,23,124,41.3,25,-17.9,-34.3,-44,45.9,70.5,75.4,57.4,37.7,67.7
-39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4274,4643,4642,13091,4363.7,-25.9,-19.5,8.6,6,9454.1,7183.6,7270.5,7006.6,7609.8,7153.6
+39,61000,"East Falls, Tioga and Nicetown",Other,5767,4382,4435,4274,4645,4644,13091,4363.7,-25.9,-19.5,8.7,6,9454.1,7183.6,7270.5,7006.6,7613.1,7153.6
 39,61000,"East Falls, Tioga and Nicetown",Robbery,289,269,269,314,286,285,852,284,8.7,-1.4,-9.2,0,473.8,441,441,514.8,467.2,465.6
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,38,47,47,138,46,-39.7,-25.4,23.7,2,103.3,68.9,95.1,62.3,77,75.4
 39,61000,"East Falls, Tioga and Nicetown",Theft,1677,1451,1577,1844,2406,2405,4872,1624,10,43.4,30.4,48,2749.2,2378.7,2585.2,3023,3942.6,2662.3
@@ -47,7 +47,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 01,37000,Girard Estates and Navy Yard,Robbery,98,85,79,143,97,97,307,102.3,45.9,-1,-32.2,-5,264.9,229.7,213.5,386.5,262.2,276.5
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,6,6,6,19,6.3,-66.7,-66.7,0,-5,48.6,24.3,10.8,16.2,16.2,17
 01,37000,Girard Estates and Navy Yard,Theft,733,648,735,1318,1250,1250,2701,900.3,79.8,70.5,-5.2,39,1981.1,1751.4,1986.5,3562.2,3378.4,2433.2
-02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,297,373,373,990,330,1.7,27.7,25.6,13,253.9,306.1,296.5,258.3,324.3,287
+02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,297,374,374,990,330,1.7,28.1,25.9,13,253.9,306.1,296.5,258.3,325.2,287
 02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,215,234,234,759,253,-1.8,6.8,8.8,-8,190.4,273,200,187,203.5,220
 02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,851,1556,1555,1378,459.3,805.3,1554.3,82.7,239,81.7,82.6,375.7,740,1352.2,399.4
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,18,18,48,16,228.6,157.1,-21.7,12,6.1,11.3,10.4,20,15.7,13.9
@@ -72,10 +72,10 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,34,126,42,-49.3,-52.1,-5.6,-19,82.6,53.5,51.2,41.9,39.5,48.8
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2074,2175,2174,5218,1739.3,19.6,25.4,4.8,25,2016.3,1766.3,1889.5,2411.6,2527.9,2022.4
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,746,738,738,2403,801,4.8,3.7,-1.1,-8,924.7,1068.8,1083.1,968.8,958.4,1040.3
-22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,570,671,671,1838,612.7,-10.8,5,17.7,10,829.9,916.9,729.9,740.3,871.4,795.7
+22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,570,672,672,1838,612.7,-10.8,5.2,17.9,10,829.9,916.9,729.9,740.3,872.7,795.7
 22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,983,1600,1600,1778,592.7,810.2,1381.5,62.8,170,140.3,239,793.5,1276.6,2077.9,769.7
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,47,47,182,60.7,66.7,42.4,-14.5,-23,42.9,72.7,92.2,71.4,61,78.8
-22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5105,5484,5482,15471,5157,-21.6,-15.8,7.4,6,8454.5,6553.2,6909.1,6629.9,7119.5,6697.4
+22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5105,5487,5485,15471,5157,-21.6,-15.7,7.4,6,8454.5,6553.2,6909.1,6629.9,7123.4,6697.4
 22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,488,409,409,1225,408.3,5.6,-11.5,-16.2,0,600,476.6,480.5,633.8,531.2,530.3
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,58,42,42,206,68.7,-31.8,-50.6,-27.6,-39,110.4,90.9,101.3,75.3,54.5,89.2
 22,77000,Strawberry Mansion and Stanton,Theft,2412,1979,2287,2930,3096,3096,7196,2398.7,21.5,28.4,5.7,29,3132.5,2570.1,2970.1,3805.2,4020.8,3115.2
@@ -91,16 +91,16 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 25,68000,Kensington and Harrowgate,Burglary,293,397,219,239,310,310,855,285,-18.4,5.8,29.7,9,430.9,583.8,322.1,351.5,455.9,419.1
 25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,656,916,916,1406,468.7,404.6,604.6,39.6,95,191.2,310.3,792.6,964.7,1347.1,689.3
 25,68000,Kensington and Harrowgate,Murder,41,42,52,54,42,42,148,49.3,31.7,2.4,-22.2,-15,60.3,61.8,76.5,79.4,61.8,72.5
-25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4775,6263,6261,14119,4706.3,-23.2,0.8,31.1,33,9138.2,7264.7,6476.5,7022.1,9207.4,6921
+25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4775,6264,6262,14119,4706.3,-23.2,0.8,31.1,33,9138.2,7264.7,6476.5,7022.1,9208.8,6921
 25,68000,Kensington and Harrowgate,Robbery,559,420,468,500,413,413,1388,462.7,-10.6,-26.1,-17.4,-11,822.1,617.6,688.2,735.3,607.4,680.4
 25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,49,49,201,67,-30.9,-27.9,4.3,-27,100,117.6,108.8,69.1,72.1,98.5
-25,68000,Kensington and Harrowgate,Theft,1481,1505,1391,1597,1428,1427,4493,1497.7,7.8,-3.6,-10.6,-5,2177.9,2213.2,2045.6,2348.5,2098.5,2202.5
+25,68000,Kensington and Harrowgate,Theft,1481,1505,1391,1597,1429,1428,4493,1497.7,7.8,-3.6,-10.6,-5,2177.9,2213.2,2045.6,2348.5,2100,2202.5
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Aggravated Assault,268,307,323,302,294,294,932,310.7,12.7,9.7,-2.6,-5,470.2,538.6,566.7,529.8,515.8,545.1
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,533,406,406,1312,437.3,32.9,1.2,-23.8,-7,703.5,691.2,675.4,935.1,712.3,767.2
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,105,164,424,703,1664,1664,1291,430.3,569.5,1484.8,136.7,287,184.2,287.7,743.9,1233.3,2919.3,754.9
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,20,20,39,13,40,100,42.9,54,17.5,24.6,19.3,24.6,35.1,22.8
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Other,2759,2460,2328,2412,2484,2484,7200,2400,-12.6,-10,3,3,4840.4,4315.8,4084.2,4231.6,4357.9,4210.5
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Robbery,247,177,244,318,262,262,739,246.3,28.7,6.1,-17.6,6,433.3,310.5,428.1,557.9,459.6,432.1
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Other,2759,2460,2328,2412,2485,2485,7200,2400,-12.6,-9.9,3,4,4840.4,4315.8,4084.2,4231.6,4359.6,4210.5
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Robbery,247,177,244,318,263,263,739,246.3,28.7,6.5,-17.3,7,433.3,310.5,428.1,557.9,461.4,432.1
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Sexual Assault,41,26,24,24,16,16,74,24.7,-41.5,-61,-33.3,-35,71.9,45.6,42.1,42.1,28.1,43.3
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Theft,1878,1840,2071,2588,2960,2959,6499,2166.3,37.8,57.6,14.3,37,3294.7,3228.1,3633.3,4540.4,5191.2,3800.5
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,625,651,655,639,591,591,1945,648.3,2.2,-5.4,-7.5,-9,449.6,468.3,471.2,459.7,425.2,466.4
