@@ -54,7 +54,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 02,115000,Oxford Circle and Lawncrest,Other,3589,3118,3278,3308,3590,3590,9704,3234.7,-7.8,0,8.5,11,3120.9,2711.3,2850.4,2876.5,3121.7,2812.8
 02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,397,414,413,942,314,63.4,70,4,32,211.3,198.3,275.7,345.2,359.1,273
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,42,25,25,126,42,-26.3,-56.1,-40.5,-40,49.6,46.1,27,36.5,21.7,36.5
-02,115000,Oxford Circle and Lawncrest,Theft,2128,1817,2104,2894,3070,3068,6815,2271.7,36,44.2,6,35,1850.4,1580,1829.6,2516.5,2667.8,1975.4
+02,115000,Oxford Circle and Lawncrest,Theft,2128,1817,2104,2894,3071,3069,6815,2271.7,36,44.2,6,35,1850.4,1580,1829.6,2516.5,2668.7,1975.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,242,265,265,704,234.7,-6.9,1.9,9.5,13,279.6,241.9,254.8,260.2,284.9,252.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,251,222,222,705,235,-18,-27.5,-11.6,-6,329,259.1,229,269.9,238.7,252.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,405,882,882,768,256,495.6,1197.1,117.8,245,73.1,86,304.3,435.5,948.4,275.3
@@ -67,7 +67,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,312,303,302,1073,357.7,-16.8,-19.5,-3.2,-16,436,524.4,360.5,362.8,351.2,415.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,681,1180,1180,1248,416,467.5,883.3,73.3,184,139.5,160.5,498.8,791.9,1372.1,483.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,35,35,99,33,15.4,34.6,16.7,6,30.2,39.5,40.7,34.9,40.7,38.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4713,5296,5294,15027,5009,-37.7,-30,12.3,6,8795.3,6075.6,5917.4,5480.2,6155.8,5824.4
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4713,5297,5295,15027,5009,-37.7,-30,12.3,6,8795.3,6075.6,5917.4,5480.2,6157,5824.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,242,236,236,724,241.3,-20.4,-22.4,-2.5,-2,353.5,279.1,281.4,281.4,274.4,280.6
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,34,126,42,-49.3,-52.1,-5.6,-19,82.6,53.5,51.2,41.9,39.5,48.8
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2074,2175,2174,5218,1739.3,19.6,25.4,4.8,25,2016.3,1766.3,1889.5,2411.6,2527.9,2022.4
@@ -75,7 +75,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,570,672,672,1838,612.7,-10.8,5.2,17.9,10,829.9,916.9,729.9,740.3,872.7,795.7
 22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,108,184,611,983,1600,1600,1778,592.7,810.2,1381.5,62.8,170,140.3,239,793.5,1276.6,2077.9,769.7
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,47,47,182,60.7,66.7,42.4,-14.5,-23,42.9,72.7,92.2,71.4,61,78.8
-22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5105,5487,5485,15471,5157,-21.6,-15.7,7.4,6,8454.5,6553.2,6909.1,6629.9,7123.4,6697.4
+22,77000,Strawberry Mansion and Stanton,Other,6510,5046,5320,5105,5491,5489,15471,5157,-21.6,-15.7,7.5,6,8454.5,6553.2,6909.1,6629.9,7128.6,6697.4
 22,77000,Strawberry Mansion and Stanton,Robbery,462,367,370,488,409,409,1225,408.3,5.6,-11.5,-16.2,0,600,476.6,480.5,633.8,531.2,530.3
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,58,42,42,206,68.7,-31.8,-50.6,-27.6,-39,110.4,90.9,101.3,75.3,54.5,89.2
 22,77000,Strawberry Mansion and Stanton,Theft,2412,1979,2287,2930,3096,3096,7196,2398.7,21.5,28.4,5.7,29,3132.5,2570.1,2970.1,3805.2,4020.8,3115.2

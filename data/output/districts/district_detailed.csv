@@ -202,7 +202,7 @@ district,population,placename,category,description,total19,total20,total21,total
 02,115000,Oxford Circle and Lawncrest,Robbery,Robbery No Firearm,138,111,128,165,167,166,404,134.7,19.6,20.3,0.6,23,120,96.5,111.3,143.5,144.3,117.1
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,Rape,57,53,31,42,25,25,126,42,-26.3,-56.1,-40.5,-40,49.6,46.1,27,36.5,21.7,36.5
 02,115000,Oxford Circle and Lawncrest,Theft,Theft from Vehicle,820,712,645,820,769,769,2177,725.7,0,-6.2,-6.2,6,713,619.1,560.9,713,668.7,631
-02,115000,Oxford Circle and Lawncrest,Theft,Thefts,1308,1105,1459,2074,2301,2299,4638,1546,58.6,75.8,10.8,49,1137.4,960.9,1268.7,1803.5,1999.1,1344.3
+02,115000,Oxford Circle and Lawncrest,Theft,Thefts,1308,1105,1459,2074,2302,2300,4638,1546,58.6,75.8,10.9,49,1137.4,960.9,1268.7,1803.5,2000,1344.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,Aggravated Assault Firearm,73,60,62,68,71,71,190,63.3,-6.8,-2.7,4.4,12,78.5,64.5,66.7,73.1,76.3,68.1
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,Aggravated Assault No Firearm,187,165,175,174,194,194,514,171.3,-7,3.7,11.5,13,201.1,177.4,188.2,187.1,208.6,184.2
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,Burglary Non-Residential,115,119,106,134,119,119,359,119.7,16.5,3.5,-11.2,-1,123.7,128,114,144.1,128,128.7
@@ -249,7 +249,7 @@ district,population,placename,category,description,total19,total20,total21,total
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Liquor Law Violations,10,2,10,6,4,4,18,6,-40,-60,-33.3,-33,11.6,2.3,11.6,7,4.7,7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Narcotic / Drug Law Violations,625,273,110,142,95,95,525,175,-77.3,-84.8,-33.1,-46,726.7,317.4,127.9,165.1,110.5,203.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Offenses Against Family and Children,19,15,10,7,4,4,32,10.7,-63.2,-78.9,-42.9,-63,22.1,17.4,11.6,8.1,4.7,12.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Assaults,2023,1938,2026,2133,2365,2364,6097,2032.3,5.4,16.9,10.8,16,2352.3,2253.5,2355.8,2480.2,2748.8,2363.1
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Assaults,2023,1938,2026,2133,2366,2365,6097,2032.3,5.4,16.9,10.9,16,2352.3,2253.5,2355.8,2480.2,2750,2363.1
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Sex Offenses (Not Commercialized),61,36,36,42,53,53,114,38,-31.1,-13.1,26.2,39,70.9,41.9,41.9,48.8,61.6,44.2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Prostitution and Commercialized Vice,2,0,1,2,4,4,3,1,0,100,100,300,2.3,0,1.2,2.3,4.7,1.2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Public Drunkenness,0,0,5,1,1,1,6,2,NA,NA,0,-50,0,0,5.8,1.2,1.2,2.3
@@ -278,14 +278,14 @@ district,population,placename,category,description,total19,total20,total21,total
 22,77000,Strawberry Mansion and Stanton,Other,Fraud,633,458,444,264,404,404,1166,388.7,-58.3,-36.2,53,4,822.1,594.8,576.6,342.9,524.7,504.8
 22,77000,Strawberry Mansion and Stanton,Other,Gambling Violations,47,5,0,0,0,0,5,1.7,-100,-100,NA,-100,61,6.5,0,0,0,2.2
 22,77000,Strawberry Mansion and Stanton,Other,Liquor Law Violations,6,5,7,3,3,3,15,5,-50,-50,0,-40,7.8,6.5,9.1,3.9,3.9,6.5
-22,77000,Strawberry Mansion and Stanton,Other,Narcotic / Drug Law Violations,582,316,147,190,203,203,653,217.7,-67.4,-65.1,6.8,-7,755.8,410.4,190.9,246.8,263.6,282.7
+22,77000,Strawberry Mansion and Stanton,Other,Narcotic / Drug Law Violations,582,316,147,190,204,204,653,217.7,-67.4,-64.9,7.4,-6,755.8,410.4,190.9,246.8,264.9,282.7
 22,77000,Strawberry Mansion and Stanton,Other,Offenses Against Family and Children,5,9,11,3,8,8,23,7.7,-40,60,166.7,4,6.5,11.7,14.3,3.9,10.4,10
-22,77000,Strawberry Mansion and Stanton,Other,Other Assaults,1957,1784,2180,2110,2343,2341,6074,2024.7,7.8,19.6,10.9,16,2541.6,2316.9,2831.2,2740.3,3040.3,2629.5
+22,77000,Strawberry Mansion and Stanton,Other,Other Assaults,1957,1784,2180,2110,2345,2343,6074,2024.7,7.8,19.7,11,16,2541.6,2316.9,2831.2,2740.3,3042.9,2629.5
 22,77000,Strawberry Mansion and Stanton,Other,Other Sex Offenses (Not Commercialized),54,48,75,64,73,73,187,62.3,18.5,35.2,14.1,17,70.1,62.3,97.4,83.1,94.8,80.9
 22,77000,Strawberry Mansion and Stanton,Other,Prostitution and Commercialized Vice,3,1,1,1,0,0,3,1,-66.7,-100,-100,-100,3.9,1.3,1.3,1.3,0,1.3
 22,77000,Strawberry Mansion and Stanton,Other,Public Drunkenness,23,1,0,4,2,2,5,1.7,-82.6,-91.3,-50,18,29.9,1.3,0,5.2,2.6,2.2
 22,77000,Strawberry Mansion and Stanton,Other,Receiving Stolen Property,0,1,21,52,83,83,74,24.7,NA,NA,59.6,236,0,1.3,27.3,67.5,107.8,32.1
-22,77000,Strawberry Mansion and Stanton,Other,Vandalism/Criminal Mischief,1275,1184,1258,1328,1254,1254,3770,1256.7,4.2,-1.6,-5.6,-0,1655.8,1537.7,1633.8,1724.7,1628.6,1632.1
+22,77000,Strawberry Mansion and Stanton,Other,Vandalism/Criminal Mischief,1275,1184,1258,1328,1255,1255,3770,1256.7,4.2,-1.6,-5.5,-0,1655.8,1537.7,1633.8,1724.7,1629.9,1632.1
 22,77000,Strawberry Mansion and Stanton,Other,Weapon Violations,196,294,287,262,237,237,843,281,33.7,20.9,-9.5,-16,254.5,381.8,372.7,340.3,307.8,364.9
 22,77000,Strawberry Mansion and Stanton,Robbery,Robbery Firearm,208,147,193,264,226,226,604,201.3,26.9,8.7,-14.4,12,270.1,190.9,250.6,342.9,293.5,261.4
 22,77000,Strawberry Mansion and Stanton,Robbery,Robbery No Firearm,254,220,177,224,183,183,621,207,-11.8,-28,-18.3,-12,329.9,285.7,229.9,290.9,237.7,268.8
