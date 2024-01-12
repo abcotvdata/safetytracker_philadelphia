@@ -21,3 +21,4 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,308,367,309,291,277,277,967,322.3,-5.5,-10.1,-4.8,-14,466.7,556.1,468.2,440.9,419.7,488.3
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,332,356,356,988,329.3,-8.8,-2.2,7.2,8,505.6,554.2,356.9,461.1,494.4,457.4
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,288,396,243,273,294,294,912,304,-5.2,2.1,7.7,-3,257.1,353.6,217,243.8,262.5,271.4
+04,NA,NA,Burglary,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
