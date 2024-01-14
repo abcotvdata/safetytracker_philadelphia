@@ -8,8 +8,8 @@ district,population,placename,type,total19,total20,total21,total22,total23,last1
 02,115000,Oxford Circle and Lawncrest,Violent,599,646,701,759,831,830,2106,702,26.7,38.6,9.4,18,520.9,561.7,609.6,660,721.7,610.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Violent,554,418,479,513,526,526,1410,470,-7.4,-5.1,2.5,12,595.7,449.5,515.1,551.6,565.6,505.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Violent,985,1041,975,876,955,955,2892,964,-11.1,-3,9,-1,1145.3,1210.5,1133.7,1018.6,1110.5,1120.9
-22,77000,Strawberry Mansion and Stanton,Violent,1292,1316,1353,1347,1238,1238,4016,1338.7,4.3,-4.2,-8.1,-8,1677.9,1709.1,1757.1,1749.4,1607.8,1738.6
-24,67000,Richmond and Port Richmond,Violent,1226,1423,1291,1307,1083,1083,4021,1340.3,6.6,-11.7,-17.1,-19,1829.9,2123.9,1926.9,1950.7,1616.4,2000.4
+22,77000,Strawberry Mansion and Stanton,Violent,1292,1316,1353,1347,1240,1240,4016,1338.7,4.3,-4,-7.9,-7,1677.9,1709.1,1757.1,1749.4,1610.4,1738.6
+24,67000,Richmond and Port Richmond,Violent,1226,1423,1291,1307,1084,1084,4021,1340.3,6.6,-11.6,-17.1,-19,1829.9,2123.9,1926.9,1950.7,1617.9,2000.4
 25,68000,Kensington and Harrowgate,Violent,1405,1447,1415,1385,1314,1313,4247,1415.7,-1.4,-6.5,-5.2,-7,2066.2,2127.9,2080.9,2036.8,1930.9,2081.9
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Violent,566,524,602,658,593,593,1784,594.7,16.3,4.8,-9.9,-0,993,919.3,1056.1,1154.4,1040.4,1043.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Violent,1283,1169,1125,1188,1133,1133,3482,1160.7,-7.4,-11.7,-4.6,-2,923,841,809.4,854.7,815.1,835
@@ -19,6 +19,6 @@ district,population,placename,type,total19,total20,total21,total22,total23,last1
 07,95000,Somerton and Bustleton,Violent,148,130,164,147,219,219,441,147,-0.7,48,49,49,155.8,136.8,172.6,154.7,230.5,154.7
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Violent,295,313,353,363,441,441,1029,343,23.1,49.5,21.5,29,304.1,322.7,363.9,374.2,454.6,353.6
 09,66000,"Center City West, Logan Circle and North Philadelphia",Violent,495,394,430,456,407,407,1280,426.7,-7.9,-17.8,-10.7,-5,750,597,651.5,690.9,616.7,646.5
-12,72000,"Kingsessing, Eastwick and Elmwood",Violent,892,1104,888,827,871,871,2819,939.7,-7.3,-2.4,5.3,-7,1238.9,1533.3,1233.3,1148.6,1209.7,1305.1
+12,72000,"Kingsessing, Eastwick and Elmwood",Violent,892,1104,888,827,872,872,2819,939.7,-7.3,-2.2,5.4,-7,1238.9,1533.3,1233.3,1148.6,1211.1,1305.1
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Violent,715,800,695,758,668,668,2253,751,6,-6.6,-11.9,-11,638.4,714.3,620.5,676.8,596.4,670.5
 04,NA,NA,Violent,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
