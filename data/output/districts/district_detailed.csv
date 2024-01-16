@@ -340,7 +340,7 @@ district,population,placename,category,description,total19,total20,total21,total
 25,68000,Kensington and Harrowgate,Other,Liquor Law Violations,11,4,10,12,10,10,26,8.7,9.1,-9.1,-16.7,15,16.2,5.9,14.7,17.6,14.7,12.8
 25,68000,Kensington and Harrowgate,Other,Narcotic / Drug Law Violations,1151,598,392,447,420,420,1437,479,-61.2,-63.5,-6,-12,1692.6,879.4,576.5,657.4,617.6,704.4
 25,68000,Kensington and Harrowgate,Other,Offenses Against Family and Children,2,9,5,6,6,6,20,6.7,200,200,0,-10,2.9,13.2,7.4,8.8,8.8,9.9
-25,68000,Kensington and Harrowgate,Other,Other Assaults,1597,1497,1514,1590,1624,1623,4601,1533.7,-0.4,1.6,2.1,6,2348.5,2201.5,2226.5,2338.2,2386.8,2255.4
+25,68000,Kensington and Harrowgate,Other,Other Assaults,1597,1497,1514,1590,1626,1625,4601,1533.7,-0.4,1.8,2.2,6,2348.5,2201.5,2226.5,2338.2,2389.7,2255.4
 25,68000,Kensington and Harrowgate,Other,Other Sex Offenses (Not Commercialized),75,53,86,260,376,376,399,133,246.7,401.3,44.6,183,110.3,77.9,126.5,382.4,552.9,195.6
 25,68000,Kensington and Harrowgate,Other,Prostitution and Commercialized Vice,117,26,9,42,34,34,77,25.7,-64.1,-70.9,-19,32,172.1,38.2,13.2,61.8,50,37.8
 25,68000,Kensington and Harrowgate,Other,Public Drunkenness,4,1,1,7,0,0,9,3,75,-100,-100,-100,5.9,1.5,1.5,10.3,0,4.4
@@ -567,7 +567,7 @@ district,population,placename,category,description,total19,total20,total21,total
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Liquor Law Violations,0,0,0,1,1,1,1,0.3,NA,NA,0,233,0,0,0,1.5,1.5,0.5
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Narcotic / Drug Law Violations,404,222,33,32,36,36,287,95.7,-92.1,-91.1,12.5,-62,612.1,336.4,50,48.5,54.5,145
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Offenses Against Family and Children,2,1,2,1,2,2,4,1.3,-50,0,100,54,3,1.5,3,1.5,3,2
-09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Other Assaults,921,593,649,897,793,792,2139,713,-2.6,-14,-11.7,11,1395.5,898.5,983.3,1359.1,1200,1080.3
+09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Other Assaults,921,593,649,897,794,793,2139,713,-2.6,-13.9,-11.6,11,1395.5,898.5,983.3,1359.1,1201.5,1080.3
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Other Sex Offenses (Not Commercialized),56,44,37,52,39,39,133,44.3,-7.1,-30.4,-25,-12,84.8,66.7,56.1,78.8,59.1,67.1
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Prostitution and Commercialized Vice,4,0,0,2,0,0,2,0.7,-50,-100,-100,-100,6.1,0,0,3,0,1.1
 09,66000,"Center City West, Logan Circle and North Philadelphia",Other,Public Drunkenness,9,2,4,7,1,1,13,4.3,-22.2,-88.9,-85.7,-77,13.6,3,6.1,10.6,1.5,6.5
@@ -579,7 +579,7 @@ district,population,placename,category,description,total19,total20,total21,total
 09,66000,"Center City West, Logan Circle and North Philadelphia",Robbery,Robbery No Firearm,244,181,143,159,144,144,483,161,-34.8,-41,-9.4,-11,369.7,274.2,216.7,240.9,218.2,243.9
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,Rape,23,20,21,17,14,14,58,19.3,-26.1,-39.1,-17.6,-27,34.8,30.3,31.8,25.8,21.2,29.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,Theft from Vehicle,579,609,624,854,583,583,2087,695.7,47.5,0.7,-31.7,-16,877.3,922.7,945.5,1293.9,883.3,1054.1
-09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,Thefts,2847,1974,2105,2446,2842,2842,6525,2175,-14.1,-0.2,16.2,31,4313.6,2990.9,3189.4,3706.1,4306.1,3295.5
+09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,Thefts,2847,1974,2105,2446,2843,2843,6525,2175,-14.1,-0.1,16.2,31,4313.6,2990.9,3189.4,3706.1,4307.6,3295.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,Aggravated Assault Firearm,182,350,273,227,223,223,850,283.3,24.7,22.5,-1.8,-21,252.8,486.1,379.2,315.3,309.7,393.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,Aggravated Assault No Firearm,353,384,285,254,343,343,923,307.7,-28,-2.8,35,11,490.3,533.3,395.8,352.8,476.4,427.4
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,Burglary Non-Residential,76,186,53,79,76,76,318,106,3.9,0,-3.8,-28,105.6,258.3,73.6,109.7,105.6,147.2

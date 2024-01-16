@@ -18,7 +18,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Theft,3423,2615,2807,3599,3283,3282,9021,3007,5.1,-4.1,-8.8,9,7441.3,5684.8,6102.2,7823.9,7134.8,6537
 07,95000,Somerton and Bustleton,Theft,758,886,1059,1681,1660,1660,3626,1208.7,121.8,119,-1.2,37,797.9,932.6,1114.7,1769.5,1747.4,1272.3
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Theft,1383,1217,1490,2367,2963,2963,5074,1691.3,71.1,114.2,25.2,75,1425.8,1254.6,1536.1,2440.2,3054.6,1743.6
-09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,3426,2583,2729,3300,3425,3425,8612,2870.7,-3.7,-0,3.8,19,5190.9,3913.6,4134.8,5000,5189.4,4349.5
+09,66000,"Center City West, Logan Circle and North Philadelphia",Theft,3426,2583,2729,3300,3426,3426,8612,2870.7,-3.7,0,3.8,19,5190.9,3913.6,4134.8,5000,5190.9,4349.5
 12,72000,"Kingsessing, Eastwick and Elmwood",Theft,1432,1470,1668,1860,1831,1831,4998,1666,29.9,27.9,-1.6,10,1988.9,2041.7,2316.7,2583.3,2543.1,2313.9
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Theft,1784,1754,1769,2082,2493,2491,5605,1868.3,16.7,39.6,19.6,33,1592.9,1566.1,1579.5,1858.9,2224.1,1668.1
 04,NA,NA,Theft,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
