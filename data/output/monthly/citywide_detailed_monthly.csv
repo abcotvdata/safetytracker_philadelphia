@@ -354,7 +354,7 @@ Murder,Homicide - Criminal,2023-04-01,28,33
 Murder,Homicide - Criminal,2023-05-01,43,35
 Murder,Homicide - Criminal,2023-06-01,34,35
 Murder,Homicide - Criminal,2023-07-01,36,38
-Murder,Homicide - Criminal,2023-08-01,45,38
+Murder,Homicide - Criminal,2023-08-01,44,38
 Murder,Homicide - Criminal,2023-09-01,37,39
 Murder,Homicide - Criminal,2023-10-01,29,37
 Murder,Homicide - Criminal,2023-11-01,25,30
@@ -365,6 +365,7 @@ Murder,Homicide - Justifiable,2022-06-01,1,NA
 Murder,Homicide - Justifiable,2022-11-01,1,1
 Murder,Homicide - Justifiable,2023-02-01,1,1
 Murder,Homicide - Justifiable,2023-03-01,2,1
+Murder,Homicide - Justifiable,2023-08-01,1,1
 Other,All Other Offenses,2019-01-01,1735,NA
 Other,All Other Offenses,2019-02-01,1529,NA
 Other,All Other Offenses,2019-03-01,2082,1782

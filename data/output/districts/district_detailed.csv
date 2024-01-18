@@ -471,7 +471,8 @@ district,population,placename,category,description,total19,total20,total21,total
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,Burglary Non-Residential,171,230,180,241,155,155,651,217,40.9,-9.4,-35.7,-29,371.7,500,391.3,523.9,337,471.7
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,Burglary Residential,132,100,102,130,114,114,332,110.7,-1.5,-13.6,-12.3,3,287,217.4,221.7,282.6,247.8,240.7
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Motor Vehicle Theft,Motor Vehicle Theft,45,61,228,263,557,557,552,184,484.4,1137.8,111.8,203,97.8,132.6,495.7,571.7,1210.9,400
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,Homicide - Criminal,6,0,7,5,7,7,12,4,-16.7,16.7,40,75,13,0,15.2,10.9,15.2,8.7
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,Homicide - Criminal,6,0,7,5,6,6,12,4,-16.7,0,20,50,13,0,15.2,10.9,13,8.7
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,Homicide - Justifiable,0,0,0,0,1,1,0,0,NA,NA,NA,NA,0,0,0,0,2.2,0
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,All Other Offenses,1502,688,417,630,474,474,1735,578.3,-58.1,-68.4,-24.8,-18,3265.2,1495.7,906.5,1369.6,1030.4,1257.2
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,Arson,10,14,23,22,22,22,59,19.7,120,120,0,12,21.7,30.4,50,47.8,47.8,42.8
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Other,DRIVING UNDER THE INFLUENCE,62,38,33,30,36,36,101,33.7,-51.6,-41.9,20,7,134.8,82.6,71.7,65.2,78.3,73.3
