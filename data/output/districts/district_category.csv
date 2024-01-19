@@ -46,7 +46,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 01,37000,Girard Estates and Navy Yard,Other,1479,1029,1193,1253,1364,1363,3475,1158.3,-15.3,-7.8,8.8,18,3997.3,2781.1,3224.3,3386.5,3683.8,3130.5
 01,37000,Girard Estates and Navy Yard,Robbery,98,85,79,143,97,97,307,102.3,45.9,-1,-32.2,-5,264.9,229.7,213.5,386.5,262.2,276.5
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,6,6,6,19,6.3,-66.7,-66.7,0,-5,48.6,24.3,10.8,16.2,16.2,17
-01,37000,Girard Estates and Navy Yard,Theft,733,648,735,1318,1252,1252,2701,900.3,79.8,70.8,-5,39,1981.1,1751.4,1986.5,3562.2,3383.8,2433.2
+01,37000,Girard Estates and Navy Yard,Theft,733,648,735,1318,1253,1253,2701,900.3,79.8,70.9,-4.9,39,1981.1,1751.4,1986.5,3562.2,3386.5,2433.2
 02,115000,Oxford Circle and Lawncrest,Aggravated Assault,292,352,341,297,374,374,990,330,1.7,28.1,25.9,13,253.9,306.1,296.5,258.3,325.2,287
 02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,215,234,234,759,253,-1.8,6.8,8.8,-8,190.4,273,200,187,203.5,220
 02,115000,Oxford Circle and Lawncrest,Motor Vehicle Theft,94,95,432,851,1556,1555,1378,459.3,805.3,1554.3,82.7,239,81.7,82.6,375.7,740,1352.2,399.4
@@ -99,7 +99,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,533,406,406,1312,437.3,32.9,1.2,-23.8,-7,703.5,691.2,675.4,935.1,712.3,767.2
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Motor Vehicle Theft,105,164,424,703,1664,1664,1291,430.3,569.5,1484.8,136.7,287,184.2,287.7,743.9,1233.3,2919.3,754.9
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,20,20,39,13,40,100,42.9,54,17.5,24.6,19.3,24.6,35.1,22.8
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Other,2759,2460,2328,2412,2485,2485,7200,2400,-12.6,-9.9,3,4,4840.4,4315.8,4084.2,4231.6,4359.6,4210.5
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Other,2759,2460,2328,2412,2486,2486,7200,2400,-12.6,-9.9,3.1,4,4840.4,4315.8,4084.2,4231.6,4361.4,4210.5
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Robbery,247,177,244,318,263,263,739,246.3,28.7,6.5,-17.3,7,433.3,310.5,428.1,557.9,461.4,432.1
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Sexual Assault,41,26,24,24,16,16,74,24.7,-41.5,-61,-33.3,-35,71.9,45.6,42.1,42.1,28.1,43.3
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Theft,1878,1840,2071,2588,2960,2959,6499,2166.3,37.8,57.6,14.3,37,3294.7,3228.1,3633.3,4540.4,5191.2,3800.5
