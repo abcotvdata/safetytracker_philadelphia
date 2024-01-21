@@ -55,7 +55,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 02,115000,Oxford Circle and Lawncrest,Robbery,243,228,317,397,414,413,942,314,63.4,70,4,32,211.3,198.3,275.7,345.2,359.1,273
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,42,25,25,126,42,-26.3,-56.1,-40.5,-40,49.6,46.1,27,36.5,21.7,36.5
 02,115000,Oxford Circle and Lawncrest,Theft,2128,1817,2104,2894,3072,3070,6815,2271.7,36,44.3,6.1,35,1850.4,1580,1829.6,2516.5,2669.6,1975.4
-03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,242,265,265,704,234.7,-6.9,1.9,9.5,13,279.6,241.9,254.8,260.2,284.9,252.4
+03,93000,"Whitman, Stadium District and Lower Moyamensing",Aggravated Assault,260,225,237,242,266,266,704,234.7,-6.9,2.3,9.9,13,279.6,241.9,254.8,260.2,286,252.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,251,222,222,705,235,-18,-27.5,-11.6,-6,329,259.1,229,269.9,238.7,252.7
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Motor Vehicle Theft,68,80,283,405,882,882,768,256,495.6,1197.1,117.8,245,73.1,86,304.3,435.5,948.4,275.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Murder,4,5,14,15,8,8,34,11.3,275,100,-46.7,-29,4.3,5.4,15.1,16.1,8.6,12.2
@@ -139,7 +139,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 07,95000,Somerton and Bustleton,Burglary,109,117,94,156,103,103,367,122.3,43.1,-5.5,-34,-16,114.7,123.2,98.9,164.2,108.4,128.7
 07,95000,Somerton and Bustleton,Motor Vehicle Theft,22,43,107,199,624,624,349,116.3,804.5,2736.4,213.6,437,23.2,45.3,112.6,209.5,656.8,122.4
 07,95000,Somerton and Bustleton,Murder,5,3,4,1,2,2,8,2.7,-80,-60,100,-26,5.3,3.2,4.2,1.1,2.1,2.8
-07,95000,Somerton and Bustleton,Other,1468,1260,1383,1364,1509,1509,4007,1335.7,-7.1,2.8,10.6,13,1545.3,1326.3,1455.8,1435.8,1588.4,1406
+07,95000,Somerton and Bustleton,Other,1468,1260,1383,1364,1510,1510,4007,1335.7,-7.1,2.9,10.7,13,1545.3,1326.3,1455.8,1435.8,1589.5,1406
 07,95000,Somerton and Bustleton,Robbery,48,35,53,58,71,71,146,48.7,20.8,47.9,22.4,46,50.5,36.8,55.8,61.1,74.7,51.3
 07,95000,Somerton and Bustleton,Sexual Assault,15,22,10,3,12,12,35,11.7,-80,-20,300,3,15.8,23.2,10.5,3.2,12.6,12.3
 07,95000,Somerton and Bustleton,Theft,758,886,1059,1681,1660,1660,3626,1208.7,121.8,119,-1.2,37,797.9,932.6,1114.7,1769.5,1747.4,1272.3
@@ -147,7 +147,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Burglary,121,179,155,184,142,141,518,172.7,52.1,16.5,-23.4,-18,124.7,184.5,159.8,189.7,145.4,178
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Motor Vehicle Theft,65,59,192,354,849,849,605,201.7,444.6,1206.2,139.8,321,67,60.8,197.9,364.9,875.3,207.9
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,6,6,18,6,100,200,50,0,2.1,4.1,10.3,4.1,6.2,6.2
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,2458,2430,2212,2162,2600,2595,6804,2268,-12,5.6,20,14,2534,2505.2,2280.4,2228.9,2675.3,2338.1
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Other,2458,2430,2212,2162,2601,2596,6804,2268,-12,5.6,20.1,14,2534,2505.2,2280.4,2228.9,2676.3,2338.1
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Robbery,94,70,87,118,134,134,275,91.7,25.5,42.6,13.6,46,96.9,72.2,89.7,121.6,138.1,94.5
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Sexual Assault,44,27,23,8,10,10,58,19.3,-81.8,-77.3,25,-48,45.4,27.8,23.7,8.2,10.3,19.9
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Theft,1383,1217,1490,2367,2963,2963,5074,1691.3,71.1,114.2,25.2,75,1425.8,1254.6,1536.1,2440.2,3054.6,1743.6
