@@ -2,7 +2,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 16,41000,"Powelton, Mantua and Parkside",Burglary,204,192,155,184,175,175,531,177,-9.8,-14.2,-4.9,-1,497.6,468.3,378,448.8,426.8,431.7
 17,50000,South Philadelphia and Grays Ferry,Burglary,254,173,160,139,176,176,472,157.3,-45.3,-30.7,26.6,12,508,346,320,278,352,314.6
 18,80000,University City and Cobbs Creek,Burglary,318,362,289,305,289,289,956,318.7,-4.1,-9.1,-5.2,-9,397.5,452.5,361.2,381.2,361.2,398.4
-35,100000,Olney and Logan,Burglary,343,385,286,260,279,279,931,310.3,-24.2,-18.7,7.3,-10,343,385,286,260,279,310.3
+35,100000,Olney and Logan,Burglary,343,385,286,260,280,280,931,310.3,-24.2,-18.4,7.7,-10,343,385,286,260,280,310.3
 39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,312,341,341,1147,382.3,-26.6,-19.8,9.3,-11,696.7,819.7,549.2,511.5,559,626.7
 01,37000,Girard Estates and Navy Yard,Burglary,77,72,136,155,99,99,363,121,101.3,28.6,-36.1,-18,208.1,194.6,367.6,418.9,267.6,327
 02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,215,234,234,759,253,-1.8,6.8,8.8,-8,190.4,273,200,187,203.5,220
@@ -11,7 +11,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,570,672,672,1838,612.7,-10.8,5.2,17.9,10,829.9,916.9,729.9,740.3,872.7,795.7
 24,67000,Richmond and Port Richmond,Burglary,277,450,233,313,281,281,996,332,13,1.4,-10.2,-15,413.4,671.6,347.8,467.2,419.4,495.5
 25,68000,Kensington and Harrowgate,Burglary,293,397,219,239,310,310,855,285,-18.4,5.8,29.7,9,430.9,583.8,322.1,351.5,455.9,419.1
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,533,406,406,1312,437.3,32.9,1.2,-23.8,-7,703.5,691.2,675.4,935.1,712.3,767.2
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,533,407,407,1312,437.3,32.9,1.5,-23.6,-7,703.5,691.2,675.4,935.1,714,767.2
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,388,322,322,1074,358,-0.8,-17.6,-17,-10,281.3,266.2,227.3,279.1,231.7,257.6
 77,0,Philadelphia airport,Burglary,1,6,3,0,0,0,9,3,-100,-100,NA,-100,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Burglary,121,116,128,133,129,129,377,125.7,9.9,6.6,-3,3,281.4,269.8,297.7,309.3,300,292.3
