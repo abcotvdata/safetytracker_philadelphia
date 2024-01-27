@@ -232,7 +232,7 @@ district,population,placename,category,description,total19,total20,total21,total
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,Rape,30,18,32,29,12,12,79,26.3,-3.3,-60,-58.6,-54,32.3,19.4,34.4,31.2,12.9,28.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,Theft from Vehicle,750,752,789,1259,949,949,2800,933.3,67.9,26.5,-24.6,2,806.5,808.6,848.4,1353.8,1020.4,1003.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,Thefts,1353,1245,1436,2067,2077,2076,4748,1582.7,52.8,53.4,0.4,31,1454.8,1338.7,1544.1,2222.6,2232.3,1701.8
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault Firearm,221,315,296,255,251,251,866,288.7,15.4,13.6,-1.6,-13,257,366.3,344.2,296.5,291.9,335.7
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault Firearm,221,315,296,255,252,252,866,288.7,15.4,14,-1.2,-13,257,366.3,344.2,296.5,293,335.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,Aggravated Assault No Firearm,363,406,358,313,398,398,1077,359,-13.8,9.6,27.2,11,422.1,472.1,416.3,364,462.8,417.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Non-Residential,76,218,63,79,69,69,360,120,3.9,-9.2,-12.7,-43,88.4,253.5,73.3,91.9,80.2,139.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,Burglary Residential,299,233,247,233,234,233,713,237.7,-22.1,-22.1,0,-2,347.7,270.9,287.2,270.9,270.9,276.4
@@ -249,7 +249,7 @@ district,population,placename,category,description,total19,total20,total21,total
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Liquor Law Violations,10,2,10,6,4,4,18,6,-40,-60,-33.3,-33,11.6,2.3,11.6,7,4.7,7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Narcotic / Drug Law Violations,625,273,110,142,95,95,525,175,-77.3,-84.8,-33.1,-46,726.7,317.4,127.9,165.1,110.5,203.5
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Offenses Against Family and Children,19,15,10,7,4,4,32,10.7,-63.2,-78.9,-42.9,-63,22.1,17.4,11.6,8.1,4.7,12.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Assaults,2023,1938,2026,2133,2365,2364,6097,2032.3,5.4,16.9,10.8,16,2352.3,2253.5,2355.8,2480.2,2748.8,2363.1
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Assaults,2023,1938,2026,2133,2364,2363,6097,2032.3,5.4,16.8,10.8,16,2352.3,2253.5,2355.8,2480.2,2747.7,2363.1
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Other Sex Offenses (Not Commercialized),61,36,36,42,53,53,114,38,-31.1,-13.1,26.2,39,70.9,41.9,41.9,48.8,61.6,44.2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Prostitution and Commercialized Vice,2,0,1,2,4,4,3,1,0,100,100,300,2.3,0,1.2,2.3,4.7,1.2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,Public Drunkenness,0,0,5,1,1,1,6,2,NA,NA,0,-50,0,0,5.8,1.2,1.2,2.3
@@ -266,7 +266,7 @@ district,population,placename,category,description,total19,total20,total21,total
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,Aggravated Assault No Firearm,475,477,429,399,393,393,1305,435,-16,-17.3,-1.5,-10,616.9,619.5,557.1,518.2,510.4,564.9
 22,77000,Strawberry Mansion and Stanton,Burglary,Burglary Non-Residential,51,187,121,113,119,119,421,140.3,121.6,133.3,5.3,-15,66.2,242.9,157.1,146.8,154.5,182.2
 22,77000,Strawberry Mansion and Stanton,Burglary,Burglary Residential,588,519,441,457,553,553,1417,472.3,-22.3,-6,21,17,763.6,674,572.7,593.5,718.2,613.4
-22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,Motor Vehicle Theft,108,184,611,983,1600,1600,1778,592.7,810.2,1381.5,62.8,170,140.3,239,793.5,1276.6,2077.9,769.7
+22,77000,Strawberry Mansion and Stanton,Motor Vehicle Theft,Motor Vehicle Theft,108,184,611,983,1599,1599,1778,592.7,810.2,1380.6,62.7,170,140.3,239,793.5,1276.6,2076.6,769.7
 22,77000,Strawberry Mansion and Stanton,Murder,Homicide - Criminal,33,56,71,55,44,44,182,60.7,66.7,33.3,-20,-28,42.9,72.7,92.2,71.4,57.1,78.8
 22,77000,Strawberry Mansion and Stanton,Murder,Homicide - Justifiable,0,0,0,0,3,3,0,0,NA,NA,NA,NA,0,0,0,0,3.9,0
 22,77000,Strawberry Mansion and Stanton,Other,All Other Offenses,1452,723,694,695,725,725,2112,704,-52.1,-50.1,4.3,3,1885.7,939,901.3,902.6,941.6,914.3
@@ -290,16 +290,16 @@ district,population,placename,category,description,total19,total20,total21,total
 22,77000,Strawberry Mansion and Stanton,Robbery,Robbery Firearm,208,147,193,264,228,228,604,201.3,26.9,9.6,-13.6,13,270.1,190.9,250.6,342.9,296.1,261.4
 22,77000,Strawberry Mansion and Stanton,Robbery,Robbery No Firearm,254,220,177,224,183,183,621,207,-11.8,-28,-18.3,-12,329.9,285.7,229.9,290.9,237.7,268.8
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,Rape,85,70,78,58,42,42,206,68.7,-31.8,-50.6,-27.6,-39,110.4,90.9,101.3,75.3,54.5,89.2
-22,77000,Strawberry Mansion and Stanton,Theft,Theft from Vehicle,962,842,902,1092,922,922,2836,945.3,13.5,-4.2,-15.6,-2,1249.4,1093.5,1171.4,1418.2,1197.4,1227.7
+22,77000,Strawberry Mansion and Stanton,Theft,Theft from Vehicle,962,842,902,1092,923,923,2836,945.3,13.5,-4.1,-15.5,-2,1249.4,1093.5,1171.4,1418.2,1198.7,1227.7
 22,77000,Strawberry Mansion and Stanton,Theft,Thefts,1450,1137,1385,1838,2175,2175,4360,1453.3,26.8,50,18.3,50,1883.1,1476.6,1798.7,2387,2824.7,1887.4
 24,67000,Richmond and Port Richmond,Aggravated Assault,Aggravated Assault Firearm,206,389,308,285,229,229,982,327.3,38.3,11.2,-19.6,-30,307.5,580.6,459.7,425.4,341.8,488.5
 24,67000,Richmond and Port Richmond,Aggravated Assault,Aggravated Assault No Firearm,476,448,424,383,358,358,1255,418.3,-19.5,-24.8,-6.5,-14,710.4,668.7,632.8,571.6,534.3,624.3
 24,67000,Richmond and Port Richmond,Burglary,Burglary Non-Residential,85,284,83,145,119,119,512,170.7,70.6,40,-17.9,-30,126.9,423.9,123.9,216.4,177.6,254.8
-24,67000,Richmond and Port Richmond,Burglary,Burglary Residential,192,166,150,168,162,162,484,161.3,-12.5,-15.6,-3.6,0,286.6,247.8,223.9,250.7,241.8,240.7
+24,67000,Richmond and Port Richmond,Burglary,Burglary Residential,192,166,150,168,163,163,484,161.3,-12.5,-15.1,-3,1,286.6,247.8,223.9,250.7,243.3,240.7
 24,67000,Richmond and Port Richmond,Motor Vehicle Theft,Motor Vehicle Theft,120,187,558,673,1089,1089,1418,472.7,460.8,807.5,61.8,130,179.1,279.1,832.8,1004.5,1625.4,705.5
 24,67000,Richmond and Port Richmond,Murder,Homicide - Criminal,27,60,75,55,33,33,190,63.3,103.7,22.2,-40,-48,40.3,89.6,111.9,82.1,49.3,94.5
 24,67000,Richmond and Port Richmond,Murder,Homicide - Justifiable,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,0,0,1.5,0,0,0.4
-24,67000,Richmond and Port Richmond,Other,All Other Offenses,3596,1116,516,633,1200,1200,2265,755,-82.4,-66.6,89.6,59,5367.2,1665.7,770.1,944.8,1791,1126.9
+24,67000,Richmond and Port Richmond,Other,All Other Offenses,3596,1116,516,633,1199,1199,2265,755,-82.4,-66.7,89.4,59,5367.2,1665.7,770.1,944.8,1789.6,1126.9
 24,67000,Richmond and Port Richmond,Other,Arson,39,43,66,54,91,91,163,54.3,38.5,133.3,68.5,68,58.2,64.2,98.5,80.6,135.8,81
 24,67000,Richmond and Port Richmond,Other,DRIVING UNDER THE INFLUENCE,195,205,217,150,123,123,572,190.7,-23.1,-36.9,-18,-36,291,306,323.9,223.9,183.6,284.6
 24,67000,Richmond and Port Richmond,Other,Disorderly Conduct,429,364,62,27,41,41,453,151,-93.7,-90.4,51.9,-73,640.3,543.3,92.5,40.3,61.2,225.4
@@ -409,10 +409,10 @@ district,population,placename,category,description,total19,total20,total21,total
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Vandalism/Criminal Mischief,1338,1264,1279,1132,1448,1446,3675,1225,-15.4,8.1,27.7,18,962.6,909.4,920.1,814.4,1040.3,881.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,Weapon Violations,211,231,213,237,240,240,681,227,12.3,13.7,1.3,6,151.8,166.2,153.2,170.5,172.7,163.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,Robbery Firearm,194,196,193,288,268,268,677,225.7,48.5,38.1,-6.9,19,139.6,141,138.8,207.2,192.8,162.4
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,Robbery No Firearm,341,191,182,173,194,194,546,182,-49.3,-43.1,12.1,7,245.3,137.4,130.9,124.5,139.6,130.9
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,Robbery No Firearm,341,191,182,173,195,195,546,182,-49.3,-42.8,12.7,7,245.3,137.4,130.9,124.5,140.3,130.9
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,Rape,92,90,53,47,45,45,190,63.3,-48.9,-51.1,-4.3,-29,66.2,64.7,38.1,33.8,32.4,45.5
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Theft from Vehicle,1034,1000,992,982,955,955,2974,991.3,-5,-7.6,-2.7,-4,743.9,719.4,713.7,706.5,687.1,713.2
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Thefts,1554,1256,1604,2652,3387,3384,5512,1837.3,70.7,117.8,27.6,84,1118,903.6,1154,1907.9,2434.5,1321.8
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,Thefts,1554,1256,1604,2652,3388,3385,5512,1837.3,70.7,117.8,27.6,84,1118,903.6,1154,1907.9,2435.3,1321.8
 77,0,Philadelphia airport,Aggravated Assault,Aggravated Assault Firearm,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,NA,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Aggravated Assault,Aggravated Assault No Firearm,7,7,2,4,3,3,13,4.3,-42.9,-57.1,-25,-30,NA,NA,NA,NA,NA,NA
 77,0,Philadelphia airport,Burglary,Burglary Non-Residential,0,6,3,0,0,0,9,3,NA,NA,NA,-100,NA,NA,NA,NA,NA,NA

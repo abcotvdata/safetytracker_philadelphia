@@ -7,12 +7,12 @@ district,population,placename,type,total19,total20,total21,total22,total23,last1
 01,37000,Girard Estates and Navy Yard,Violent,243,240,229,297,229,229,766,255.3,22.2,-5.8,-22.9,-10,656.8,648.6,618.9,802.7,618.9,690
 02,115000,Oxford Circle and Lawncrest,Violent,599,646,701,759,831,830,2106,702,26.7,38.6,9.4,18,520.9,561.7,609.6,660,721.7,610.4
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Violent,554,418,479,513,527,527,1410,470,-7.4,-4.9,2.7,12,595.7,449.5,515.1,551.6,566.7,505.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Violent,985,1041,975,876,955,955,2892,964,-11.1,-3,9,-1,1145.3,1210.5,1133.7,1018.6,1110.5,1120.9
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Violent,985,1041,975,876,956,956,2892,964,-11.1,-2.9,9.1,-1,1145.3,1210.5,1133.7,1018.6,1111.6,1120.9
 22,77000,Strawberry Mansion and Stanton,Violent,1292,1316,1353,1347,1240,1240,4016,1338.7,4.3,-4,-7.9,-7,1677.9,1709.1,1757.1,1749.4,1610.4,1738.6
 24,67000,Richmond and Port Richmond,Violent,1226,1423,1291,1307,1086,1086,4021,1340.3,6.6,-11.4,-16.9,-19,1829.9,2123.9,1926.9,1950.7,1620.9,2000.4
 25,68000,Kensington and Harrowgate,Violent,1405,1447,1415,1385,1314,1313,4247,1415.7,-1.4,-6.5,-5.2,-7,2066.2,2127.9,2080.9,2036.8,1930.9,2081.9
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Violent,566,524,602,658,593,593,1784,594.7,16.3,4.8,-9.9,-0,993,919.3,1056.1,1154.4,1040.4,1043.3
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Violent,1283,1169,1125,1188,1134,1134,3482,1160.7,-7.4,-11.6,-4.5,-2,923,841,809.4,854.7,815.8,835
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Violent,1283,1169,1125,1188,1135,1135,3482,1160.7,-7.4,-11.5,-4.5,-2,923,841,809.4,854.7,816.5,835
 77,0,Philadelphia airport,Violent,9,10,6,7,15,15,23,7.7,-22.2,66.7,114.3,95,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Violent,113,103,94,137,100,100,334,111.3,21.2,-11.5,-27,-10,262.8,239.5,218.6,318.6,232.6,258.8
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Violent,580,465,570,622,557,557,1657,552.3,7.2,-4,-10.5,1,1260.9,1010.9,1239.1,1352.2,1210.9,1200.7
