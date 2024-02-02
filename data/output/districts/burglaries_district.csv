@@ -14,10 +14,10 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,533,408,408,1312,437.3,32.9,1.7,-23.5,-7,703.5,691.2,675.4,935.1,715.8,767.2
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,388,322,322,1074,358,-0.8,-17.6,-17,-10,281.3,266.2,227.3,279.1,231.7,257.6
 77,0,Philadelphia airport,Burglary,1,6,3,0,0,0,9,3,-100,-100,NA,-100,NA,NA,NA,NA,NA,NA
-05,43000,"Andorra, Roxborough and Manayunk",Burglary,121,116,128,133,129,129,377,125.7,9.9,6.6,-3,3,281.4,269.8,297.7,309.3,300,292.3
+05,43000,"Andorra, Roxborough and Manayunk",Burglary,121,116,128,133,128,128,377,125.7,9.9,5.8,-3.8,2,281.4,269.8,297.7,309.3,297.7,292.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,303,330,282,371,268,268,983,327.7,22.4,-11.6,-27.8,-18,658.7,717.4,613,806.5,582.6,712.4
 07,95000,Somerton and Bustleton,Burglary,109,117,94,156,103,103,367,122.3,43.1,-5.5,-34,-16,114.7,123.2,98.9,164.2,108.4,128.7
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Burglary,121,179,155,184,142,141,518,172.7,52.1,16.5,-23.4,-18,124.7,184.5,159.8,189.7,145.4,178
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Burglary,121,179,155,184,141,140,518,172.7,52.1,15.7,-23.9,-19,124.7,184.5,159.8,189.7,144.3,178
 09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,308,367,309,291,277,277,967,322.3,-5.5,-10.1,-4.8,-14,466.7,556.1,468.2,440.9,419.7,488.3
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,332,355,355,988,329.3,-8.8,-2.5,6.9,8,505.6,554.2,356.9,461.1,493.1,457.4
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,288,396,243,273,295,295,912,304,-5.2,2.4,8.1,-3,257.1,353.6,217,243.8,263.4,271.4
