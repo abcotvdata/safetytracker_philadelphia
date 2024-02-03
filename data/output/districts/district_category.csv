@@ -63,11 +63,11 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Robbery,260,170,196,227,241,241,593,197.7,-12.7,-7.3,6.2,22,279.6,182.8,210.8,244.1,259.1,212.6
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,29,12,12,79,26.3,-3.3,-60,-58.6,-54,32.3,19.4,34.4,31.2,12.9,28.3
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Theft,2103,1997,2225,3326,3023,3022,7548,2516,58.2,43.7,-9.1,20,2261.3,2147.3,2392.5,3576.3,3249.5,2705.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,568,640,640,1943,647.7,-2.7,9.6,12.7,-1,679.1,838.4,760.5,660.5,744.2,753.1
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,568,639,639,1943,647.7,-2.7,9.4,12.5,-1,679.1,838.4,760.5,660.5,743,753.1
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,312,303,302,1073,357.7,-16.8,-19.5,-3.2,-16,436,524.4,360.5,362.8,351.2,415.9
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Motor Vehicle Theft,120,138,429,681,1180,1180,1248,416,467.5,883.3,73.3,184,139.5,160.5,498.8,791.9,1372.1,483.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,35,35,99,33,15.4,34.6,16.7,6,30.2,39.5,40.7,34.9,40.7,38.4
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4713,5309,5307,15027,5009,-37.7,-29.8,12.6,6,8795.3,6075.6,5917.4,5480.2,6170.9,5824.4
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Other,7564,5225,5089,4713,5310,5308,15027,5009,-37.7,-29.8,12.6,6,8795.3,6075.6,5917.4,5480.2,6172.1,5824.4
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Robbery,304,240,242,242,234,234,724,241.3,-20.4,-23,-3.3,-3,353.5,279.1,281.4,281.4,272.1,280.6
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,34,126,42,-49.3,-52.1,-5.6,-19,82.6,53.5,51.2,41.9,39.5,48.8
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Theft,1734,1519,1625,2074,2175,2174,5218,1739.3,19.6,25.4,4.8,25,2016.3,1766.3,1889.5,2411.6,2527.9,2022.4
@@ -87,11 +87,11 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 24,67000,Richmond and Port Richmond,Robbery,447,467,444,542,429,429,1453,484.3,21.3,-4,-20.8,-11,667.2,697,662.7,809,640.3,722.8
 24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,37,37,140,46.7,-40,-47.1,-11.9,-21,104.5,88.1,58.2,62.7,55.2,69.7
 24,67000,Richmond and Port Richmond,Theft,1743,1768,2351,2414,2056,2055,6533,2177.7,38.5,17.9,-14.9,-6,2601.5,2638.8,3509,3603,3067.2,3250.3
-25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,784,806,805,2510,836.7,6.4,9.2,2.7,-4,1083.8,1330.9,1207.4,1152.9,1183.8,1230.4
+25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,784,805,804,2510,836.7,6.4,9.1,2.6,-4,1083.8,1330.9,1207.4,1152.9,1182.4,1230.4
 25,68000,Kensington and Harrowgate,Burglary,293,397,219,239,305,305,855,285,-18.4,4.1,27.6,7,430.9,583.8,322.1,351.5,448.5,419.1
 25,68000,Kensington and Harrowgate,Motor Vehicle Theft,130,211,539,656,916,916,1406,468.7,404.6,604.6,39.6,95,191.2,310.3,792.6,964.7,1347.1,689.3
 25,68000,Kensington and Harrowgate,Murder,41,42,52,54,42,42,148,49.3,31.7,2.4,-22.2,-15,60.3,61.8,76.5,79.4,61.8,72.5
-25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4775,6277,6275,14119,4706.3,-23.2,1,31.4,33,9138.2,7264.7,6476.5,7022.1,9227.9,6921
+25,68000,Kensington and Harrowgate,Other,6214,4940,4404,4775,6278,6276,14119,4706.3,-23.2,1,31.4,33,9138.2,7264.7,6476.5,7022.1,9229.4,6921
 25,68000,Kensington and Harrowgate,Robbery,559,420,468,500,414,414,1388,462.7,-10.6,-25.9,-17.2,-11,822.1,617.6,688.2,735.3,608.8,680.4
 25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,49,49,201,67,-30.9,-27.9,4.3,-27,100,117.6,108.8,69.1,72.1,98.5
 25,68000,Kensington and Harrowgate,Theft,1481,1505,1391,1597,1429,1428,4493,1497.7,7.8,-3.6,-10.6,-5,2177.9,2213.2,2045.6,2348.5,2100,2202.5
@@ -107,8 +107,8 @@ district,population,placename,category,total19,total20,total21,total22,total23,l
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,388,322,322,1074,358,-0.8,-17.6,-17,-10,281.3,266.2,227.3,279.1,231.7,257.6
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Motor Vehicle Theft,146,292,778,1235,2197,2197,2305,768.3,745.9,1404.8,77.9,186,105,210.1,559.7,888.5,1580.6,552.7
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,41,34,34,124,41.3,32.3,9.7,-17.1,-18,22.3,29.5,30.2,29.5,24.5,29.7
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4899,5248,5246,15478,5159.3,-25.7,-20.4,7.1,2,4742.4,3856.8,3754,3524.5,3774.1,3711.7
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,461,461,461,1223,407.7,-13.8,-13.8,0,13,384.9,278.4,269.8,331.7,331.7,293.3
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Other,6592,5361,5218,4899,5249,5247,15478,5159.3,-25.7,-20.4,7.1,2,4742.4,3856.8,3754,3524.5,3774.8,3711.7
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Robbery,535,387,375,461,460,460,1223,407.7,-13.8,-14,-0.2,13,384.9,278.4,269.8,331.7,330.9,293.3
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,92,90,53,47,44,44,190,63.3,-48.9,-52.2,-6.4,-30,66.2,64.7,38.1,33.8,31.7,45.5
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Theft,2588,2256,2596,3634,4344,4341,8486,2828.7,40.4,67.7,19.5,53,1861.9,1623,1867.6,2614.4,3123,2035
 77,0,Philadelphia airport,Aggravated Assault,7,8,2,4,3,3,14,4.7,-42.9,-57.1,-25,-36,NA,NA,NA,NA,NA,NA
