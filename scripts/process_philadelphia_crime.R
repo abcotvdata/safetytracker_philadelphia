@@ -73,7 +73,8 @@ citywide_detailed <- citywide_detailed %>%
          "total20" = "2020",
          "total21" = "2021",
          "total22" = "2022",
-         "total23" = "2023")
+         "total23" = "2023",
+         "total24" = "2024")
 # add last 12 months
 citywide_detailed_last12 <- philly_crime_last12 %>%
   group_by(category,description) %>%
@@ -136,7 +137,8 @@ citywide_category <- citywide_category %>%
          "total20" = "2020",
          "total21" = "2021",
          "total22" = "2022",
-         "total23" = "2023")
+         "total23" = "2023",
+         "total24" = "2024")
 # add last 12 months
 citywide_category_last12 <- philly_crime_last12 %>%
   group_by(category) %>%
