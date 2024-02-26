@@ -2,7 +2,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,2
 16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,20,1,19,74,24.7,26.7,26.7,0,-23,36.6,63.4,70.7,46.3,46.3,60.2
 17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,7,15,0,14,34,11.3,40,180,100,24,10,34,20,14,28,22.6
 18,80000,University City and Cobbs Creek,Murder,19,24,18,24,14,1,12,66,22,26.3,-36.8,-50,-45,23.8,30,22.5,30,15,27.5
-35,100000,Olney and Logan,Murder,28,30,54,33,28,6,31,117,39,17.9,10.7,-6.1,-21,28,30,54,33,31,39
+35,100000,Olney and Logan,Murder,28,30,54,33,28,7,31,117,39,17.9,10.7,-6.1,-21,28,30,54,33,31,39
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,35,23,3,22,124,41.3,25,-21.4,-37.1,-47,45.9,70.5,75.4,57.4,36.1,67.7
 01,37000,Girard Estates and Navy Yard,Murder,9,5,8,13,4,0,3,26,8.7,44.4,-66.7,-76.9,-66,24.3,13.5,21.6,35.1,8.1,23.5
 02,115000,Oxford Circle and Lawncrest,Murder,7,13,12,23,18,1,16,48,16,228.6,128.6,-30.4,0,6.1,11.3,10.4,20,13.9,13.9
@@ -11,14 +11,14 @@ district,population,placename,category,total19,total20,total21,total22,total23,2
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,47,4,40,182,60.7,66.7,21.2,-27.3,-34,42.9,72.7,92.2,71.4,51.9,78.8
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,33,4,33,191,63.7,103.7,22.2,-40,-48,40.3,89.6,113.4,82.1,49.3,95.1
 25,68000,Kensington and Harrowgate,Murder,41,42,52,54,42,3,37,148,49.3,31.7,-9.8,-31.5,-25,60.3,61.8,76.5,79.4,54.4,72.5
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,20,0,19,39,13,40,90,35.7,46,17.5,24.6,19.3,24.6,33.3,22.8
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,20,0,18,39,13,40,80,28.6,38,17.5,24.6,19.3,24.6,31.6,22.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,41,34,5,25,124,41.3,32.3,-19.4,-39,-39,22.3,29.5,30.2,29.5,18,29.7
 77,0,Philadelphia airport,Murder,0,0,0,0,2,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,0,0,8,2.7,400,-100,-100,-100,2.3,2.3,4.7,11.6,0,6.3
-06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,7,1,7,12,4,-16.7,16.7,40,75,13,0,15.2,10.9,15.2,8.7
-07,95000,Somerton and Bustleton,Murder,5,3,4,1,2,0,2,8,2.7,-80,-60,100,-26,5.3,3.2,4.2,1.1,2.1,2.8
+06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,7,1,6,12,4,-16.7,0,20,50,13,0,15.2,10.9,13,8.7
+07,95000,Somerton and Bustleton,Murder,5,3,4,1,2,0,1,8,2.7,-80,-80,0,-63,5.3,3.2,4.2,1.1,1.1,2.8
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,6,1,6,18,6,100,200,50,0,2.1,4.1,10.3,4.1,6.2,6.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,1,1,17,5.7,133.3,-66.7,-85.7,-82,4.5,6.1,9.1,10.6,1.5,8.6
-12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,32,4,32,115,38.3,34.5,10.3,-17.9,-16,40.3,59.7,45.8,54.2,44.4,53.2
+12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,32,5,33,115,38.3,34.5,13.8,-15.4,-14,40.3,59.7,45.8,54.2,45.8,53.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,19,3,21,94,31.3,42.3,-19.2,-43.2,-33,23.2,31.2,19.6,33,18.8,27.9
 04,NA,NA,Murder,0,0,0,0,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
