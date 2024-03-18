@@ -1,11 +1,11 @@
 district,population,placename,category,total19,total20,total21,total22,total23,2024,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,16,24,5,23,68,22.7,-61.9,-45.2,43.8,1,102.4,61,65.9,39,56.1,55.4
 17,50000,South Philadelphia and Grays Ferry,Sexual Assault,20,10,19,14,9,0,6,43,14.3,-30,-70,-57.1,-58,40,20,38,28,12,28.6
-18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,31,30,3,28,122,40.7,-32.6,-39.1,-9.7,-31,57.5,56.2,57.5,38.8,35,50.9
-35,100000,Olney and Logan,Sexual Assault,75,63,49,41,38,5,34,153,51,-45.3,-54.7,-17.1,-33,75,63,49,41,34,51
+18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,31,30,4,28,122,40.7,-32.6,-39.1,-9.7,-31,57.5,56.2,57.5,38.8,35,50.9
+35,100000,Olney and Logan,Sexual Assault,75,63,49,41,38,5,33,153,51,-45.3,-56,-19.5,-35,75,63,49,41,33,51
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,38,47,9,50,138,46,-39.7,-20.6,31.6,9,103.3,68.9,95.1,62.3,82,75.4
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,6,6,1,6,19,6.3,-66.7,-66.7,0,-5,48.6,24.3,10.8,16.2,16.2,17
-02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,42,25,7,26,126,42,-26.3,-54.4,-38.1,-38,49.6,46.1,27,36.5,22.6,36.5
+02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,42,25,8,27,126,42,-26.3,-52.6,-35.7,-36,49.6,46.1,27,36.5,23.5,36.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,29,12,2,11,79,26.3,-3.3,-63.3,-62.1,-58,32.3,19.4,34.4,31.2,11.8,28.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,8,35,126,42,-49.3,-50.7,-2.8,-17,82.6,53.5,51.2,41.9,40.7,48.8
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,58,43,5,37,206,68.7,-31.8,-56.5,-36.2,-46,110.4,90.9,101.3,75.3,48.1,89.2
