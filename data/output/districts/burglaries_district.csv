@@ -1,24 +1,24 @@
 district,population,placename,category,total19,total20,total21,total22,total23,2024,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Burglary,204,192,155,184,174,35,162,531,177,-9.8,-20.6,-12,-8,497.6,468.3,378,448.8,395.1,431.7
 17,50000,South Philadelphia and Grays Ferry,Burglary,254,173,160,139,175,38,161,472,157.3,-45.3,-36.6,15.8,2,508,346,320,278,322,314.6
-18,80000,University City and Cobbs Creek,Burglary,318,362,289,305,289,56,269,956,318.7,-4.1,-15.4,-11.8,-16,397.5,452.5,361.2,381.2,336.2,398.4
-35,100000,Olney and Logan,Burglary,343,385,286,260,279,52,270,931,310.3,-24.2,-21.3,3.8,-13,343,385,286,260,270,310.3
-39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,312,340,60,313,1147,382.3,-26.6,-26.4,0.3,-18,696.7,819.7,549.2,511.5,513.1,626.7
-01,37000,Girard Estates and Navy Yard,Burglary,77,72,136,155,99,31,108,363,121,101.3,40.3,-30.3,-11,208.1,194.6,367.6,418.9,291.9,327
-02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,215,234,52,223,759,253,-1.8,1.8,3.7,-12,190.4,273,200,187,193.9,220
+18,80000,University City and Cobbs Creek,Burglary,318,362,289,305,289,58,271,956,318.7,-4.1,-14.8,-11.1,-15,397.5,452.5,361.2,381.2,338.8,398.4
+35,100000,Olney and Logan,Burglary,343,385,286,260,279,52,269,931,310.3,-24.2,-21.6,3.5,-13,343,385,286,260,269,310.3
+39,61000,"East Falls, Tioga and Nicetown",Burglary,425,500,335,312,340,61,312,1147,382.3,-26.6,-26.6,0,-18,696.7,819.7,549.2,511.5,511.5,626.7
+01,37000,Girard Estates and Navy Yard,Burglary,77,72,136,155,99,31,107,363,121,101.3,39,-31,-12,208.1,194.6,367.6,418.9,289.2,327
+02,115000,Oxford Circle and Lawncrest,Burglary,219,314,230,215,234,52,222,759,253,-1.8,1.4,3.3,-12,190.4,273,200,187,193,220
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Burglary,306,241,213,251,222,59,226,705,235,-18,-26.1,-10,-4,329,259.1,229,269.9,243,252.7
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Burglary,375,451,310,312,303,70,294,1073,357.7,-16.8,-21.6,-5.8,-18,436,524.4,360.5,362.8,341.9,415.9
-22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,570,671,199,710,1838,612.7,-10.8,11.1,24.6,16,829.9,916.9,729.9,740.3,922.1,795.7
-24,67000,Richmond and Port Richmond,Burglary,277,450,233,313,282,48,264,996,332,13,-4.7,-15.7,-20,413.4,671.6,347.8,467.2,394,495.5
-25,68000,Kensington and Harrowgate,Burglary,293,397,219,239,305,91,318,855,285,-18.4,8.5,33.1,12,430.9,583.8,322.1,351.5,467.6,419.1
-26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,533,408,120,439,1312,437.3,32.9,9.5,-17.6,0,703.5,691.2,675.4,935.1,770.2,767.2
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,388,322,111,374,1074,358,-0.8,-4.3,-3.6,4,281.3,266.2,227.3,279.1,269.1,257.6
+22,77000,Strawberry Mansion and Stanton,Burglary,639,706,562,570,671,200,710,1838,612.7,-10.8,11.1,24.6,16,829.9,916.9,729.9,740.3,922.1,795.7
+24,67000,Richmond and Port Richmond,Burglary,277,450,233,313,282,49,264,996,332,13,-4.7,-15.7,-20,413.4,671.6,347.8,467.2,394,495.5
+25,68000,Kensington and Harrowgate,Burglary,293,397,219,239,305,90,317,855,285,-18.4,8.2,32.6,11,430.9,583.8,322.1,351.5,466.2,419.1
+26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Burglary,401,394,385,533,408,122,441,1312,437.3,32.9,10,-17.3,1,703.5,691.2,675.4,935.1,773.7,767.2
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Burglary,391,370,316,388,322,111,372,1074,358,-0.8,-4.9,-4.1,4,281.3,266.2,227.3,279.1,267.6,257.6
 77,0,Philadelphia airport,Burglary,1,6,3,0,0,1,1,9,3,-100,0,NA,-67,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Burglary,121,116,128,133,128,22,117,377,125.7,9.9,-3.3,-12,-7,281.4,269.8,297.7,309.3,272.1,292.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Burglary,303,330,282,371,268,80,269,983,327.7,22.4,-11.2,-27.5,-18,658.7,717.4,613,806.5,584.8,712.4
-07,95000,Somerton and Bustleton,Burglary,109,117,94,156,103,29,97,367,122.3,43.1,-11,-37.8,-21,114.7,123.2,98.9,164.2,102.1,128.7
+07,95000,Somerton and Bustleton,Burglary,109,117,94,156,103,30,98,367,122.3,43.1,-10.1,-37.2,-20,114.7,123.2,98.9,164.2,103.2,128.7
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Burglary,121,179,155,184,141,33,134,518,172.7,52.1,10.7,-27.2,-22,124.7,184.5,159.8,189.7,138.1,178
-09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,308,367,309,291,277,50,263,967,322.3,-5.5,-14.6,-9.6,-18,466.7,556.1,468.2,440.9,398.5,488.3
+09,66000,"Center City West, Logan Circle and North Philadelphia",Burglary,308,367,309,291,277,52,265,967,322.3,-5.5,-14,-8.9,-18,466.7,556.1,468.2,440.9,401.5,488.3
 12,72000,"Kingsessing, Eastwick and Elmwood",Burglary,364,399,257,332,355,108,356,988,329.3,-8.8,-2.2,7.2,8,505.6,554.2,356.9,461.1,494.4,457.4
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Burglary,288,396,243,273,295,69,296,912,304,-5.2,2.8,8.4,-3,257.1,353.6,217,243.8,264.3,271.4
 04,NA,NA,Burglary,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
