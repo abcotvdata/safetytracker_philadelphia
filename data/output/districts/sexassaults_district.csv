@@ -1,7 +1,7 @@
 district,population,placename,category,total19,total20,total21,total22,total23,2024,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,16,24,7,24,68,22.7,-61.9,-42.9,50,6,102.4,61,65.9,39,58.5,55.4
 17,50000,South Philadelphia and Grays Ferry,Sexual Assault,20,10,19,14,9,0,5,43,14.3,-30,-75,-64.3,-65,40,20,38,28,10,28.6
-18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,31,30,4,25,122,40.7,-32.6,-45.7,-19.4,-39,57.5,56.2,57.5,38.8,31.2,50.9
+18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,31,30,5,26,122,40.7,-32.6,-43.5,-16.1,-36,57.5,56.2,57.5,38.8,32.5,50.9
 35,100000,Olney and Logan,Sexual Assault,75,63,49,41,38,10,31,153,51,-45.3,-58.7,-24.4,-39,75,63,49,41,31,51
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,38,47,11,47,138,46,-39.7,-25.4,23.7,2,103.3,68.9,95.1,62.3,77,75.4
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,6,6,2,6,19,6.3,-66.7,-66.7,0,-5,48.6,24.3,10.8,16.2,16.2,17
@@ -20,5 +20,5 @@ district,population,placename,category,total19,total20,total21,total22,total23,2
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Sexual Assault,44,27,23,8,9,6,12,58,19.3,-81.8,-72.7,50,-38,45.4,27.8,23.7,8.2,12.4,19.9
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,17,14,6,14,58,19.3,-26.1,-39.1,-17.6,-27,34.8,30.3,31.8,25.8,21.2,29.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,40,6,34,146,48.7,-49.2,-42.4,13.3,-30,81.9,81.9,79.2,41.7,47.2,67.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,28,31,4,30,118,39.3,-46.2,-42.3,7.1,-24,46.4,52.7,27.7,25,26.8,35.1
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,28,31,4,29,118,39.3,-46.2,-44.2,3.6,-26,46.4,52.7,27.7,25,25.9,35.1
 04,NA,NA,Sexual Assault,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
