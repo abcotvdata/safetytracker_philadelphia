@@ -3,11 +3,11 @@ district,population,placename,category,total19,total20,total21,total22,total23,2
 17,50000,South Philadelphia and Grays Ferry,Sexual Assault,20,10,19,14,9,0,5,43,14.3,-30,-75,-64.3,-65,40,20,38,28,10,28.6
 18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,31,30,6,26,122,40.7,-32.6,-43.5,-16.1,-36,57.5,56.2,57.5,38.8,32.5,50.9
 35,100000,Olney and Logan,Sexual Assault,75,63,49,41,38,13,32,153,51,-45.3,-57.3,-22,-37,75,63,49,41,32,51
-39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,38,47,12,48,138,46,-39.7,-23.8,26.3,4,103.3,68.9,95.1,62.3,78.7,75.4
+39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,38,47,12,47,138,46,-39.7,-25.4,23.7,2,103.3,68.9,95.1,62.3,77,75.4
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,6,6,2,6,19,6.3,-66.7,-66.7,0,-5,48.6,24.3,10.8,16.2,16.2,17
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,42,25,10,28,126,42,-26.3,-50.9,-33.3,-33,49.6,46.1,27,36.5,24.3,36.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,29,12,5,14,79,26.3,-3.3,-53.3,-51.7,-47,32.3,19.4,34.4,31.2,15.1,28.3
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,16,38,126,42,-49.3,-46.5,5.6,-10,82.6,53.5,51.2,41.9,44.2,48.8
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,16,37,126,42,-49.3,-47.9,2.8,-12,82.6,53.5,51.2,41.9,43,48.8
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,58,43,10,38,206,68.7,-31.8,-55.3,-34.5,-45,110.4,90.9,101.3,75.3,49.4,89.2
 24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,37,12,34,140,46.7,-40,-51.4,-19,-27,104.5,88.1,58.2,62.7,50.7,69.7
 25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,49,10,40,201,67,-30.9,-41.2,-14.9,-40,100,117.6,108.8,69.1,58.8,98.5
@@ -18,7 +18,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,2
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,31,21,27,19,22,4,16,67,22.3,-38.7,-48.4,-15.8,-28,67.4,45.7,58.7,41.3,34.8,48.5
 07,95000,Somerton and Bustleton,Sexual Assault,15,22,10,3,12,3,9,35,11.7,-80,-40,200,-23,15.8,23.2,10.5,3.2,9.5,12.3
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Sexual Assault,44,27,23,8,9,6,12,58,19.3,-81.8,-72.7,50,-38,45.4,27.8,23.7,8.2,12.4,19.9
-09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,17,14,10,18,58,19.3,-26.1,-21.7,5.9,-7,34.8,30.3,31.8,25.8,27.3,29.2
+09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,17,14,11,19,58,19.3,-26.1,-17.4,11.8,-2,34.8,30.3,31.8,25.8,28.8,29.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,40,6,31,146,48.7,-49.2,-47.5,3.3,-36,81.9,81.9,79.2,41.7,43.1,67.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,28,31,4,29,118,39.3,-46.2,-44.2,3.6,-26,46.4,52.7,27.7,25,25.9,35.1
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,28,31,4,28,118,39.3,-46.2,-46.2,0,-29,46.4,52.7,27.7,25,25,35.1
 04,NA,NA,Sexual Assault,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
