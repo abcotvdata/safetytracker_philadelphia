@@ -10,14 +10,14 @@ district,population,placename,category,total19,total20,total21,total22,total23,2
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,35,8,33,99,33,15.4,26.9,10,0,30.2,39.5,40.7,34.9,38.4,38.4
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,47,8,30,182,60.7,66.7,-9.1,-45.5,-51,42.9,72.7,92.2,71.4,39,78.8
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,33,9,29,191,63.7,103.7,7.4,-47.3,-54,40.3,89.6,113.4,82.1,43.3,95.1
-25,68000,Kensington and Harrowgate,Murder,41,42,52,55,42,7,37,149,49.7,34.1,-9.8,-32.7,-26,60.3,61.8,76.5,80.9,54.4,73.1
+25,68000,Kensington and Harrowgate,Murder,41,42,52,55,42,7,35,149,49.7,34.1,-14.6,-36.4,-30,60.3,61.8,76.5,80.9,51.5,73.1
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,20,2,17,39,13,40,70,21.4,31,17.5,24.6,19.3,24.6,29.8,22.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,41,34,8,19,124,41.3,32.3,-38.7,-53.7,-54,22.3,29.5,30.2,29.5,13.7,29.7
 77,0,Philadelphia airport,Murder,0,0,0,0,2,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Murder,1,1,2,5,0,1,1,8,2.7,400,0,-80,-63,2.3,2.3,4.7,11.6,2.3,6.3
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Murder,6,0,7,5,7,2,7,12,4,-16.7,16.7,40,75,13,0,15.2,10.9,15.2,8.7
 07,95000,Somerton and Bustleton,Murder,5,3,4,1,2,0,1,8,2.7,-80,-80,0,-63,5.3,3.2,4.2,1.1,1.1,2.8
-08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,6,1,6,18,6,100,200,50,0,2.1,4.1,10.3,4.1,6.2,6.2
+08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,6,1,5,18,6,100,150,25,-17,2.1,4.1,10.3,4.1,5.2,6.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,1,1,17,5.7,133.3,-66.7,-85.7,-82,4.5,6.1,9.1,10.6,1.5,8.6
 12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,32,9,32,115,38.3,34.5,10.3,-17.9,-16,40.3,59.7,45.8,54.2,44.4,53.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,19,7,19,94,31.3,42.3,-26.9,-48.6,-39,23.2,31.2,19.6,33,17,27.9
