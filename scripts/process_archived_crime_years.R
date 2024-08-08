@@ -8,6 +8,7 @@ library(readxl)
 philly_crime19 <- read_csv("data/source/annual/phillycrime19.csv") %>% janitor::clean_names()
 philly_crime20 <- read_csv("data/source/annual/phillycrime20.csv") %>% janitor::clean_names()
 philly_crime21 <- read_csv("data/source/annual/phillycrime21.csv") %>% janitor::clean_names()
+philly_crime22 <- read_csv("data/source/annual/phillycrime22.csv") %>% janitor::clean_names()
 
-past_philly_crime <- rbind(philly_crime19,philly_crime20,philly_crime21)
+past_philly_crime <- rbind(philly_crime19,philly_crime20,philly_crime21,philly_crime22)
 saveRDS(past_philly_crime,"data/source/annual/past_philly_crime.RDS")
