@@ -96,7 +96,7 @@ citywide_detailed$inc_prior3yearavgtolast12 <- round((citywide_detailed$last12mo
 citywide_detailed$rate19 <- round(citywide_detailed$total19/philly_population*100000,1)
 citywide_detailed$rate20 <- round(citywide_detailed$total20/philly_population*100000,1)
 citywide_detailed$rate21 <- round(citywide_detailed$total21/philly_population*100000,1)
-citywide_detailed$rate22 <- round(citywide_detailed$total21/philly_population*100000,1)
+citywide_detailed$rate22 <- round(citywide_detailed$total22/philly_population*100000,1)
 citywide_detailed$rate_last12 <- round(citywide_detailed$last12mos/philly_population*100000,1)
 # calculate a multiyear rate
 citywide_detailed$rate_prior3years <- round(citywide_detailed$avg_prior3years/philly_population*100000,1)
