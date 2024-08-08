@@ -7,12 +7,12 @@ library(lubridate)
 # load past full years' data file from our archive store
 past_philly_crime <- readRDS("data/source/annual/past_philly_crime.RDS")
 # download the latest data for the current year to date
-download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272023-01-01%27%20AND%20dispatch_date_time%20%3C%20%272025-01-01%27","data/source/recent/phillycrime22.csv")
+download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272023-01-01%27%20AND%20dispatch_date_time%20%3C%20%272025-01-01%27","data/source/recent/phillycrime24.csv")
 # read in the latest data for the current year to date
-philly_crime22 <- read_csv("data/source/recent/phillycrime22.csv") %>% janitor::clean_names() %>% select(4:18)
+philly_crime24 <- read_csv("data/source/recent/phillycrime24.csv") %>% janitor::clean_names() %>% select(4:18)
 
 # Combine past years + recent year file into single df
-philly_crime <- rbind(past_philly_crime,philly_crime22)
+philly_crime <- rbind(past_philly_crime,philly_crime24)
 
 # Remove duplicate entries and standardize key column names
 philly_crime <- philly_crime %>% unique
