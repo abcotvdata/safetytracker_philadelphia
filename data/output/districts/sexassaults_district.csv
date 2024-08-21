@@ -8,7 +8,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,42,25,17,29,126,42,-26.3,-49.1,-31,-31,49.6,46.1,27,36.5,25.2,36.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,29,12,10,17,79,26.3,-3.3,-43.3,-41.4,-35,32.3,19.4,34.4,31.2,18.3,28.3
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,29,37,126,42,-49.3,-47.9,2.8,-12,82.6,53.5,51.2,41.9,43,48.8
-22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,58,43,31,45,206,68.7,-31.8,-47.1,-22.4,-34,110.4,90.9,101.3,75.3,58.4,89.2
+22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,58,43,31,44,206,68.7,-31.8,-48.2,-24.1,-36,110.4,90.9,101.3,75.3,57.1,89.2
 24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,37,19,32,140,46.7,-40,-54.3,-23.8,-31,104.5,88.1,58.2,62.7,47.8,69.7
 25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,49,23,38,201,67,-30.9,-44.1,-19.1,-43,100,117.6,108.8,69.1,55.9,98.5
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Sexual Assault,41,26,24,24,17,13,19,74,24.7,-41.5,-53.7,-20.8,-23,71.9,45.6,42.1,42.1,33.3,43.3
@@ -20,5 +20,5 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Sexual Assault,44,27,23,8,9,9,13,58,19.3,-81.8,-70.5,62.5,-33,45.4,27.8,23.7,8.2,13.4,19.9
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,17,14,19,22,58,19.3,-26.1,-4.3,29.4,14,34.8,30.3,31.8,25.8,33.3,29.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,40,13,28,146,48.7,-49.2,-52.5,-6.7,-43,81.9,81.9,79.2,41.7,38.9,67.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,28,31,14,28,118,39.3,-46.2,-46.2,0,-29,46.4,52.7,27.7,25,25,35.1
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,28,31,15,28,118,39.3,-46.2,-46.2,0,-29,46.4,52.7,27.7,25,25,35.1
 04,NA,NA,Sexual Assault,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
