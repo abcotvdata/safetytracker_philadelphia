@@ -16,7 +16,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 77,0,Philadelphia airport,Sexual Assault,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Sexual Assault,10,10,10,13,7,3,3,33,11,30,-70,-76.9,-73,23.3,23.3,23.3,30.2,7,25.6
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,31,21,27,19,22,4,11,67,22.3,-38.7,-64.5,-42.1,-51,67.4,45.7,58.7,41.3,23.9,48.5
-07,95000,Somerton and Bustleton,Sexual Assault,15,22,10,3,12,6,10,35,11.7,-80,-33.3,233.3,-15,15.8,23.2,10.5,3.2,10.5,12.3
+07,95000,Somerton and Bustleton,Sexual Assault,15,22,10,3,12,6,9,35,11.7,-80,-40,200,-23,15.8,23.2,10.5,3.2,9.5,12.3
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Sexual Assault,44,27,23,8,9,9,13,58,19.3,-81.8,-70.5,62.5,-33,45.4,27.8,23.7,8.2,13.4,19.9
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,17,14,19,22,58,19.3,-26.1,-4.3,29.4,14,34.8,30.3,31.8,25.8,33.3,29.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,40,13,28,146,48.7,-49.2,-52.5,-6.7,-43,81.9,81.9,79.2,41.7,38.9,67.6
