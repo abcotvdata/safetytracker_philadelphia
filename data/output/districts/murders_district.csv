@@ -1,6 +1,6 @@
 district,population,placename,category,total19,total20,total21,total22,total23,total24,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Murder,15,26,29,19,20,8,11,74,24.7,26.7,-26.7,-42.1,-55,36.6,63.4,70.7,46.3,26.8,60.2
-17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,7,15,3,11,34,11.3,40,120,57.1,-3,10,34,20,14,22,22.6
+17,50000,South Philadelphia and Grays Ferry,Murder,5,17,10,7,15,3,10,34,11.3,40,100,42.9,-12,10,34,20,14,20,22.6
 18,80000,University City and Cobbs Creek,Murder,19,24,18,24,14,10,11,66,22,26.3,-42.1,-54.2,-50,23.8,30,22.5,30,13.8,27.5
 35,100000,Olney and Logan,Murder,28,30,54,33,28,19,28,117,39,17.9,0,-15.2,-28,28,30,54,33,28,39
 39,61000,"East Falls, Tioga and Nicetown",Murder,28,43,46,35,23,6,13,124,41.3,25,-53.6,-62.9,-69,45.9,70.5,75.4,57.4,21.3,67.7
@@ -10,7 +10,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Murder,26,34,35,30,35,17,27,99,33,15.4,3.8,-10,-18,30.2,39.5,40.7,34.9,31.4,38.4
 22,77000,Strawberry Mansion and Stanton,Murder,33,56,71,55,47,18,27,182,60.7,66.7,-18.2,-50.9,-56,42.9,72.7,92.2,71.4,35.1,78.8
 24,67000,Richmond and Port Richmond,Murder,27,60,76,55,33,16,24,191,63.7,103.7,-11.1,-56.4,-62,40.3,89.6,113.4,82.1,35.8,95.1
-25,68000,Kensington and Harrowgate,Murder,41,42,52,55,42,17,31,149,49.7,34.1,-24.4,-43.6,-38,60.3,61.8,76.5,80.9,45.6,73.1
+25,68000,Kensington and Harrowgate,Murder,41,42,52,55,42,18,32,149,49.7,34.1,-22,-41.8,-36,60.3,61.8,76.5,80.9,47.1,73.1
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Murder,10,14,11,14,20,7,16,39,13,40,60,14.3,23,17.5,24.6,19.3,24.6,28.1,22.8
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Murder,31,41,42,41,34,16,20,124,41.3,32.3,-35.5,-51.2,-52,22.3,29.5,30.2,29.5,14.4,29.7
 77,0,Philadelphia airport,Murder,0,0,0,0,2,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -19,6 +19,6 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 07,95000,Somerton and Bustleton,Murder,5,3,4,1,2,0,1,8,2.7,-80,-80,0,-63,5.3,3.2,4.2,1.1,1.1,2.8
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Murder,2,4,10,4,6,2,4,18,6,100,100,0,-33,2.1,4.1,10.3,4.1,4.1,6.2
 09,66000,"Center City West, Logan Circle and North Philadelphia",Murder,3,4,6,7,0,3,3,17,5.7,133.3,0,-57.1,-47,4.5,6.1,9.1,10.6,4.5,8.6
-12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,32,13,22,115,38.3,34.5,-24.1,-43.6,-43,40.3,59.7,45.8,54.2,30.6,53.2
+12,72000,"Kingsessing, Eastwick and Elmwood",Murder,29,43,33,39,32,13,21,115,38.3,34.5,-27.6,-46.2,-45,40.3,59.7,45.8,54.2,29.2,53.2
 14,112000,"Germantown, Mt. Airy and Chestnut Hill",Murder,26,35,22,37,19,9,15,94,31.3,42.3,-42.3,-59.5,-52,23.2,31.2,19.6,33,13.4,27.9
 04,NA,NA,Murder,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
