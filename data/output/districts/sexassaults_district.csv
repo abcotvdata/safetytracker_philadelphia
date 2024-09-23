@@ -10,9 +10,9 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,32,39,126,42,-49.3,-45.1,8.3,-7,82.6,53.5,51.2,41.9,45.3,48.8
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,58,43,38,47,206,68.7,-31.8,-44.7,-19,-32,110.4,90.9,101.3,75.3,61,89.2
 24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,37,20,31,140,46.7,-40,-55.7,-26.2,-34,104.5,88.1,58.2,62.7,46.3,69.7
-25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,49,29,38,201,67,-30.9,-44.1,-19.1,-43,100,117.6,108.8,69.1,55.9,98.5
+25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,49,29,37,201,67,-30.9,-45.6,-21.3,-45,100,117.6,108.8,69.1,54.4,98.5
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Sexual Assault,41,26,24,24,17,16,19,74,24.7,-41.5,-53.7,-20.8,-23,71.9,45.6,42.1,42.1,33.3,43.3
-15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,92,90,53,47,44,33,41,190,63.3,-48.9,-55.4,-12.8,-35,66.2,64.7,38.1,33.8,29.5,45.5
+15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Sexual Assault,92,90,53,47,44,34,42,190,63.3,-48.9,-54.3,-10.6,-34,66.2,64.7,38.1,33.8,30.2,45.5
 77,0,Philadelphia airport,Sexual Assault,0,0,0,0,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 05,43000,"Andorra, Roxborough and Manayunk",Sexual Assault,10,10,10,13,7,3,3,33,11,30,-70,-76.9,-73,23.3,23.3,23.3,30.2,7,25.6
 06,46000,"Center City East, Chinatown, Poplar and Society Hill",Sexual Assault,31,21,27,19,22,4,9,67,22.3,-38.7,-71,-52.6,-60,67.4,45.7,58.7,41.3,19.6,48.5
@@ -20,5 +20,5 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Sexual Assault,44,27,23,8,9,10,13,58,19.3,-81.8,-70.5,62.5,-33,45.4,27.8,23.7,8.2,13.4,19.9
 09,66000,"Center City West, Logan Circle and North Philadelphia",Sexual Assault,23,20,21,17,14,23,24,58,19.3,-26.1,4.3,41.2,24,34.8,30.3,31.8,25.8,36.4,29.2
 12,72000,"Kingsessing, Eastwick and Elmwood",Sexual Assault,59,59,57,30,40,13,24,146,48.7,-49.2,-59.3,-20,-51,81.9,81.9,79.2,41.7,33.3,67.6
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,28,31,17,23,118,39.3,-46.2,-55.8,-17.9,-41,46.4,52.7,27.7,25,20.5,35.1
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Sexual Assault,52,59,31,28,31,18,24,118,39.3,-46.2,-53.8,-14.3,-39,46.4,52.7,27.7,25,21.4,35.1
 04,NA,NA,Sexual Assault,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
