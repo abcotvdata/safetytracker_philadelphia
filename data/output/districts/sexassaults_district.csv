@@ -1,13 +1,13 @@
 district,population,placename,category,total19,total20,total21,total22,total23,total24,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
 16,41000,"Powelton, Mantua and Parkside",Sexual Assault,42,25,27,16,24,10,15,68,22.7,-61.9,-64.3,-6.2,-34,102.4,61,65.9,39,36.6,55.4
 17,50000,South Philadelphia and Grays Ferry,Sexual Assault,20,10,19,14,9,2,4,43,14.3,-30,-80,-71.4,-72,40,20,38,28,8,28.6
-18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,31,30,16,25,122,40.7,-32.6,-45.7,-19.4,-39,57.5,56.2,57.5,38.8,31.2,50.9
+18,80000,University City and Cobbs Creek,Sexual Assault,46,45,46,31,30,16,24,122,40.7,-32.6,-47.8,-22.6,-41,57.5,56.2,57.5,38.8,30,50.9
 35,100000,Olney and Logan,Sexual Assault,75,63,49,41,38,33,42,153,51,-45.3,-44,2.4,-18,75,63,49,41,42,51
 39,61000,"East Falls, Tioga and Nicetown",Sexual Assault,63,42,58,38,47,27,43,138,46,-39.7,-31.7,13.2,-7,103.3,68.9,95.1,62.3,70.5,75.4
 01,37000,Girard Estates and Navy Yard,Sexual Assault,18,9,4,6,6,7,8,19,6.3,-66.7,-55.6,33.3,27,48.6,24.3,10.8,16.2,21.6,17
 02,115000,Oxford Circle and Lawncrest,Sexual Assault,57,53,31,42,25,19,27,126,42,-26.3,-52.6,-35.7,-36,49.6,46.1,27,36.5,23.5,36.5
 03,93000,"Whitman, Stadium District and Lower Moyamensing",Sexual Assault,30,18,32,29,12,12,18,79,26.3,-3.3,-40,-37.9,-32,32.3,19.4,34.4,31.2,19.4,28.3
-19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,32,39,126,42,-49.3,-45.1,8.3,-7,82.6,53.5,51.2,41.9,45.3,48.8
+19,86000,"Overbrook, Wynnefield and Overbrook Park",Sexual Assault,71,46,44,36,34,33,40,126,42,-49.3,-43.7,11.1,-5,82.6,53.5,51.2,41.9,46.5,48.8
 22,77000,Strawberry Mansion and Stanton,Sexual Assault,85,70,78,58,43,38,47,206,68.7,-31.8,-44.7,-19,-32,110.4,90.9,101.3,75.3,61,89.2
 24,67000,Richmond and Port Richmond,Sexual Assault,70,59,39,42,37,20,31,140,46.7,-40,-55.7,-26.2,-34,104.5,88.1,58.2,62.7,46.3,69.7
 25,68000,Kensington and Harrowgate,Sexual Assault,68,80,74,47,49,29,37,201,67,-30.9,-45.6,-21.3,-45,100,117.6,108.8,69.1,54.4,98.5
