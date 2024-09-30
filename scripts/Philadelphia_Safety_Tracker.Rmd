@@ -220,11 +220,9 @@ Per 100,000 people</p>
 <br>
 Homicides over the last 12 months are trending <h8>`r ifelse(murders_city$inc_22tolast12>=0," up"," down")` `r ifelse(murders_city$inc_22tolast12>=0,murders_city$inc_22tolast12,substring(murders_city$inc_22tolast12,2))`%</h8> compared to 2022, according to the latest data available from the Philadelphia Police Department.
 
-However, the murder rate over the last 12 months is<h8>`r ifelse(murders_city$inc_prior3yearavgtolast12>=0," up"," down")` `r ifelse(murders_city$inc_prior3yearavgtolast12>=0,murders_city$inc_prior3yearavgtolast12,substring(murders_city$inc_prior3yearavgtolast12,2))`%</h8> compared to the annual average over the last three years, and the frequency of killings remains higher than it was before the pandemic.
+The murder rate over the last 12 months is<h8>`r ifelse(murders_city$inc_prior3yearavgtolast12>=0," up"," down")` `r ifelse(murders_city$inc_prior3yearavgtolast12>=0,murders_city$inc_prior3yearavgtolast12,substring(murders_city$inc_prior3yearavgtolast12,2))`%</h8> compared to the annual average over the last three years.
 
-The city averaged <h8>`r round(murders_city$last12mos/52,0)`</h8> homicides a week over the last 12 months. In 2019, that number was <h8>`r round(murders_city$total19/52,0)`</h8> a week.
-
-Almost all of Philadelphia’s homicides are gun-related: Shootings made up 89% of Philly’s homicides last year and 91% of homicides so far this year. To learn more about who is most affected by gun violence in Philly, as well as solutions pioneered in your backyard, visit  [6abc.com/gunviolence](https://6abc.com/gunviolence/). There you’ll find in-depth analyses and interactive charts and maps displaying the latest trends, as well as stories from individuals affected by gun violence and comments from experts and public officials.
+The frequency of killings remains higher than it was before the pandemic. The city averaged <h8>`r round(murders_city$last12mos/52,0)`</h8> homicides a week over the last 12 months. In 2019, that number was <h8>`r round(murders_city$total19/52,0)`</h8> a week.
 
 One way to think about the danger: three years ago, the murder rate was <h8>`r murders_city$rate19`</h8> per 100,000 residents. That's more than twice the likelihood of dying in a vehicle crash in Pennsylvania.
 
