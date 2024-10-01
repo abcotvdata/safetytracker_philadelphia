@@ -241,11 +241,11 @@ burglarybins1 <- c(0,
                 750,
                 1000)
 burglarybins2 <- c(0,
-                   100,
-                200,
+                150,
                 300,
-                400,
-                600)
+                450,
+                600,
+                750)
 burglarypal1 <- colorBin(c("#aecfe6",
                              "#2787d6",
                              "#0058f6",
