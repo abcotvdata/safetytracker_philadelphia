@@ -234,10 +234,10 @@ Click on any neighborhood on the map to see detailed numbers, rates and trends. 
 
 # Set bins for numbers of crimes for autothefts map
 autotheftbins1 <- c(0,
-                1000,
+                600,
+                900,
                 1200,
-                1400,
-                1600,
+                1500,
                 1800)
 autotheftbins2 <- c(0,
                 250,
@@ -288,7 +288,7 @@ prettyNum(round(autothefts_district$rate19,0),big.mark =","),
 			<tr>
 				<td>2020</td>
 				<td>",
-autothefts_district$total20,
+prettyNum(autothefts_district$total20,big.mark=","),
 "</td>
 				<td>",
 prettyNum(round(autothefts_district$rate20,0),big.mark =","),
@@ -297,7 +297,7 @@ prettyNum(round(autothefts_district$rate20,0),big.mark =","),
 						<tr>
 				<td>2021</td>
 				<td>",
-autothefts_district$total21,
+prettyNum(autothefts_district$total21,big.mark=","),
 "</td>
 				<td>",
 prettyNum(round(autothefts_district$rate21,0),big.mark =","),
@@ -306,7 +306,7 @@ prettyNum(round(autothefts_district$rate21,0),big.mark =","),
 									<tr>
 				<td>2022</td>
 				<td>",
-autothefts_district$total22,
+prettyNum(autothefts_district$total22,big.mark =","),
 "</td>
 				<td>",
 prettyNum(round(autothefts_district$rate22,0),big.mark =","),
@@ -315,7 +315,7 @@ prettyNum(round(autothefts_district$rate22,0),big.mark =","),
 						<tr>
 				<td>Last 12 months</td>
 				<td>",
-autothefts_district$last12mos,
+prettyNum(autothefts_district$last12mos,big.mark =","),
 "</td>
 				<td>",
 prettyNum(round(autothefts_district$rate_last12,0),big.mark =","),
@@ -324,7 +324,7 @@ prettyNum(round(autothefts_district$rate_last12,0),big.mark =","),
 						<tr>
 				<td>3-year Average</td>
 				<td>",
-round(autothefts_district$avg_prior3years,0),
+prettyNum(round(autothefts_district$avg_prior3years,0),big.mark =","),
 "</td>
 				<td>",
 prettyNum(round(autothefts_district$rate_prior3years,0),big.mark =","),
