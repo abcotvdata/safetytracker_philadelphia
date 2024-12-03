@@ -67,9 +67,10 @@ Aggravated Assault,2024-05-01,745,686
 Aggravated Assault,2024-06-01,752,724
 Aggravated Assault,2024-07-01,835,777
 Aggravated Assault,2024-08-01,777,788
-Aggravated Assault,2024-09-01,786,799
-Aggravated Assault,2024-10-01,1397,987
-Aggravated Assault,2024-11-01,1317,1167
+Aggravated Assault,2024-09-01,767,793
+Aggravated Assault,2024-10-01,1394,979
+Aggravated Assault,2024-11-01,1333,1165
+Aggravated Assault,2024-12-01,21,916
 Burglary,2019-01-01,533,NA
 Burglary,2019-02-01,431,NA
 Burglary,2019-03-01,394,453
@@ -138,9 +139,10 @@ Burglary,2024-05-01,448,430
 Burglary,2024-06-01,394,425
 Burglary,2024-07-01,418,420
 Burglary,2024-08-01,424,412
-Burglary,2024-09-01,489,444
-Burglary,2024-10-01,914,609
-Burglary,2024-11-01,757,720
+Burglary,2024-09-01,472,438
+Burglary,2024-10-01,912,603
+Burglary,2024-11-01,766,717
+Burglary,2024-12-01,11,563
 Motor Vehicle Theft,2019-01-01,171,NA
 Motor Vehicle Theft,2019-02-01,105,NA
 Motor Vehicle Theft,2019-03-01,129,135
@@ -209,9 +211,10 @@ Motor Vehicle Theft,2024-05-01,1252,1133
 Motor Vehicle Theft,2024-06-01,1328,1226
 Motor Vehicle Theft,2024-07-01,1365,1315
 Motor Vehicle Theft,2024-08-01,1417,1370
-Motor Vehicle Theft,2024-09-01,1278,1353
-Motor Vehicle Theft,2024-10-01,2656,1784
-Motor Vehicle Theft,2024-11-01,2511,2148
+Motor Vehicle Theft,2024-09-01,1246,1343
+Motor Vehicle Theft,2024-10-01,2654,1772
+Motor Vehicle Theft,2024-11-01,2559,2153
+Motor Vehicle Theft,2024-12-01,39,1751
 Murder,2019-01-01,26,NA
 Murder,2019-02-01,21,NA
 Murder,2019-03-01,32,26
@@ -351,9 +354,10 @@ Other,2024-05-01,6729,6307
 Other,2024-06-01,6579,6509
 Other,2024-07-01,7201,6836
 Other,2024-08-01,6777,6852
-Other,2024-09-01,6896,6958
-Other,2024-10-01,12770,8814
-Other,2024-11-01,11262,10309
+Other,2024-09-01,6702,6893
+Other,2024-10-01,12749,8743
+Other,2024-11-01,11429,10293
+Other,2024-12-01,122,8100
 Robbery,2019-01-01,412,NA
 Robbery,2019-02-01,369,NA
 Robbery,2019-03-01,428,403
@@ -422,9 +426,10 @@ Robbery,2024-05-01,347,325
 Robbery,2024-06-01,340,340
 Robbery,2024-07-01,415,367
 Robbery,2024-08-01,400,385
-Robbery,2024-09-01,428,414
-Robbery,2024-10-01,766,531
-Robbery,2024-11-01,687,627
+Robbery,2024-09-01,414,410
+Robbery,2024-10-01,764,526
+Robbery,2024-11-01,702,627
+Robbery,2024-12-01,13,493
 Sexual Assault,2019-01-01,86,NA
 Sexual Assault,2019-02-01,64,NA
 Sexual Assault,2019-03-01,102,84
@@ -493,9 +498,9 @@ Sexual Assault,2024-05-01,50,49
 Sexual Assault,2024-06-01,30,44
 Sexual Assault,2024-07-01,51,44
 Sexual Assault,2024-08-01,41,41
-Sexual Assault,2024-09-01,52,48
+Sexual Assault,2024-09-01,50,47
 Sexual Assault,2024-10-01,103,65
-Sexual Assault,2024-11-01,89,81
+Sexual Assault,2024-11-01,92,82
 Theft,2019-01-01,2780,NA
 Theft,2019-02-01,2656,NA
 Theft,2019-03-01,2720,2719
@@ -564,6 +569,7 @@ Theft,2024-05-01,4809,4316
 Theft,2024-06-01,4755,4592
 Theft,2024-07-01,4770,4778
 Theft,2024-08-01,4436,4654
-Theft,2024-09-01,4261,4489
-Theft,2024-10-01,9323,6007
-Theft,2024-11-01,8026,7203
+Theft,2024-09-01,4106,4437
+Theft,2024-10-01,9315,5952
+Theft,2024-11-01,8142,7188
+Theft,2024-12-01,112,5856
