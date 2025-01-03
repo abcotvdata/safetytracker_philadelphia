@@ -8,12 +8,12 @@ library(lubridate)
 past_philly_crime <- readRDS("data/source/annual/past_philly_crime.RDS")
 #past_philly_crime <- rbind(read_csv("data/source/annual/phillycrime19"), read_csv("data/source/annual/phillycrime20"), read_csv("data/source/annual/phillycrime21"), read_csv("data/source/annual/phillycrime22"))
 # download the latest data for the current year to date
-download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272023-01-01%27%20AND%20dispatch_date_time%20%3C%20%272025-01-01%27","data/source/recent/phillycrime24.csv")
+download.file("https://phl.carto.com/api/v2/sql?filename=incidents_part1_part2&format=csv&q=SELECT%20*%20,%20ST_Y(the_geom)%20AS%20lat,%20ST_X(the_geom)%20AS%20lng%20FROM%20incidents_part1_part2%20WHERE%20dispatch_date_time%20%3E=%20%272024-01-01%27%20AND%20dispatch_date_time%20%3C%20%272026-01-01%27","data/source/recent/phillycrime25.csv")
 # read in the latest data for the current year to date
-philly_crime24 <- read_csv("data/source/recent/phillycrime24.csv") %>% janitor::clean_names() %>% select(4:18)
+philly_crime24 <- read_csv("data/source/recent/phillycrime25.csv") %>% janitor::clean_names() %>% select(4:18)
 
 # Combine past years + recent year file into single df
-philly_crime <- rbind(past_philly_crime,philly_crime24)
+philly_crime <- rbind(past_philly_crime,philly_crime25)
 
 # Remove duplicate entries and standardize key column names
 philly_crime <- philly_crime %>% unique
@@ -75,7 +75,8 @@ citywide_detailed <- citywide_detailed %>%
          "total21" = "2021",
          "total22" = "2022",
          "total23" = "2023",
-         "total24" = "2024")
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 citywide_detailed_last12 <- philly_crime_last12 %>%
   group_by(category,description) %>%
@@ -85,7 +86,7 @@ citywide_detailed <- left_join(citywide_detailed,citywide_detailed_last12,by=c("
 citywide_detailed[is.na(citywide_detailed)] <- 0
 rm(citywide_detailed_last12)
 # Calculate a total across the 3 prior years
-citywide_detailed$total_prior3years <- citywide_detailed$total20+citywide_detailed$total21+citywide_detailed$total22
+citywide_detailed$total_prior3years <- citywide_detailed$total21+citywide_detailed$total22+citywide_detailed$total23
 citywide_detailed$avg_prior3years <- round(citywide_detailed$total_prior3years/3,1)
 # calculate increases
 citywide_detailed$inc_19to22 <- round(citywide_detailed$total22/citywide_detailed$total19*100-100,1)
@@ -97,6 +98,8 @@ citywide_detailed$rate19 <- round(citywide_detailed$total19/philly_population*10
 citywide_detailed$rate20 <- round(citywide_detailed$total20/philly_population*100000,1)
 citywide_detailed$rate21 <- round(citywide_detailed$total21/philly_population*100000,1)
 citywide_detailed$rate22 <- round(citywide_detailed$total22/philly_population*100000,1)
+citywide_detailed$rate23 <- round(citywide_detailed$total23/philly_population*100000,1)
+citywide_detailed$rate24 <- round(citywide_detailed$total24/philly_population*100000,1)
 citywide_detailed$rate_last12 <- round(citywide_detailed$last12mos/philly_population*100000,1)
 # calculate a multiyear rate
 citywide_detailed$rate_prior3years <- round(citywide_detailed$avg_prior3years/philly_population*100000,1)
@@ -139,7 +142,8 @@ citywide_category <- citywide_category %>%
          "total21" = "2021",
          "total22" = "2022",
          "total23" = "2023",
-         "total24" = "2024")
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 citywide_category_last12 <- philly_crime_last12 %>%
   group_by(category) %>%
@@ -148,7 +152,7 @@ citywide_category <- left_join(citywide_category,citywide_category_last12,by=c("
 # add zeros where there were no crimes tallied that year
 citywide_category[is.na(citywide_category)] <- 0
 # Calculate a total across the 3 prior years
-citywide_category$total_prior3years <- citywide_category$total20+citywide_category$total21+citywide_category$total22
+citywide_category$total_prior3years <- citywide_category$total21+citywide_category$total22+citywide_category$total23
 citywide_category$avg_prior3years <- round(citywide_category$total_prior3years/3,1)
 # calculate increases
 citywide_category$inc_19to22 <- round(citywide_category$total22/citywide_category$total19*100-100,1)
@@ -160,6 +164,8 @@ citywide_category$rate19 <- round(citywide_category$total19/philly_population*10
 citywide_category$rate20 <- round(citywide_category$total20/philly_population*100000,1)
 citywide_category$rate21 <- round(citywide_category$total21/philly_population*100000,1)
 citywide_category$rate22 <- round(citywide_category$total22/philly_population*100000,1)
+citywide_category$rate23 <- round(citywide_category$total23/philly_population*100000,1)
+citywide_category$rate24 <- round(citywide_category$total24/philly_population*100000,1)
 citywide_category$rate_last12 <- round(citywide_category$last12mos/philly_population*100000,1)
 # calculate a multiyear rate
 citywide_category$rate_prior3years <- round(citywide_category$avg_prior3years/philly_population*100000,1)
@@ -196,14 +202,15 @@ citywide_type <- citywide_type %>%
          "total21" = "2021",
          "total22" = "2022",
          "total23" = "2023",
-         "total24" = "2024")
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 citywide_type_last12 <- philly_crime_last12 %>%
   group_by(type) %>%
   summarise(last12mos = n())
 citywide_type <- left_join(citywide_type,citywide_type_last12,by=c("type"))
 # Calculate a total across the 3 prior years
-citywide_type$total_prior3years <- citywide_type$total20+citywide_type$total21+citywide_type$total22
+citywide_type$total_prior3years <- citywide_type$total21+citywide_type$total22+citywide_type$total23
 citywide_type$avg_prior3years <- round(citywide_type$total_prior3years/3,1)
 # add zeros where there were no crimes tallied that year
 citywide_type[is.na(citywide_type)] <- 0
@@ -217,6 +224,8 @@ citywide_type$rate19 <- round(citywide_type$total19/philly_population*100000,1)
 citywide_type$rate20 <- round(citywide_type$total20/philly_population*100000,1)
 citywide_type$rate21 <- round(citywide_type$total21/philly_population*100000,1)
 citywide_type$rate22 <- round(citywide_type$total22/philly_population*100000,1)
+citywide_type$rate23 <- round(citywide_type$total23/philly_population*100000,1)
+citywide_type$rate24 <- round(citywide_type$total24/philly_population*100000,1)
 citywide_type$rate_last12 <- round(citywide_type$last12mos/philly_population*100000,1)
 # calculate a multiyear rate
 citywide_type$rate_prior3years <- round(citywide_type$avg_prior3years/philly_population*100000,1)
@@ -245,7 +254,8 @@ district_detailed <- district_detailed %>%
          "total21" = "2021",
          "total22" = "2022",
          "total23" = "2023",
-         "total24" = "2024")
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 district_detailed_last12 <- philly_crime_last12 %>%
   group_by(district,category,description) %>%
@@ -255,7 +265,7 @@ rm(district_detailed_last12)
 # add zeros where there were no crimes tallied that year
 district_detailed[is.na(district_detailed)] <- 0
 # Calculate a total across the 3 prior years
-district_detailed$total_prior3years <- district_detailed$total20+district_detailed$total21+district_detailed$total22
+district_detailed$total_prior3years <- district_detailed$total21+district_detailed$total22+district_detailed$total23
 district_detailed$avg_prior3years <- round(district_detailed$total_prior3years/3,1)
 # calculate increases
 district_detailed$inc_19to22 <- round(district_detailed$total22/district_detailed$total19*100-100,1)
@@ -269,6 +279,8 @@ district_detailed$rate19 <- round(district_detailed$total19/district_detailed$po
 district_detailed$rate20 <- round(district_detailed$total20/district_detailed$population*100000,1)
 district_detailed$rate21 <- round(district_detailed$total21/district_detailed$population*100000,1)
 district_detailed$rate22 <- round(district_detailed$total22/district_detailed$population*100000,1)
+district_detailed$rate23 <- round(district_detailed$total23/district_detailed$population*100000,1)
+district_detailed$rate24 <- round(district_detailed$total24/district_detailed$population*100000,1)
 district_detailed$rate_last12 <- round(district_detailed$last12mos/district_detailed$population*100000,1)
 # calculate a multiyear rate
 district_detailed$rate_prior3years <- round(district_detailed$avg_prior3years/district_detailed$population*100000,1)
@@ -292,7 +304,8 @@ district_category <- district_category %>%
          "total21" = "2021",
          "total22" = "2022",
          "total23" = "2023",
-         "total24" = "2024")
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 district_category_last12 <- philly_crime_last12 %>%
   group_by(district,category) %>%
@@ -302,7 +315,7 @@ rm(district_category_last12)
 # add zeros where there were no crimes tallied that year
 district_category[is.na(district_category)] <- 0
 # Calculate a total across the 3 prior years
-district_category$total_prior3years <- district_category$total20+district_category$total21+district_category$total22
+district_category$total_prior3years <- district_category$total21+district_category$total22+district_category$total23
 district_category$avg_prior3years <- round(district_category$total_prior3years/3,1)
 # calculate increases
 district_category$inc_19to22 <- round(district_category$total22/district_category$total19*100-100,1)
@@ -316,6 +329,8 @@ district_category$rate19 <- round(district_category$total19/district_category$po
 district_category$rate20 <- round(district_category$total20/district_category$population*100000,1)
 district_category$rate21 <- round(district_category$total21/district_category$population*100000,1)
 district_category$rate22 <- round(district_category$total22/district_category$population*100000,1)
+district_category$rate23 <- round(district_category$total23/district_category$population*100000,1)
+district_category$rate24 <- round(district_category$total24/district_category$population*100000,1)
 district_category$rate_last12 <- round(district_category$last12mos/district_category$population*100000,1)
 # calculate a multiyear rate
 district_category$rate_prior3years <- round(district_category$avg_prior3years/district_category$population*100000,1)
@@ -339,7 +354,8 @@ district_type <- district_type %>%
          "total21" = "2021",
          "total22" = "2022",
          "total23" = "2023",
-         "total24" = "2024")
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 district_type_last12 <- philly_crime_last12 %>%
   group_by(district,type) %>%
@@ -349,7 +365,7 @@ rm(district_type_last12)
 # add zeros where there were no crimes tallied that year
 district_type[is.na(district_type)] <- 0
 # Calculate a total across the 3 prior years
-district_type$total_prior3years <- district_type$total20+district_type$total21+district_type$total22
+district_type$total_prior3years <- district_type$total21+district_type$total22+district_type$total23
 district_type$avg_prior3years <- round(district_type$total_prior3years/3,1)
 # calculate increases
 district_type$inc_19to22 <- round(district_type$total22/district_type$total19*100-100,1)
@@ -363,6 +379,8 @@ district_type$rate19 <- round(district_type$total19/district_type$population*100
 district_type$rate20 <- round(district_type$total20/district_type$population*100000,1)
 district_type$rate21 <- round(district_type$total21/district_type$population*100000,1)
 district_type$rate22 <- round(district_type$total22/district_type$population*100000,1)
+district_type$rate23 <- round(district_type$total23/district_type$population*100000,1)
+district_type$rate24 <- round(district_type$total24/district_type$population*100000,1)
 district_type$rate_last12 <- round(district_type$last12mos/district_type$population*100000,1)
 # calculate a multiyear rate
 district_type$rate_prior3years <- round(district_type$avg_prior3years/district_type$population*100000,1)
