@@ -10,7 +10,7 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 19,86000,"Overbrook, Wynnefield and Overbrook Park",Aggravated Assault,584,721,654,568,639,630,627,1943,647.7,-2.7,7.4,10.4,-3,679.1,838.4,760.5,660.5,729.1,753.1
 22,77000,Strawberry Mansion and Stanton,Aggravated Assault,712,823,834,746,738,744,742,2403,801,4.8,4.2,-0.5,-7,924.7,1068.8,1083.1,968.8,963.6,1040.3
 24,67000,Richmond and Port Richmond,Aggravated Assault,682,837,732,668,583,572,568,2237,745.7,-2.1,-16.7,-15,-24,1017.9,1249.3,1092.5,997,847.8,1113
-25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,784,806,773,773,2510,836.7,6.4,4.9,-1.4,-8,1083.8,1330.9,1207.4,1152.9,1136.8,1230.4
+25,68000,Kensington and Harrowgate,Aggravated Assault,737,905,821,784,806,774,774,2510,836.7,6.4,5,-1.3,-7,1083.8,1330.9,1207.4,1152.9,1138.2,1230.4
 26,57000,"Fishtown, Olde Kensington, East Kensington and West Kensington",Aggravated Assault,268,307,323,302,292,288,287,932,310.7,12.7,7.1,-5,-8,470.2,538.6,566.7,529.8,503.5,545.1
 15,139000,"Bridesburg, Frankford, Northwood and Wissimoming",Aggravated Assault,625,651,655,639,589,714,709,1945,648.3,2.2,13.4,11,9,449.6,468.3,471.2,459.7,510.1,466.4
 77,0,Philadelphia airport,Aggravated Assault,7,8,2,4,3,9,8,14,4.7,-42.9,14.3,100,70,NA,NA,NA,NA,NA,NA
@@ -20,5 +20,5 @@ district,population,placename,category,total19,total20,total21,total22,total23,t
 08,97000,"Parkwood Manor, Byberry, Morrell Park and Millbrook",Aggravated Assault,155,212,233,233,286,241,241,678,226,50.3,55.5,3.4,7,159.8,218.6,240.2,240.2,248.5,233
 09,66000,"Center City West, Logan Circle and North Philadelphia",Aggravated Assault,184,156,200,198,182,422,421,554,184.7,7.6,128.8,112.6,128,278.8,236.4,303,300,637.9,279.8
 12,72000,"Kingsessing, Eastwick and Elmwood",Aggravated Assault,535,734,558,481,561,551,549,1773,591,-10.1,2.6,14.1,-7,743.1,1019.4,775,668.1,762.5,820.8
-14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,447,401,406,404,1434,478,8.8,-1.7,-9.6,-15,367,469.6,411.6,399.1,360.7,426.8
+14,112000,"Germantown, Mt. Airy and Chestnut Hill",Aggravated Assault,411,526,461,447,401,408,406,1434,478,8.8,-1.2,-9.2,-15,367,469.6,411.6,399.1,362.5,426.8
 04,NA,NA,Aggravated Assault,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
